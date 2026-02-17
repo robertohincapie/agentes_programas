@@ -107,7 +107,7 @@ def nodo_analizar_matriculas_vs_estudiantes(
     return {
         "analisis_dispersión_matricula_vs_estudiantes": respuesta
     }
-"""
+
 def nodo_analizar_matriculas_vs_tiempo(
     state: AgentState
 ) -> Dict[str, Any]:
@@ -138,9 +138,9 @@ def nodo_analizar_matriculas_vs_tiempo(
             
         )
     )
-    if('analisis_valor_matricula_tiempo' in data.keys()):
+    if(len(state.analisis_valor_matricula_tiempo)>10):
         print('Los datos ya se encontraban analizados. Se lee el análisis previo')
-        respuesta=data['analisis_valor_matricula_tiempo']
+        respuesta=state.analisis_valor_matricula_tiempo
     else:
         respuesta = llm.invoke([sistema, usuario]).content
         print('Se cargó el análisis desde el LLM')
@@ -151,13 +151,9 @@ def nodo_analizar_matriculas_vs_tiempo(
 
 
 def nodo_analizar_programas_por_departamento_municipio(
-    state: SNIESState
-) -> SNIESState:
+    state: AgentState) -> Dict[str, Any]:
     print('\nAgente: análisis de número de programas por departamento y municipio')
-    folder=state['folder']
-    with open(f"./{folder}/estado.json", "r", encoding="utf-8") as f:
-        data = json.load(f)
-    registros = state["snies"]["programas_por_departamento_municipio"]
+    registros = state.snies["programas_por_departamento_municipio"]
     # Los pasamos a JSON “bonito” para que el LLM lo lea bien
     datos_json_str = json.dumps(registros, ensure_ascii=False, indent=2)
 
@@ -184,9 +180,9 @@ def nodo_analizar_programas_por_departamento_municipio(
             
         )
     )
-    if("analisis_programas_municipios" in data.keys()):
+    if(len(state.analisis_programas_municipios)>10):
         print('Ya se cuenta con una respuesta previa. No se hace consulta al LLM')
-        respuesta=data['analisis_programas_municipios']
+        respuesta=state.analisis_programas_municipios
     else:
         respuesta = llm.invoke([sistema, usuario]).content
         print('Se consulta al LLM')
@@ -196,13 +192,9 @@ def nodo_analizar_programas_por_departamento_municipio(
     }
 
 def nodo_analizar_num_estudiantes_tiempo(
-    state: SNIESState
-) -> SNIESState:
+    state: AgentState) -> Dict[str, Any]:
     print('\nAgente: análisis de número de estudiantes en el tiempo en los programas')
-    folder=state['folder']
-    with open(f"./{folder}/estado.json", "r", encoding="utf-8") as f:
-        data = json.load(f)
-    datos_plot = state["snies"]["num_estudiantes_tiempo"]
+    datos_plot = state.snies["num_estudiantes_tiempo"]
     # Los pasamos a JSON “bonito” para que el LLM lo lea bien
     datos_json_str = json.dumps(datos_plot, ensure_ascii=False, indent=2)
 
@@ -232,9 +224,9 @@ def nodo_analizar_num_estudiantes_tiempo(
             
         )
     )
-    if('analisis_numero_de_estudiantes'  in data.keys()):
+    if(len(state.analisis_numero_de_estudiantes)>10):
         print('Ya los datos se habían calculado previamente')
-        respuesta=data['analisis_numero_de_estudiantes']
+        respuesta=state.analisis_numero_de_estudiantes
     else:
         respuesta = llm.invoke([sistema, usuario]).content
         print('El análisis se procesa desde el LLM')
@@ -243,6 +235,3 @@ def nodo_analizar_num_estudiantes_tiempo(
         "analisis_numero_de_estudiantes": respuesta
     }
 
-
-
-"""    
