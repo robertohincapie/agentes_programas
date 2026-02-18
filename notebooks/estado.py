@@ -23,6 +23,8 @@ class programa_nacional(BaseModel):
     Descripcion: Optional[str]
     Perfil: Optional[str]
     Plan_de_estudios: Optional[List[str]] = Field(default_factory=list)
+    iteraciones: int = 0
+    queries: Optional[List[str]] = Field(default_factory=list, description="Consultas de búsqueda enfocadas en reviews confiables.")
 
 class AgentState(BaseModel):
     nombre: str
@@ -36,4 +38,4 @@ class AgentState(BaseModel):
     analisis_programas_municipios: Optional[str] = ""
     analisis_numero_de_estudiantes: Optional[str] = ""
     informacion_programas_nacionales: Optional[List[programa_nacional]] = None
-
+    target_index: Optional[int] = None #Campo que determina el programa que se está analizando en el nodo de búsqueda web

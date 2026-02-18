@@ -489,6 +489,7 @@ def lector_snies(state) -> dict:
                 Descripcion="",
                 Perfil="",
                 Plan_de_estudios=[],
+                iteraciones=0   #Significa que apenas estamos creando. Falta buscar la información detallada del programa y cargarla en este campo para que el agente de búsqueda de información pueda usarla como referencia para encontrar la información correcta.
             )
         )
 
