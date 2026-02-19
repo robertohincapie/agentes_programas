@@ -1,6 +1,6 @@
 {
-    "nombre": "Ingeniería Materiales Nanotecnología",
-    "nivel": "especialización",
+    "nombre": "Ingeniería Materiales Nanotecnologia",
+    "nivel": "pregrado",
     "descripcion": "Programa de ingeniería enfocado en materiales a escala nanométrica.",
     "requerido": [
         "nano",
@@ -2105,15 +2105,15 @@
             }
         }
     },
-    "analisis_num_programas_instituciones_tiempo": "",
-    "analisis_dispersión_matricula_vs_estudiantes": "",
-    "analisis_valor_matricula_tiempo": "",
-    "analisis_programas_municipios": "",
-    "analisis_numero_de_estudiantes": "",
+    "analisis_num_programas_instituciones_tiempo": "1. Predominancia de instituciones: A lo largo del tiempo, predominan claramente las instituciones del sector privado. Desde 2000 hasta aproximadamente 2006, el número de instituciones privadas se mantiene en 5, mientras que las oficiales son 2. A partir de 2007, las instituciones privadas aumentan a 7 y luego, desde 2014, comienzan a disminuir hasta estabilizarse en 3 desde 2022. Las instituciones oficiales se mantienen en 2 hasta 2020, y a partir de 2021 aumentan a 3. En general, el sector privado siempre tiene igual o mayor número de instituciones que el oficial.\n\n2. Predominancia de programas: La situación es similar a la de las instituciones. Los programas privados predominan en cantidad durante la mayor parte del periodo, con 5 programas al inicio, aumentando a 7 desde 2007 hasta 2013, y luego disminuyendo a 3 desde 2022. Los programas oficiales se mantienen constantes en 2 hasta 2020 y aumentan a 3 desde 2021. Por lo tanto, los programas privados predominan en número, aunque la diferencia se reduce en los últimos años.\n\n3. Tendencias claras:\n- El sector privado muestra un crecimiento en número de instituciones y programas desde 2000 hasta 2007, alcanzando un pico de 7, seguido de una disminución gradual desde 2014 hasta estabilizarse en 3 desde 2022.\n- El sector oficial mantiene números constantes (2 instituciones y programas) hasta 2020, y a partir de 2021 hay un ligero aumento a 3.\n- No hay cambios bruscos, sino una tendencia de crecimiento y luego reducción en el sector privado, y estabilidad con leve aumento en el sector oficial.\n- En general, se observa un equilibrio más cercano entre ambos sectores en los últimos años, con ambos sectores teniendo 3 instituciones y programas desde 2022.",
+    "analisis_dispersion_matricula_vs_estudiantes": "Analizando los datos proporcionados para los programas de Ingeniería Materiales y Nanotecnología en diferentes instituciones educativas, se realiza el siguiente análisis:\n\n### 1. Tendencia en precio (matrícula) entre universidades privadas y oficiales\n\n- **Universidades Privadas:**\n  - Fundación Universitaria Monserrate: 5,850,646 COP\n  - Universidad Medellín: 7,613,800 COP\n  - Universidad Pontificia Bolivariana: 11,490,744 COP\n  - Promedio matrícula privada = (5,850,646 + 7,613,800 + 11,490,744) / 3 = 8,318,396.67 COP\n\n- **Universidades Oficiales:**\n  - Universidad Antioquia: 466,327 COP\n  - Universidad Valle: 643,997 COP\n  - Promedio matrícula oficial = (466,327 + 643,997) / 2 = 555,162 COP\n\n**Conclusión:** Las universidades privadas tienen un precio promedio de matrícula significativamente más alto (aproximadamente 8.3 millones COP) en comparación con las universidades oficiales (aproximadamente 555 mil COP). Esto indica una clara tendencia de precios más altos en el sector privado.\n\n---\n\n### 2. Tendencia en cantidad de estudiantes entre universidades privadas y oficiales\n\n- **Universidades Privadas:**\n  - Fundación Universitaria Monserrate: 1.62 estudiantes promedio\n  - Universidad Medellín: 1.25 estudiantes promedio\n  - Universidad Pontificia Bolivariana: 70.88 estudiantes promedio\n  - Promedio estudiantes privada = (1.62 + 1.25 + 70.88) / 3 = 24.58 estudiantes\n\n- **Universidades Oficiales:**\n  - Universidad Antioquia: 169.86 estudiantes promedio\n  - Universidad Valle: 154.94 estudiantes promedio\n  - Promedio estudiantes oficial = (169.86 + 154.94) / 2 = 162.4 estudiantes\n\n**Conclusión:** Las universidades oficiales tienen un número promedio de estudiantes mucho mayor (162.4) que las privadas (24.58). Esto muestra una tendencia clara de mayor matrícula estudiantil en programas oficiales.\n\n---\n\n### 3. Correlación entre precio y número de estudiantes\n\nObservando los datos:\n\n| Institución                          | Precio (COP) | Estudiantes promedio |\n|------------------------------------|--------------|---------------------|\n| Fundación Universitaria Monserrate | 5,850,646    | 1.62                |\n| Universidad Medellín                | 7,613,800    | 1.25                |\n| Universidad Pontificia Bolivariana | 11,490,744   | 70.88               |\n| Universidad Antioquia               | 466,327      | 169.86              |\n| Universidad Valle                  | 643,997      | 154.94              |\n\n- En general, las universidades oficiales tienen precios bajos y muchos estudiantes.\n- Las privadas tienen precios altos y pocos estudiantes, excepto la Universidad Pontificia Bolivariana que tiene un precio alto y un número relativamente alto de estudiantes (70.88).\n- La relación no es lineal ni estrictamente inversa. La Universidad Pontificia Bolivariana rompe la tendencia de \"precio alto = pocos estudiantes\".\n\n**Análisis estadístico rápido (Pearson):**\n\n- Precio y estudiantes parecen tener una correlación negativa si se excluye la Universidad Pontificia Bolivariana.\n- Incluyendo todos los datos, la correlación es débil debido a la excepción.\n\n**Conclusión:** No hay una correlación clara y fuerte entre precio y número de estudiantes en estos datos. El precio no parece ser el único factor que determina la cantidad de estudiantes matriculados.\n\n---\n\n### 4. Análisis de oportunidad para un programa en universidad privada\n\n- Las universidades privadas tienen precios mucho más altos y generalmente menos estudiantes.\n- La excepción es la Universidad Pontificia Bolivariana, que tiene un precio alto pero también un número considerable de estudiantes (70.88), lo que indica que es posible atraer estudiantes con precios altos si el programa tiene características diferenciadoras (reputación, calidad, infraestructura, etc.).\n- Los programas oficiales tienen precios bajos y alta matrícula, lo que sugiere que la accesibilidad económica es un factor importante para atraer estudiantes.\n- Para una universidad privada, la oportunidad está en:\n  - Justificar un precio alto con valor agregado (calidad, innovación, infraestructura).\n  - Buscar nichos o especializaciones (como Nanotecnología) que puedan atraer estudiantes dispuestos a pagar más.\n  - Considerar estrategias para aumentar la matrícula sin reducir significativamente el precio, aprendiendo del caso de la Universidad Pontificia Bolivariana.\n\n---\n\n### Resumen final\n\n| Aspecto                         | Observación clave                                      |\n|--------------------------------|-------------------------------------------------------|\n| Precio privado vs oficial       | Privado mucho más caro (8.3M vs 0.55M COP)             |\n| Estudiantes privado vs oficial  | Oficiales tienen muchos más estudiantes (162 vs 25)    |\n| Correlación precio-estudiantes | No hay correlación clara; precio no es único factor    |\n| Oportunidad para privado        | Precio alto viable con valor agregado y especialización |\n\nSi la universidad privada quiere crecer en matrícula, debe enfocarse en ofrecer un programa diferenciado y justificar el precio alto, o bien ajustar su precio para ser más competitivo, dependiendo de su estrategia y mercado objetivo.",
+    "analisis_valor_matricula_tiempo": "Analizando los datos proporcionados, procedo a responder cada punto solicitado con un enfoque estadístico y analítico:\n\n---\n\n### 1. Tendencia en los valores de las matrículas respecto al tiempo\n\nPara cada institución y programa, se observa la evolución del valor de matrícula (en millones) desde el periodo 2021-1 hasta 2024-2.\n\n- **Fundación Universitaria Monserrate (Privado):**  \n  La matrícula muestra un aumento constante desde 4.47 millones en 2021-1 hasta 5.85 millones en 2024-1, con un valor 0 en 2024-2 (posiblemente dato faltante o no reportado). La tendencia general es creciente.\n\n- **Universidad Antioquia (Oficial):**  \n  La matrícula fluctúa con valores bajos (alrededor de 0.4 millones), con un valor 0 en 2022-2, pero en general se mantiene estable con ligera recuperación hacia 2024 (0.466 millones). La tendencia es relativamente estable con pequeñas variaciones.\n\n- **Universidad Medellín (Privado):**  \n  La matrícula inicia en 5.97 millones, baja en 2022 a 4.98 millones, y luego sube hasta 7.61 millones en 2024-1, con un valor 0 en 2024-2. La tendencia general es creciente, aunque con una caída temporal.\n\n- **Universidad Pontificia Bolivariana (Privado):**  \n  La matrícula inicia en 9.09 millones y crece hasta 10.95 millones en 2023, con una caída a 7.61 millones en 2024-1 y un repunte a 11.49 millones en 2024-2. La tendencia es creciente con fluctuaciones.\n\n- **Universidad del Valle (Oficial):**  \n  La matrícula comienza en 0.41 millones, baja a 0.31 millones en 2022, y luego sube a 0.64 millones en 2024, mostrando una recuperación. La tendencia es estable con ligera recuperación.\n\n**Conclusión:**  \nEn general, las matrículas tienden a aumentar con el tiempo, especialmente en universidades privadas, aunque con algunas fluctuaciones. Las universidades oficiales muestran valores más bajos y una tendencia más estable o con ligeras variaciones.\n\n---\n\n### 2. Tendencia entre universidades privadas y oficiales respecto a la evolución de la matrícula\n\n- **Universidades Privadas:**  \n  - Valores de matrícula más altos (rango aproximado 4.5 a 11.5 millones).  \n  - Tendencia general creciente en los valores de matrícula.  \n  - Algunas fluctuaciones, pero con recuperación y crecimiento hacia 2024.\n\n- **Universidades Oficiales:**  \n  - Valores de matrícula significativamente más bajos (rango aproximado 0.3 a 0.6 millones).  \n  - Tendencia más estable o con ligeras variaciones, sin incrementos significativos.  \n  - Algunos periodos con valor 0, posiblemente por falta de datos o cambios en reporte.\n\n**Comparación:**  \nLas universidades privadas tienen matrículas más altas y muestran una tendencia clara de aumento en el valor de matrícula. Las universidades oficiales mantienen valores bajos y estables, con poca o ninguna tendencia de crecimiento.\n\n---\n\n### 3. Análisis de oportunidad para el programa en una universidad privada\n\n- **Demanda y Valor de Matrícula:**  \n  Los programas privados en Ingeniería de Materiales y Nanotecnología muestran un aumento sostenido en el valor de matrícula, lo que puede reflejar una mayor demanda o capacidad de pago.\n\n- **Competencia:**  \n  La Universidad Pontificia Bolivariana tiene la matrícula más alta y creciente en Ingeniería Nanotecnología, lo que indica un mercado activo y competitivo. La Fundación Universitaria Monserrate y Universidad Medellín también muestran crecimiento, pero con valores menores.\n\n- **Potencial de Crecimiento:**  \n  La tendencia creciente en matrículas privadas sugiere que hay espacio para nuevos programas o expansión, especialmente si se ofrece valor diferencial (calidad, innovación, infraestructura).\n\n- **Riesgos:**  \n  Fluctuaciones en algunos periodos y valores 0 en 2024-2 para algunas instituciones indican posibles riesgos en la estabilidad o reporte de datos.\n\n**Recomendación:**  \nAbrir o fortalecer un programa de Ingeniería de Materiales o Nanotecnología en una universidad privada parece una oportunidad viable, dado el crecimiento sostenido en matrícula y la capacidad de pago del sector privado. Se recomienda realizar un estudio de mercado más detallado para identificar nichos específicos y diferenciar la oferta académica.\n\n---\n\nSi deseas, puedo ayudarte a realizar análisis estadísticos más detallados o visualizaciones para apoyar estas conclusiones. ¿Quieres que proceda con eso?",
+    "analisis_programas_municipios": "Con base en los datos proporcionados, realizo el siguiente análisis:\n\n### 1. Relación entre la cantidad de programas y las vocaciones económicas de las regiones\n\n- **Antioquia (Medellín):** Tiene 4 programas académicos. Medellín es un centro industrial y tecnológico importante en Colombia, con vocación en sectores como la manufactura, tecnología, servicios y comercio. La mayor cantidad de programas puede estar relacionada con la diversidad y dinamismo económico de la región, que demanda formación en múltiples áreas.\n\n- **Atlántico (Barranquilla):** Tiene 1 programa. Barranquilla es un puerto importante y centro industrial y comercial, con vocación en logística, comercio y manufactura. La cantidad menor de programas puede indicar una oferta educativa más limitada o especializada.\n\n- **Bogotá, D.C.:** Tiene 1 programa. Bogotá es la capital y centro político, económico y cultural del país, con vocación en servicios, administración pública, finanzas y educación. La cantidad baja de programas en los datos puede deberse a la muestra limitada, ya que en la realidad Bogotá tiene una oferta educativa muy amplia.\n\n- **Valle del Cauca (Santiago de Cali):** Tiene 1 programa. Cali es un centro industrial y agrícola, con vocación en agroindustria, comercio y servicios. La cantidad de programas es baja en los datos, pero puede reflejar una oferta educativa más focalizada.\n\n**Conclusión:** La cantidad de programas parece estar relacionada con la vocación económica y el tamaño de la ciudad. Medellín, con una economía diversificada y dinámica, tiene más programas, mientras que las otras ciudades con vocaciones específicas tienen menos programas en esta muestra.\n\n### 2. Oportunidad de abrir un programa en Medellín\n\n- Medellín tiene la mayor cantidad de programas (4) en comparación con las otras ciudades en los datos.\n- Esto indica una oferta educativa relativamente alta, lo que puede significar una competencia fuerte.\n- Sin embargo, la demanda también puede ser alta debido a la población y la economía dinámica.\n- La apertura de un nuevo programa en Medellín podría tener buena oportunidad si se diferencia en contenido, calidad o enfoque, atendiendo necesidades no cubiertas por los programas existentes.\n\n### 3. Análisis de oportunidad para una universidad privada\n\n- La competencia en Medellín es mayor, lo que implica que una universidad privada debe ofrecer valor agregado para atraer estudiantes.\n- La diversificación de programas y la alineación con sectores económicos en crecimiento (tecnología, innovación, servicios) pueden ser claves.\n- La presencia de 4 programas indica que hay mercado, pero también competencia, por lo que la estrategia debe enfocarse en nichos específicos o en calidad y reputación.\n- En ciudades con menos programas (Barranquilla, Bogotá, Cali), la oportunidad puede ser mayor en términos de menor competencia, pero también puede haber menor demanda o especialización.\n\n### Resumen\n\n- Medellín es el departamento con mayor cantidad de programas en los datos, reflejando su vocación económica diversificada.\n- Abrir un programa en Medellín tiene potencial, pero requiere diferenciación debido a la competencia.\n- Para una universidad privada, la clave está en ofrecer programas alineados con las tendencias económicas y necesidades del mercado local, aprovechando la demanda de una ciudad dinámica como Medellín.",
+    "analisis_numero_de_estudiantes": "Analizando los datos proporcionados para los tres grupos (Todos los sectores, Universidades oficiales y Universidades privadas) y los procesos de estudiantes (ADMITIDOS, GRADUADOS, INSCRITOS, MATRICULADOS, NUEVOS) a lo largo de los periodos semestrales desde 2000-1 hasta 2024-2, procedo a responder cada punto solicitado con un enfoque estadístico y analítico.\n\n---\n\n### 1. Relaciones y variaciones entre los sectores (Todos, Oficiales, Privados)\n\n- **Universidades Oficiales y Todos los Sectores:**\n  - Los valores de los procesos en \"Universidades Oficiales\" son muy similares a los de \"Todos los sectores\", lo que indica que la mayoría de los datos de \"Todos los sectores\" provienen de las universidades oficiales.\n  - Por ejemplo, en muchos periodos, los valores de ADMITIDOS, GRADUADOS, INSCRITOS, MATRICULADOS y NUEVOS en oficiales coinciden o son muy cercanos a los de todos los sectores.\n  - Esto sugiere que las universidades oficiales tienen un peso predominante en el total del sistema.\n\n- **Universidades Privadas:**\n  - Los valores en universidades privadas son mucho menores en comparación con los oficiales y el total.\n  - En los primeros años (2000-2007), los valores para privados son prácticamente cero o muy bajos, con algunos semestres sin datos o con valores mínimos.\n  - A partir de 2008-1, se observa un aumento gradual en los valores de ADMITIDOS, INSCRITOS, MATRICULADOS y NUEVOS, aunque siguen siendo significativamente menores que en oficiales.\n  - La variación en privados es más irregular y con menor volumen, lo que indica un sector más pequeño o menos consolidado en este programa.\n\n- **Variaciones importantes:**\n  - La principal variación es la magnitud: oficiales dominan el volumen de estudiantes en todos los procesos.\n  - Privados muestran un crecimiento lento y con fluctuaciones, pero con tendencia al alza en algunos procesos.\n  - En \"Todos los sectores\", la tendencia refleja principalmente la dinámica de las universidades oficiales.\n\n---\n\n### 2. Diferencia entre estudiantes inscritos y matriculados (capacidad de absorción)\n\n- **Todos los sectores:**\n  - En general, los valores de MATRICULADOS son mayores que los de INSCRITOS en muchos periodos, lo cual es inusual porque normalmente se espera que los inscritos sean mayores o iguales a los matriculados.\n  - Esto puede indicar que la definición de \"INSCRITOS\" aquí es diferente o que hay un desfase en los datos.\n  - Sin embargo, en los primeros años (2000-2006), MATRICULADOS supera consistentemente a INSCRITOS, lo que sugiere que la inscripción formal puede estar ocurriendo después de la inscripción inicial o que hay un proceso adicional.\n  - En años posteriores, la diferencia se reduce y en algunos semestres INSCRITOS y MATRICULADOS están más cercanos.\n\n- **Universidades Oficiales:**\n  - Se observa un patrón similar al total, con MATRICULADOS generalmente mayores o muy cercanos a INSCRITOS.\n  - Esto indica una buena capacidad de absorción, ya que la mayoría de los inscritos terminan matriculándose.\n  - La diferencia no es muy grande, lo que sugiere que el proceso de admisión y matrícula es eficiente.\n\n- **Universidades Privadas:**\n  - En privados, los valores de INSCRITOS son muy bajos o cero en muchos periodos, mientras que MATRICULADOS tiene valores bajos pero constantes a partir de 2001-1.\n  - En algunos semestres, MATRICULADOS es mayor que INSCRITOS, lo que puede indicar inconsistencias o que la inscripción formal ocurre en otro momento.\n  - La capacidad de absorción parece limitada por el bajo número de inscritos y matriculados, pero la proporción entre inscritos y matriculados no es clara debido a los valores bajos y a veces nulos.\n\n- **Conclusión sobre capacidad de absorción:**\n  - En universidades oficiales y en el total, la capacidad de absorción es alta, con matriculados igualando o superando a inscritos.\n  - En privadas, la capacidad de absorción es baja en volumen y con datos inconsistentes, pero parece que el interés (inscritos) es bajo y la matrícula también.\n  - Si se inscriben pocos y se matriculan pocos, el problema es bajo interés o poca oferta.\n  - Si se inscriben muchos y se matriculan pocos, indicaría barreras en el proceso de matrícula, pero no es el caso predominante aquí.\n\n---\n\n### 3. Análisis de oportunidad para un programa en universidad privada\n\n- **Tendencias observadas:**\n  - El sector privado muestra un crecimiento lento pero constante en los últimos años, especialmente a partir de 2008.\n  - Aunque los volúmenes son bajos comparados con oficiales, hay presencia creciente de admitidos, matriculados y nuevos estudiantes.\n  - La baja cantidad de inscritos en privados puede indicar una oportunidad para captar más estudiantes interesados.\n\n- **Oportunidades:**\n  - Existe espacio para crecimiento en el sector privado, dado que la demanda en oficiales es alta y el sector privado aún tiene baja participación.\n  - Mejorar la promoción y el acceso al programa puede aumentar el número de inscritos.\n  - Optimizar el proceso de admisión y matrícula para reducir barreras y aumentar la tasa de conversión de inscritos a matriculados.\n  - Considerar estrategias diferenciadas para atraer estudiantes que no acceden a universidades oficiales.\n\n- **Riesgos:**\n  - La competencia con universidades oficiales, que tienen mayor volumen y posiblemente mayor reconocimiento.\n  - La necesidad de inversión para mejorar infraestructura y calidad para atraer estudiantes.\n\n- **Recomendación:**\n  - Una universidad privada debería aprovechar la tendencia de crecimiento y baja saturación en su sector.\n  - Focalizar en mejorar la captación de inscritos y asegurar que estos se matriculen.\n  - Monitorear continuamente la relación inscritos-matriculados para detectar y corregir posibles obstáculos.\n\n---\n\n### Resumen\n\n| Aspecto                         | Todos los sectores                  | Universidades Oficiales           | Universidades Privadas            |\n|--------------------------------|-----------------------------------|----------------------------------|----------------------------------|\n| Volumen de estudiantes          | Alto, dominado por oficiales      | Alto, principal contribuyente    | Bajo, crecimiento lento          |\n| Relación inscritos-matriculados | Matriculados ≥ inscritos (inusual) | Matriculados ≥ inscritos (eficiente) | Inscritos y matriculados bajos, datos inconsistentes |\n| Capacidad de absorción          | Alta                              | Alta                             | Baja en volumen, oportunidad     |\n| Oportunidad para privados       | N/A                               | N/A                              | Crecimiento posible, mejorar captación y matrícula |\n\nSi deseas, puedo realizar análisis más específicos o gráficos para visualizar estas tendencias. ¿Quieres que continúe con eso?",
     "informacion_programas_nacionales": [
         {
             "Programa": "Ingenieria Materiales",
-            "Institución": "Universidad Antioquia",
+            "Institucion": "Universidad Antioquia",
             "Municipio": "Medellin",
             "URL": "Www.Udea.Edu.Co",
             "URL_programa": "",
@@ -2130,136 +2130,191 @@
         },
         {
             "Programa": "Ingenieria Materiales",
-            "Institución": "Universidad Valle",
+            "Institucion": "Universidad Valle",
             "Municipio": "Santiago Cali",
             "URL": "Www.Univalle.Edu.Co",
             "URL_programa": "",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": []
+            "iteraciones": 1,
+            "queries": [
+                "site:univalle.edu.co Ingeniería de Materiales programa descripción perfil egresado",
+                "site:univalle.edu.co Ingeniería de Materiales malla curricular plan de estudios",
+                "site:univalle.edu.co Facultad de Ingeniería Ingeniería de Materiales información programa",
+                "site:univalle.edu.co Ingeniería de Materiales requisitos y perfil del egresado"
+            ]
         },
         {
             "Programa": "Ingenieria Materiales",
-            "Institución": "Universidad San Buenaventura",
+            "Institucion": "Universidad San Buenaventura",
             "Municipio": "Santiago Cali",
             "URL": "Www.Usbcali.Edu.Co",
             "URL_programa": "",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": []
+            "iteraciones": 1,
+            "queries": [
+                "site:usbcali.edu.co Ingeniería de Materiales programa descripción perfil del egresado",
+                "site:usbcali.edu.co Ingeniería de Materiales malla curricular plan de estudios",
+                "site:usbcali.edu.co Facultad de Ingeniería Ingeniería de Materiales información detallada",
+                "site:usbcali.edu.co Ingeniería de Materiales requisitos y perfil del egresado"
+            ]
         },
         {
             "Programa": "Ingenieria Materiales",
-            "Institución": "Universidad Autonoma Caribe- Uniautonoma",
+            "Institucion": "Universidad Autonoma Caribe- Uniautonoma",
             "Municipio": "Barranquilla",
             "URL": "Www.Uac.Edu.Co",
             "URL_programa": "",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": []
+            "iteraciones": 1,
+            "queries": [
+                "site:uac.edu.co Ingeniería de Materiales programa descripción perfil egresado",
+                "site:uac.edu.co Ingeniería de Materiales malla curricular plan de estudios",
+                "site:uac.edu.co Ingeniería de Materiales requisitos y perfil del egresado",
+                "site:uac.edu.co Ingeniería de Materiales información académica oficial"
+            ]
         },
         {
             "Programa": "Ingenieria Materiales",
-            "Institución": "Universidad Antonio Nariño",
+            "Institucion": "Universidad Antonio Nariño",
             "Municipio": "Bogota, D.C.",
             "URL": "Www.Uan.Edu.Co",
             "URL_programa": "",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": []
+            "iteraciones": 1,
+            "queries": [
+                "site:uan.edu.co Ingeniería de Materiales programa descripción perfil del egresado",
+                "site:uan.edu.co Ingeniería de Materiales malla curricular plan de estudios",
+                "site:uan.edu.co Facultad de Ingeniería Ingeniería de Materiales información programa",
+                "site:uan.edu.co Ingeniería de Materiales requisitos y perfil del egresado"
+            ]
         },
         {
             "Programa": "Ingenieria Materiales",
-            "Institución": "Universidad Antonio Nariño",
+            "Institucion": "Universidad Antonio Nariño",
             "Municipio": "Medellin",
             "URL": "Www.Uan.Edu.Co",
             "URL_programa": "",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": []
+            "iteraciones": 1,
+            "queries": [
+                "site:uan.edu.co Ingeniería Materiales programa descripción perfil egresado",
+                "site:uan.edu.co Ingeniería Materiales malla curricular plan de estudios",
+                "site:uan.edu.co Facultad de Ingeniería programa Ingeniería Materiales",
+                "site:uan.edu.co Ingeniería Materiales requisitos y perfil del egresado"
+            ]
         },
         {
             "Programa": "Ingenieria Nanotecnologia",
-            "Institución": "Universidad Pontificia Bolivariana",
+            "Institucion": "Universidad Pontificia Bolivariana",
             "Municipio": "Medellin",
             "URL": "Www.Upb.Edu.Co",
             "URL_programa": "",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": []
+            "iteraciones": 1,
+            "queries": [
+                "site:upb.edu.co Ingeniería Nanotecnología programa",
+                "site:upb.edu.co Ingeniería Nanotecnología descripción",
+                "site:upb.edu.co Ingeniería Nanotecnología perfil del egresado",
+                "site:upb.edu.co Ingeniería Nanotecnología plan de estudios"
+            ]
         },
         {
             "Programa": "Ingenieria Materiales",
-            "Institución": "Universidad Antonio Nariño",
+            "Institucion": "Universidad Antonio Nariño",
             "Municipio": "Santiago Cali",
             "URL": "Www.Uan.Edu.Co",
             "URL_programa": "",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": []
+            "iteraciones": 1,
+            "queries": [
+                "site:uan.edu.co Ingeniería de Materiales programa",
+                "site:uan.edu.co Ingeniería de Materiales descripción perfil plan de estudios",
+                "site:uan.edu.co facultad de ingeniería Ingeniería de Materiales",
+                "site:uan.edu.co Ingeniería de Materiales malla curricular"
+            ]
         },
         {
             "Programa": "Ingenieria Materiales",
-            "Institución": "Universidad Medellin",
+            "Institucion": "Universidad Medellin",
             "Municipio": "Medellin",
             "URL": "Www.Udem.Edu.Co",
             "URL_programa": "",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": []
+            "iteraciones": 1,
+            "queries": [
+                "site:udem.edu.co Ingeniería de Materiales programa descripción",
+                "site:udem.edu.co Ingeniería de Materiales perfil del egresado",
+                "site:udem.edu.co Ingeniería de Materiales plan de estudios",
+                "site:udem.edu.co Ingeniería de Materiales malla curricular"
+            ]
         },
         {
             "Programa": "Ingenieria Materiales",
-            "Institución": "Fundacion Universitaria Monserrate -Unimonserrate",
+            "Institucion": "Fundacion Universitaria Monserrate -Unimonserrate",
             "Municipio": "Bogota, D.C.",
             "URL": "Www.Unimonserrate.Edu.Co",
             "URL_programa": "",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": []
+            "iteraciones": 1,
+            "queries": [
+                "site:unimonserrate.edu.co Ingeniería de Materiales programa descripción",
+                "site:unimonserrate.edu.co Ingeniería de Materiales perfil del egresado",
+                "site:unimonserrate.edu.co Ingeniería de Materiales plan de estudios",
+                "site:unimonserrate.edu.co Ingeniería de Materiales malla curricular"
+            ]
         },
         {
             "Programa": "Ingenieria Materiales",
-            "Institución": "Institucion Universitaria Pascual Bravo",
+            "Institucion": "Institucion Universitaria Pascual Bravo",
             "Municipio": "Medellin",
             "URL": "Www.Pascualbravo.Edu.Co",
             "URL_programa": "",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": []
+            "iteraciones": 1,
+            "queries": [
+                "site:pascualbravo.edu.co Ingeniería de Materiales programa descripción",
+                "site:pascualbravo.edu.co Ingeniería de Materiales perfil del egresado",
+                "site:pascualbravo.edu.co Ingeniería de Materiales plan de estudios",
+                "site:pascualbravo.edu.co Ingeniería de Materiales malla curricular"
+            ]
         },
         {
             "Programa": "Ingenieria Materiales",
-            "Institución": "Universidad Santo Tomas",
+            "Institucion": "Universidad Santo Tomas",
             "Municipio": "Bucaramanga",
             "URL": "Www.Ustabuca.Edu.Co",
             "URL_programa": "",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": []
+            "iteraciones": 1,
+            "queries": [
+                "site:ustabuca.edu.co Ingeniería de Materiales programa descripción",
+                "site:ustabuca.edu.co Ingeniería de Materiales perfil del egresado",
+                "site:ustabuca.edu.co Ingeniería de Materiales plan de estudios",
+                "site:ustabuca.edu.co Ingeniería de Materiales malla curricular"
+            ]
         }
     ],
-    "target_index": 0
+    "target_index": 1
 }

@@ -8,15 +8,15 @@ from enum import Enum
 
 class Nivel(str, Enum):
     pregrado = "pregrado"
-    tecnica = "técnica"
-    tecnologia = "tecnología"
-    especializacion = "especialización"
-    maestria = "maestría"
+    tecnica = "tecnica"
+    tecnologia = "tecnologia"
+    especializacion = "especializacion"
+    maestria = "maestria"
     doctorado = "doctorado"
 
 class programa_nacional(BaseModel):
     Programa: str
-    Institución: str
+    Institucion: str
     Municipio: str
     URL: Optional[str]
     URL_programa: Optional[str]
@@ -33,7 +33,7 @@ class AgentState(BaseModel):
     requerido: List[str] #Palabras claves para buscar el programa en el listado de programas existentes
     snies: Optional[Dict[str, Any]] = None
     analisis_num_programas_instituciones_tiempo: Optional[str] = ""
-    analisis_dispersión_matricula_vs_estudiantes: Optional[str] = ""
+    analisis_dispersion_matricula_vs_estudiantes: Optional[str] = ""
     analisis_valor_matricula_tiempo: Optional[str] = ""
     analisis_programas_municipios: Optional[str] = ""
     analisis_numero_de_estudiantes: Optional[str] = ""

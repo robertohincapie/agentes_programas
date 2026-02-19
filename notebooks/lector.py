@@ -21,7 +21,7 @@ def nodo_lector_snies(state: AgentState) -> Dict[str, Any]:
     else:
         #Verificamos si la informción de este programa ya fue cargada o no. En ese caso no se consulta de nuevo
         resultado = lector_snies(state)   # llama la herramienta de captura de la información de snies. 
-        print(resultado['snies'])
+        #print(resultado['snies'])
         return {
             "snies": resultado['snies'],
             "informacion_programas_nacionales": resultado['informacion_programas_nacionales']
@@ -61,7 +61,7 @@ def lector_snies(state) -> dict:
 
     programa = set(normalizar_texto(nombre).split())
     requerido = {normalizar_texto(ci) for ci in requerido}
-    prohibido = { normalizar_texto(ci) for ci in ["pregrado","técnica","tecnología","especializacion","maestria","doctorado"] 
+    prohibido = { normalizar_texto(ci) for ci in ["pregrado","tecnica","tecnologia","especializacion","maestria","doctorado"] 
         if ci != nivel}
     n = len(programa)
 
@@ -482,7 +482,7 @@ def lector_snies(state) -> dict:
         programas.append(
             programa_nacional(
                 Programa=prg,
-                Institución=ies_name,
+                Institucion=ies_name,
                 Municipio=mpio,
                 URL=url,
                 URL_programa="",

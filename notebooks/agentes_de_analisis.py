@@ -98,14 +98,14 @@ def nodo_analizar_matriculas_vs_estudiantes(
             
         )
     )
-    if(len(state.analisis_dispersión_matricula_vs_estudiantes)>10):
-        respuesta=state.analisis_dispersión_matricula_vs_estudiantes
+    if(len(state.analisis_dispersion_matricula_vs_estudiantes)>10):
+        respuesta=state.analisis_dispersion_matricula_vs_estudiantes
         print("Se leyeron los datos de una corrida previa")
     else: 
         respuesta = llm.invoke([sistema, usuario]).content
         print('Se cargó la información consultando al LLM')
     return {
-        "analisis_dispersión_matricula_vs_estudiantes": respuesta
+        "analisis_dispersion_matricula_vs_estudiantes": respuesta
     }
 
 def nodo_analizar_matriculas_vs_tiempo(
