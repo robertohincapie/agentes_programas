@@ -61,7 +61,7 @@ def lector_snies(state) -> dict:
 
     programa = set(normalizar_texto(nombre).split())
     requerido = {normalizar_texto(ci) for ci in requerido}
-    prohibido = { normalizar_texto(ci) for ci in ["pregrado","tecnica","tecnologia","especializacion","maestria","doctorado"] 
+    prohibido = { normalizar_texto(ci) for ci in ["pregrado","tecnica","tecnologia","especializacion","maestria","doctorado","licenciatura"] 
         if ci != nivel}
     n = len(programa)
 

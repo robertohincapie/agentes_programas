@@ -13,6 +13,7 @@ class Nivel(str, Enum):
     especializacion = "especializacion"
     maestria = "maestria"
     doctorado = "doctorado"
+    licenciatura = "licenciatura"
 
 class programa_nacional(BaseModel):
     Programa: str
