@@ -26,12 +26,18 @@ class programa_nacional(BaseModel):
     Plan_de_estudios: Optional[List[str]] = Field(default_factory=list)
     iteraciones: int = 0
     queries: Optional[List[str]] = Field(default_factory=list, description="Consultas de búsqueda enfocadas en reviews confiables.")
+    acreditado: Optional[str]
+    modalidad: Optional[str]
+    numero_creditos: Optional[int]
+    numero_periodo: Optional[int]
+    periodicidad: Optional[str]
+    
 
 class AgentState(BaseModel):
     nombre: str
     nivel: Nivel
     descripcion: str
-    requerido: List[str] #Palabras claves para buscar el programa en el listado de programas existentes
+    requerido: str #Palabras claves para buscar el programa en el listado de programas existentes
     snies: Optional[Dict[str, Any]] = None
     analisis_num_programas_instituciones_tiempo: Optional[str] = ""
     analisis_dispersion_matricula_vs_estudiantes: Optional[str] = ""

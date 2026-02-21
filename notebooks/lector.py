@@ -6,6 +6,7 @@ import json
 import os
 import seaborn as sns
 from estado import AgentState, Nivel, programa_nacional
+from evaluador_expresiones import evaluar   
 
 def nodo_lector_snies(state: AgentState) -> Dict[str, Any]:
     print('\nAgente: análisis de información existente de SNIES')
@@ -60,7 +61,7 @@ def lector_snies(state) -> dict:
     requerido = state.requerido
 
     programa = set(normalizar_texto(nombre).split())
-    requerido = {normalizar_texto(ci) for ci in requerido}
+    #requerido = {normalizar_texto(ci) for ci in requerido}
     prohibido = { normalizar_texto(ci) for ci in ["pregrado","tecnica","tecnologia","especializacion","maestria","doctorado","licenciatura"] 
         if ci != nivel}
     n = len(programa)
@@ -90,7 +91,7 @@ def lector_snies(state) -> dict:
 
     # Selección de programas equivalentes
     equivalentes = []
-    def evaluar(prog2, requerido, prohibido):
+    def evaluar2(prog2, requerido, prohibido):
         # Si hay palabra prohibida exacta → False
         if any(p in prog2 for p in prohibido):
             return False
@@ -100,11 +101,11 @@ def lector_snies(state) -> dict:
             return True
         
         return False
-
+    
     for prg in programas["PROGRAMA_ACADEMICO_NORMALIZADO"].unique():
         prg2 = str(prg).lower().split()
         #Vamos a considerar que en alguno de los términos del programa estén las palabras de la lista requerida y no estén las palabras prohibidas. Además, el programa debe tener al menos n-1 términos en común con el programa objetivo (para permitir pequeñas variaciones)
-        if(evaluar(prg2, requerido, prohibido)):
+        if(evaluar(prg2, requerido)):
             equivalentes.append(prg)
     print('Programas equivalentes encontrados: ',equivalentes)
     programas2 = programas[
@@ -468,23 +469,30 @@ def lector_snies(state) -> dict:
         )
 
     respuesta["snies"]["num_estudiantes_tiempo"] = resumen_num_est
-
+    print('Maestro 5, columnas: ', maestro5.columns)
     # ------------------------------------------------------------------
     # 6. Prompt con listado de programas (para otro agente)
     # ------------------------------------------------------------------
     programas = []
     i = 1
-    for ies_name, prg, mpio, url in (
-        maestro5[["INSTITUCION__y", "PROGRAMA_ACADEMICO", "MUNICIPIO_PROGRAMA","PAGINA_WEB"]]
+    for ies_name, prg, mpio, url, acreditado, modalidad, num_creditos, num_periodo, periodicidad in (
+        maestro5[["INSTITUCION__y", "PROGRAMA_ACADEMICO", "MUNICIPIO_PROGRAMA","PAGINA_WEB", 'PROGRAMA_ACREDITADO', 'MODALIDAD', 'NUMERO_CREDITOS', 'NUMERO_PERIODO', 'PERIODICIDAD',
+]]
         .drop_duplicates()
         .values
     ):
+        url=str(url).lower()
         programas.append(
             programa_nacional(
                 Programa=prg,
                 Institucion=ies_name,
                 Municipio=mpio,
                 URL=url,
+                acreditado="" if pd.isna(acreditado) else str(acreditado),
+                modalidad=modalidad,
+                numero_creditos=int(num_creditos) if str(num_creditos).isdigit() else 0,
+                numero_periodo=int(num_periodo) if str(num_periodo).isdigit() else 0,
+                periodicidad=str(periodicidad), 
                 URL_programa="",
                 Descripcion="",
                 Perfil="",
