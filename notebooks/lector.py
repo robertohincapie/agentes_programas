@@ -59,17 +59,7 @@ def lector_snies(state) -> dict:
     nombre = state.nombre
     nivel = state.nivel
     descripcion = state.descripcion
-<<<<<<< HEAD
     snies2=state.codigos
-=======
-    requerido = state.requerido
-
-    programa = set(normalizar_texto(nombre).split())
-    #requerido = {normalizar_texto(ci) for ci in requerido}
-    prohibido = { normalizar_texto(ci) for ci in ["pregrado","tecnica","tecnologia","especializacion","maestria","doctorado","licenciatura"] 
-        if ci != nivel}
-    n = len(programa)
->>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
 
     print("Proceso de carga de los archivos de SNIES")
     maestro = cargar_parquet_cache(
@@ -96,31 +86,7 @@ def lector_snies(state) -> dict:
 
     # Selección de programas equivalentes
     equivalentes = []
-<<<<<<< HEAD
     
-=======
-    def evaluar2(prog2, requerido, prohibido):
-        # Si hay palabra prohibida exacta → False
-        if any(p in prog2 for p in prohibido):
-            return False
-        
-        # Si alguna requerida está contenida en alguna palabra de prog2 → True
-        if any(req in palabra for req in requerido for palabra in prog2):
-            return True
-        
-        return False
-    
-    for prg in programas["PROGRAMA_ACADEMICO_NORMALIZADO"].unique():
-        prg2 = str(prg).lower().split()
-        #Vamos a considerar que en alguno de los términos del programa estén las palabras de la lista requerida y no estén las palabras prohibidas. Además, el programa debe tener al menos n-1 términos en común con el programa objetivo (para permitir pequeñas variaciones)
-        if(evaluar(prg2, requerido)):
-            equivalentes.append(prg)
-    print('Programas equivalentes encontrados: ',equivalentes)
-    programas2 = programas[
-        programas["PROGRAMA_ACADEMICO_NORMALIZADO"].isin(equivalentes)
-    ]
-    snies2 = list(programas2["CODIGO_SNIES"].unique())
->>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
     maestro2 = maestro[maestro["CODIGO_SNIES"].isin(snies2)]
     maestro3 = maestro2.merge(
         programas, left_on="CODIGO_SNIES", right_on="CODIGO_SNIES", how="left"
