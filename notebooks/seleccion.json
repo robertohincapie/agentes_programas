@@ -1,0 +1,215 @@
+{
+  "created_at": "2026-02-23T15:23:21.981Z",
+  "count": 23,
+  "codes": [
+    "102249",
+    "2966",
+    "3678",
+    "10116",
+    "10114",
+    "53057",
+    "105842",
+    "103150",
+    "54919",
+    "109816",
+    "53428",
+    "53701",
+    "53453",
+    "16934",
+    "639",
+    "53913",
+    "55104",
+    "20131",
+    "20173",
+    "8442",
+    "53031",
+    "108146",
+    "111082"
+  ],
+  "items": [
+    {
+      "INSTITUCION": "Universidad Pontificia Bolivariana",
+      "PROGRAMA_ACADEMICO": "Ingenieria Nanotecnologia",
+      "NIVEL_FORMACION": "Universitaria",
+      "MUNICIPIO_PROGRAMA": "Medellin",
+      "DEPARTAMENTO_PROGRAMA": "Antioquia",
+      "CODIGO_SNIES": "102249"
+    },
+    {
+      "INSTITUCION": "Universidad Valle",
+      "PROGRAMA_ACADEMICO": "Ingenieria Materiales",
+      "NIVEL_FORMACION": "Universitaria",
+      "MUNICIPIO_PROGRAMA": "Santiago Cali",
+      "DEPARTAMENTO_PROGRAMA": "Valle Cauca",
+      "CODIGO_SNIES": "2966"
+    },
+    {
+      "INSTITUCION": "Universidad Antioquia",
+      "PROGRAMA_ACADEMICO": "Ingenieria Materiales",
+      "NIVEL_FORMACION": "Universitaria",
+      "MUNICIPIO_PROGRAMA": "Medellin",
+      "DEPARTAMENTO_PROGRAMA": "Antioquia",
+      "CODIGO_SNIES": "3678"
+    },
+    {
+      "INSTITUCION": "Universidad Santo Tomas",
+      "PROGRAMA_ACADEMICO": "Ingenieria Materiales",
+      "NIVEL_FORMACION": "Universitaria",
+      "MUNICIPIO_PROGRAMA": "Bucaramanga",
+      "DEPARTAMENTO_PROGRAMA": "Santander",
+      "CODIGO_SNIES": "10116"
+    },
+    {
+      "INSTITUCION": "Universidad Santo Tomas",
+      "PROGRAMA_ACADEMICO": "Ingenieria Materiales",
+      "NIVEL_FORMACION": "Universitaria",
+      "MUNICIPIO_PROGRAMA": "Bogota, D.C.",
+      "DEPARTAMENTO_PROGRAMA": "Bogota, D.C.",
+      "CODIGO_SNIES": "10114"
+    },
+    {
+      "INSTITUCION": "Universidad San Buenaventura",
+      "PROGRAMA_ACADEMICO": "Ingenieria Materiales",
+      "NIVEL_FORMACION": "Universitaria",
+      "MUNICIPIO_PROGRAMA": "Santiago Cali",
+      "DEPARTAMENTO_PROGRAMA": "Valle Cauca",
+      "CODIGO_SNIES": "53057"
+    },
+    {
+      "INSTITUCION": "Fundacion Universitaria Monserrate -Unimonserrate",
+      "PROGRAMA_ACADEMICO": "Ingenieria Materiales",
+      "NIVEL_FORMACION": "Universitaria",
+      "MUNICIPIO_PROGRAMA": "Bogota, D.C.",
+      "DEPARTAMENTO_PROGRAMA": "Bogota, D.C.",
+      "CODIGO_SNIES": "105842"
+    },
+    {
+      "INSTITUCION": "Universidad Medellin",
+      "PROGRAMA_ACADEMICO": "Ingenieria Materiales",
+      "NIVEL_FORMACION": "Universitaria",
+      "MUNICIPIO_PROGRAMA": "Medellin",
+      "DEPARTAMENTO_PROGRAMA": "Antioquia",
+      "CODIGO_SNIES": "103150"
+    },
+    {
+      "INSTITUCION": "Universidad Autonoma Caribe- Uniautonoma",
+      "PROGRAMA_ACADEMICO": "Ingenieria Materiales",
+      "NIVEL_FORMACION": "Universitaria",
+      "MUNICIPIO_PROGRAMA": "Barranquilla",
+      "DEPARTAMENTO_PROGRAMA": "Atlantico",
+      "CODIGO_SNIES": "54919"
+    },
+    {
+      "INSTITUCION": "Institucion Universitaria Pascual Bravo",
+      "PROGRAMA_ACADEMICO": "Ingenieria Materiales",
+      "NIVEL_FORMACION": "Universitaria",
+      "MUNICIPIO_PROGRAMA": "Medellin",
+      "DEPARTAMENTO_PROGRAMA": "Antioquia",
+      "CODIGO_SNIES": "109816"
+    },
+    {
+      "INSTITUCION": "Universidad Antonio Narino",
+      "PROGRAMA_ACADEMICO": "Ingenieria Materiales",
+      "NIVEL_FORMACION": "Universitaria",
+      "MUNICIPIO_PROGRAMA": "Santiago Cali",
+      "DEPARTAMENTO_PROGRAMA": "Valle Cauca",
+      "CODIGO_SNIES": "53428"
+    },
+    {
+      "INSTITUCION": "Universidad Antonio Narino",
+      "PROGRAMA_ACADEMICO": "Ingenieria Materiales",
+      "NIVEL_FORMACION": "Universitaria",
+      "MUNICIPIO_PROGRAMA": "Medellin",
+      "DEPARTAMENTO_PROGRAMA": "Antioquia",
+      "CODIGO_SNIES": "53701"
+    },
+    {
+      "INSTITUCION": "Universidad Antonio Narino",
+      "PROGRAMA_ACADEMICO": "Ingenieria Materiales",
+      "NIVEL_FORMACION": "Universitaria",
+      "MUNICIPIO_PROGRAMA": "Bogota, D.C.",
+      "DEPARTAMENTO_PROGRAMA": "Bogota, D.C.",
+      "CODIGO_SNIES": "53453"
+    },
+    {
+      "INSTITUCION": "Universidad Nacional Colombia",
+      "PROGRAMA_ACADEMICO": "Especializacion Ingenieria Materiales Procesos",
+      "NIVEL_FORMACION": "Especializacion Universitaria",
+      "MUNICIPIO_PROGRAMA": "Medellin",
+      "DEPARTAMENTO_PROGRAMA": "Antioquia",
+      "CODIGO_SNIES": "16934"
+    },
+    {
+      "INSTITUCION": "Universidad Valle",
+      "PROGRAMA_ACADEMICO": "Especializacion Materiales Ingenieria",
+      "NIVEL_FORMACION": "Especializacion Universitaria",
+      "MUNICIPIO_PROGRAMA": "Santiago Cali",
+      "DEPARTAMENTO_PROGRAMA": "Valle Cauca",
+      "CODIGO_SNIES": "639"
+    },
+    {
+      "INSTITUCION": "Universidad Eafit-",
+      "PROGRAMA_ACADEMICO": "Especializacion Diseno Materiales",
+      "NIVEL_FORMACION": "Especializacion Universitaria",
+      "MUNICIPIO_PROGRAMA": "Medellin",
+      "DEPARTAMENTO_PROGRAMA": "Antioquia",
+      "CODIGO_SNIES": "53913"
+    },
+    {
+      "INSTITUCION": "Instituto Tecnologico Metropolitano",
+      "PROGRAMA_ACADEMICO": "Especializacion Aplicaciones Tecnologicas Materiales",
+      "NIVEL_FORMACION": "Especializacion Universitaria",
+      "MUNICIPIO_PROGRAMA": "Medellin",
+      "DEPARTAMENTO_PROGRAMA": "Antioquia",
+      "CODIGO_SNIES": "55104"
+    },
+    {
+      "INSTITUCION": "Universidad Autonoma Occidente",
+      "PROGRAMA_ACADEMICO": "Especializacion Ingenieria Transformacion Materiales Plasticos",
+      "NIVEL_FORMACION": "Especializacion Universitaria",
+      "MUNICIPIO_PROGRAMA": "Santiago Cali",
+      "DEPARTAMENTO_PROGRAMA": "Valle Cauca",
+      "CODIGO_SNIES": "20131"
+    },
+    {
+      "INSTITUCION": "Universidad Ibague",
+      "PROGRAMA_ACADEMICO": "Especializacion Mecanica Materiales",
+      "NIVEL_FORMACION": "Especializacion Universitaria",
+      "MUNICIPIO_PROGRAMA": "Ibague",
+      "DEPARTAMENTO_PROGRAMA": "Tolima",
+      "CODIGO_SNIES": "20173"
+    },
+    {
+      "INSTITUCION": "Universidad Nacional Abierta Distancia Unad",
+      "PROGRAMA_ACADEMICO": "Especializacion Ingenieria Procesos Alimentos Biomateriales",
+      "NIVEL_FORMACION": "Especializacion Universitaria",
+      "MUNICIPIO_PROGRAMA": "Bogota, D.C.",
+      "DEPARTAMENTO_PROGRAMA": "Bogota, D.C.",
+      "CODIGO_SNIES": "8442"
+    },
+    {
+      "INSTITUCION": "Universidad Nacional Abierta Distancia Unad",
+      "PROGRAMA_ACADEMICO": "Especializacion Procesos Alimentos Biomateriales",
+      "NIVEL_FORMACION": "Especializacion Universitaria",
+      "MUNICIPIO_PROGRAMA": "Bogota, D.C.",
+      "DEPARTAMENTO_PROGRAMA": "Bogota, D.C.",
+      "CODIGO_SNIES": "53031"
+    },
+    {
+      "INSTITUCION": "Universidad Nacional Colombia",
+      "PROGRAMA_ACADEMICO": "Especializacion Nanotecnologia Aplicada Industria Petroleo Gas",
+      "NIVEL_FORMACION": "Especializacion Universitaria",
+      "MUNICIPIO_PROGRAMA": "Medellin",
+      "DEPARTAMENTO_PROGRAMA": "Antioquia",
+      "CODIGO_SNIES": "108146"
+    },
+    {
+      "INSTITUCION": "Universidad Nacional Colombia",
+      "PROGRAMA_ACADEMICO": "Especializacion Nanotecnologia",
+      "NIVEL_FORMACION": "Especializacion Universitaria",
+      "MUNICIPIO_PROGRAMA": "Manizales",
+      "DEPARTAMENTO_PROGRAMA": "Caldas",
+      "CODIGO_SNIES": "111082"
+    }
+  ]
+}

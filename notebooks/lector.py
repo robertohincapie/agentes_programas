@@ -13,7 +13,8 @@ def nodo_lector_snies(state: AgentState) -> Dict[str, Any]:
     nombre = state.nombre
     nivel = state.nivel
     descripcion = state.descripcion
-    requerido = state.requerido
+    codigos = state.codigos
+    
     print('Revisando si ya hay información: ', len(state.informacion_programas_nacionales))
 
     if(len(state.informacion_programas_nacionales or []) > 0):
@@ -58,6 +59,9 @@ def lector_snies(state) -> dict:
     nombre = state.nombre
     nivel = state.nivel
     descripcion = state.descripcion
+<<<<<<< HEAD
+    snies2=state.codigos
+=======
     requerido = state.requerido
 
     programa = set(normalizar_texto(nombre).split())
@@ -65,6 +69,7 @@ def lector_snies(state) -> dict:
     prohibido = { normalizar_texto(ci) for ci in ["pregrado","tecnica","tecnologia","especializacion","maestria","doctorado","licenciatura"] 
         if ci != nivel}
     n = len(programa)
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
 
     print("Proceso de carga de los archivos de SNIES")
     maestro = cargar_parquet_cache(
@@ -91,6 +96,9 @@ def lector_snies(state) -> dict:
 
     # Selección de programas equivalentes
     equivalentes = []
+<<<<<<< HEAD
+    
+=======
     def evaluar2(prog2, requerido, prohibido):
         # Si hay palabra prohibida exacta → False
         if any(p in prog2 for p in prohibido):
@@ -112,8 +120,8 @@ def lector_snies(state) -> dict:
         programas["PROGRAMA_ACADEMICO_NORMALIZADO"].isin(equivalentes)
     ]
     snies2 = list(programas2["CODIGO_SNIES"].unique())
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
     maestro2 = maestro[maestro["CODIGO_SNIES"].isin(snies2)]
-
     maestro3 = maestro2.merge(
         programas, left_on="CODIGO_SNIES", right_on="CODIGO_SNIES", how="left"
     )
@@ -135,7 +143,7 @@ def lector_snies(state) -> dict:
         how="left",
         suffixes=("__x", "__y"),
     )
-    #maestro5.to_excel('borrar.xlsx', index=False)
+    #maestro5.to_excel('maestro5.xlsx', index=False)
     #os.makedirs("./figuras_snies", exist_ok=True)
 
     # ------------------------------------------------------------------

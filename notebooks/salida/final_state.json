@@ -1,19 +1,77 @@
 {
+<<<<<<< HEAD
+    "nombre": "Ingeniería Materiales Nanotecnologia",
+    "nivel": "pregrado",
+    "descripcion": "Programa de ingeniería enfocado en materiales a escala nanométrica.",
+    "codigos": [
+        "102249",
+        "2966",
+        "3678",
+        "10116",
+        "10114",
+        "53057",
+        "105842",
+        "103150",
+        "54919",
+        "109816",
+        "53428",
+        "53701",
+        "53453",
+        "16934",
+        "639",
+        "53913",
+        "55104",
+        "20131",
+        "20173",
+        "8442",
+        "53031",
+        "108146",
+        "111082"
+    ],
+=======
     "nombre": "Ingeniería en nanomateriales",
     "nivel": "especializacion",
     "descripcion": "...",
     "requerido": "(\"especializacion\" o \"maestria\") y (\"educacion\" o \"formacion\") y (\"salud\" o \"medicina\")",
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
     "snies": {
         "num_programas_instituciones_tiempo": [
             {
                 "PERIODO": "2000-1",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2000-1",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 7,
+                "NUM_PROGRAMAS": 7
+            },
+            {
+                "PERIODO": "2000-2",
+                "SECTOR": "Oficial",
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+            },
+            {
+                "PERIODO": "2000-2",
+                "SECTOR": "Privado",
+                "NUM_INSTITUCIONES": 7,
+                "NUM_PROGRAMAS": 7
+            },
+            {
+                "PERIODO": "2001-1",
+                "SECTOR": "Oficial",
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
             },
@@ -34,376 +92,758 @@
                 "SECTOR": "Oficial",
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2001-1",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 7,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2001-2",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2001-2",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 7,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2002-1",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2002-1",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 7,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2002-2",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2002-2",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 7,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2003-1",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2003-1",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 7,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2003-2",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2003-2",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 7,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2004-1",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2004-1",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 7,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2004-2",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2004-2",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 7,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2005-1",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2005-1",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 7,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2005-2",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2005-2",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 7,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2006-1",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2006-1",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 7,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2006-2",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2006-2",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 7,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2007-1",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2007-1",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 10,
+                "NUM_PROGRAMAS": 10
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2007-2",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2007-2",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 10,
+                "NUM_PROGRAMAS": 10
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2008-1",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2008-1",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 10,
+                "NUM_PROGRAMAS": 10
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2008-2",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2008-2",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 10,
+                "NUM_PROGRAMAS": 10
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2009-1",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2009-1",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 10,
+                "NUM_PROGRAMAS": 10
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2009-2",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2009-2",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 10,
+                "NUM_PROGRAMAS": 10
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2010-1",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2010-1",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 10,
+                "NUM_PROGRAMAS": 10
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2010-2",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2010-2",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 10,
+                "NUM_PROGRAMAS": 10
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2011-1",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2011-1",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 10,
+                "NUM_PROGRAMAS": 10
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2011-2",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2011-2",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 10,
+                "NUM_PROGRAMAS": 10
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2012-1",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2012-1",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 10,
+                "NUM_PROGRAMAS": 10
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2012-2",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2012-2",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 10,
+                "NUM_PROGRAMAS": 10
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2013-1",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2013-1",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 10,
+                "NUM_PROGRAMAS": 10
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2013-2",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 7
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2013-2",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 10,
+                "NUM_PROGRAMAS": 10
+            },
+            {
+                "PERIODO": "2014-1",
+                "SECTOR": "Oficial",
+                "NUM_INSTITUCIONES": 4,
+                "NUM_PROGRAMAS": 5
+            },
+            {
+                "PERIODO": "2014-1",
+                "SECTOR": "Privado",
+                "NUM_INSTITUCIONES": 7,
+                "NUM_PROGRAMAS": 7
+            },
+            {
+                "PERIODO": "2014-2",
+                "SECTOR": "Oficial",
+                "NUM_INSTITUCIONES": 4,
+                "NUM_PROGRAMAS": 5
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2014-2",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 7,
+                "NUM_PROGRAMAS": 7
+            },
+            {
+                "PERIODO": "2015-1",
+                "SECTOR": "Oficial",
+                "NUM_INSTITUCIONES": 4,
+                "NUM_PROGRAMAS": 5
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 1
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2015-1",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 5
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 1
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2015-2",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 4,
+                "NUM_PROGRAMAS": 5
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 1
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2015-2",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 6,
+                "NUM_PROGRAMAS": 6
+            },
+            {
+                "PERIODO": "2016-1",
+                "SECTOR": "Oficial",
+                "NUM_INSTITUCIONES": 4,
+                "NUM_PROGRAMAS": 5
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 1
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2016-1",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 5
+            },
+            {
+                "PERIODO": "2016-2",
+                "SECTOR": "Oficial",
+                "NUM_INSTITUCIONES": 4,
+                "NUM_PROGRAMAS": 4
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 1
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2016-2",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 4,
+                "NUM_PROGRAMAS": 4
+            },
+            {
+                "PERIODO": "2017-1",
+                "SECTOR": "Oficial",
+                "NUM_INSTITUCIONES": 4,
+                "NUM_PROGRAMAS": 5
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 1
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2017-1",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 5
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 1
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2017-2",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 4,
+                "NUM_PROGRAMAS": 5
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 1
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2017-2",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 4,
+                "NUM_PROGRAMAS": 4
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 1
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2018-1",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 4,
+                "NUM_PROGRAMAS": 5
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 1
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2018-1",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 5
+            },
+            {
+                "PERIODO": "2018-2",
+                "SECTOR": "Oficial",
+                "NUM_INSTITUCIONES": 4,
+                "NUM_PROGRAMAS": 4
+            },
+            {
+                "PERIODO": "2018-2",
+                "SECTOR": "Privado",
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 5
+            },
+            {
+                "PERIODO": "2019-1",
+                "SECTOR": "Oficial",
+                "NUM_INSTITUCIONES": 4,
+                "NUM_PROGRAMAS": 4
+            },
+            {
+                "PERIODO": "2019-1",
+                "SECTOR": "Privado",
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 5
+            },
+            {
+                "PERIODO": "2019-2",
+                "SECTOR": "Oficial",
+                "NUM_INSTITUCIONES": 4,
+                "NUM_PROGRAMAS": 4
+=======
                 "NUM_INSTITUCIONES": 2,
                 "NUM_PROGRAMAS": 2
             },
@@ -430,6 +870,7 @@
                 "SECTOR": "Privado",
                 "NUM_INSTITUCIONES": 2,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2019-2",
@@ -438,22 +879,51 @@
                 "NUM_PROGRAMAS": 1
             },
             {
+<<<<<<< HEAD
+                "PERIODO": "2020-1",
+                "SECTOR": "Oficial",
+                "NUM_INSTITUCIONES": 4,
+                "NUM_PROGRAMAS": 5
+=======
                 "PERIODO": "2019-2",
                 "SECTOR": "Privado",
                 "NUM_INSTITUCIONES": 2,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2020-1",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 4,
+                "NUM_PROGRAMAS": 4
+            },
+            {
+                "PERIODO": "2020-2",
+                "SECTOR": "Oficial",
+                "NUM_INSTITUCIONES": 4,
+                "NUM_PROGRAMAS": 5
+=======
                 "NUM_INSTITUCIONES": 2,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2020-2",
                 "SECTOR": "Privado",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 4,
+                "NUM_PROGRAMAS": 4
+            },
+            {
+                "PERIODO": "2021-1",
+                "SECTOR": "Oficial",
+                "NUM_INSTITUCIONES": 4,
+                "NUM_PROGRAMAS": 5
+=======
                 "NUM_INSTITUCIONES": 2,
                 "NUM_PROGRAMAS": 2
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2021-1",
@@ -469,21 +939,58 @@
             },
             {
                 "PERIODO": "2021-2",
+<<<<<<< HEAD
+                "SECTOR": "Oficial",
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 6
+            },
+            {
+                "PERIODO": "2021-2",
+=======
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
                 "SECTOR": "Privado",
                 "NUM_INSTITUCIONES": 3,
                 "NUM_PROGRAMAS": 4
             },
             {
                 "PERIODO": "2022-1",
+<<<<<<< HEAD
+                "SECTOR": "Oficial",
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 6
+            },
+            {
+                "PERIODO": "2022-1",
+                "SECTOR": "Privado",
+                "NUM_INSTITUCIONES": 3,
+                "NUM_PROGRAMAS": 3
+            },
+            {
+                "PERIODO": "2022-2",
+                "SECTOR": "Oficial",
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 6
+=======
                 "SECTOR": "Privado",
                 "NUM_INSTITUCIONES": 3,
                 "NUM_PROGRAMAS": 4
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2022-2",
                 "SECTOR": "Privado",
                 "NUM_INSTITUCIONES": 3,
+<<<<<<< HEAD
+                "NUM_PROGRAMAS": 3
+            },
+            {
+                "PERIODO": "2023-1",
+                "SECTOR": "Oficial",
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 6
+=======
                 "NUM_PROGRAMAS": 4
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2023-1",
@@ -494,8 +1001,13 @@
             {
                 "PERIODO": "2023-2",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 6
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 1
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2023-2",
@@ -506,8 +1018,13 @@
             {
                 "PERIODO": "2024-1",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 6,
+                "NUM_PROGRAMAS": 6
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 1
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2024-1",
@@ -518,8 +1035,13 @@
             {
                 "PERIODO": "2024-2",
                 "SECTOR": "Oficial",
+<<<<<<< HEAD
+                "NUM_INSTITUCIONES": 5,
+                "NUM_PROGRAMAS": 6
+=======
                 "NUM_INSTITUCIONES": 1,
                 "NUM_PROGRAMAS": 1
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "PERIODO": "2024-2",
@@ -555,11 +1077,54 @@
                     "nombre_ies_programa": "Universidad Ces - Maestria Tecnologias Informacion Comunicacion Salud",
                     "departamento": "Antioquia",
                     "sector": "Privado",
+<<<<<<< HEAD
+                    "matricula_2024": 7613800.0,
+                    "num_estudiantes_promedio_2021_2023": 1.25
+                },
+                {
+                    "nombre_ies_programa": "Universidad Nacional Abierta Distancia Unad - Especializacion Procesos Alimentos Biomateriales",
+                    "departamento": "Bogota, D.C.",
+                    "sector": "Oficial",
+                    "matricula_2024": 3360000.0,
+                    "num_estudiantes_promedio_2021_2023": 1.0789473684210527
+                },
+                {
+                    "nombre_ies_programa": "Universidad Nacional Colombia - Especializacion Ingenieria Materiales Procesos",
+                    "departamento": "Antioquia",
+                    "sector": "Oficial",
+                    "matricula_2024": 10424920.0,
+                    "num_estudiantes_promedio_2021_2023": 1.25
+                },
+                {
+                    "nombre_ies_programa": "Universidad Nacional Colombia - Especializacion Nanotecnologia Aplicada Industria Petroleo Gas",
+                    "departamento": "Antioquia",
+                    "sector": "Oficial",
+                    "matricula_2024": 9305080.0,
+                    "num_estudiantes_promedio_2021_2023": 2.142857142857143
+                },
+                {
+                    "nombre_ies_programa": "Universidad Pontificia Bolivariana - Ingenieria Nanotecnologia",
+                    "departamento": "Antioquia",
+                    "sector": "Privado",
+                    "matricula_2024": 11490744.0,
+                    "num_estudiantes_promedio_2021_2023": 70.875
+                },
+                {
+                    "nombre_ies_programa": "Universidad Valle - Ingenieria Materiales",
+                    "departamento": "Valle Cauca",
+                    "sector": "Oficial",
+                    "matricula_2024": 643997.0,
+                    "num_estudiantes_promedio_2021_2023": 154.9375
+                }
+            ],
+            "correlacion_matricula_estudiantes": -0.6471831884212433
+=======
                     "matricula_2024": 8918000.0,
                     "num_estudiantes_promedio_2021_2023": 14.5625
                 }
             ],
             "correlacion_matricula_estudiantes": 0.806180357582645
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
         },
         "valor_matricula_tiempo": [
             {
@@ -639,7 +1204,125 @@
                 ]
             },
             {
+<<<<<<< HEAD
+                "nombre_ies_programa": "Universidad Nacional Abierta Distancia Unad - Especializacion Procesos Alimentos Biomateriales",
+                "sector": "Oficial",
+                "serie": [
+                    {
+                        "periodo": "2021-1",
+                        "valor_matricula_millones": 0.369
+                    },
+                    {
+                        "periodo": "2021-2",
+                        "valor_matricula_millones": 0.0
+                    },
+                    {
+                        "periodo": "2022-1",
+                        "valor_matricula_millones": 3.36
+                    },
+                    {
+                        "periodo": "2022-2",
+                        "valor_matricula_millones": 3.36
+                    },
+                    {
+                        "periodo": "2023-1",
+                        "valor_matricula_millones": 0.0
+                    },
+                    {
+                        "periodo": "2023-2",
+                        "valor_matricula_millones": 0.0
+                    },
+                    {
+                        "periodo": "2024-1",
+                        "valor_matricula_millones": 0.0
+                    },
+                    {
+                        "periodo": "2024-2",
+                        "valor_matricula_millones": 0.0
+                    }
+                ]
+            },
+            {
+                "nombre_ies_programa": "Universidad Nacional Colombia - Especializacion Ingenieria Materiales Procesos",
+                "sector": "Oficial",
+                "serie": [
+                    {
+                        "periodo": "2021-1",
+                        "valor_matricula_millones": 7.04729
+                    },
+                    {
+                        "periodo": "2021-2",
+                        "valor_matricula_millones": 0.0
+                    },
+                    {
+                        "periodo": "2022-1",
+                        "valor_matricula_millones": 0.0
+                    },
+                    {
+                        "periodo": "2022-2",
+                        "valor_matricula_millones": 8.02481
+                    },
+                    {
+                        "periodo": "2023-1",
+                        "valor_matricula_millones": 9.30508
+                    },
+                    {
+                        "periodo": "2023-2",
+                        "valor_matricula_millones": 0.0
+                    },
+                    {
+                        "periodo": "2024-1",
+                        "valor_matricula_millones": 10.42492
+                    },
+                    {
+                        "periodo": "2024-2",
+                        "valor_matricula_millones": 10.42492
+                    }
+                ]
+            },
+            {
+                "nombre_ies_programa": "Universidad Nacional Colombia - Especializacion Nanotecnologia Aplicada Industria Petroleo Gas",
+                "sector": "Oficial",
+                "serie": [
+                    {
+                        "periodo": "2021-1",
+                        "valor_matricula_millones": 7.04729
+                    },
+                    {
+                        "periodo": "2021-2",
+                        "valor_matricula_millones": 7.29305
+                    },
+                    {
+                        "periodo": "2022-1",
+                        "valor_matricula_millones": 8.02481
+                    },
+                    {
+                        "periodo": "2022-2",
+                        "valor_matricula_millones": 8.02481
+                    },
+                    {
+                        "periodo": "2023-1",
+                        "valor_matricula_millones": 9.30508
+                    },
+                    {
+                        "periodo": "2023-2",
+                        "valor_matricula_millones": 0.0
+                    },
+                    {
+                        "periodo": "2024-1",
+                        "valor_matricula_millones": 0.0
+                    },
+                    {
+                        "periodo": "2024-2",
+                        "valor_matricula_millones": 0.0
+                    }
+                ]
+            },
+            {
+                "nombre_ies_programa": "Universidad Pontificia Bolivariana - Ingenieria Nanotecnologia",
+=======
                 "nombre_ies_programa": "Fundacion Universitaria Juan N. Corpas - Maestria Educacion Salud",
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
                 "sector": "Privado",
                 "serie": [
                     {
@@ -719,12 +1402,30 @@
             {
                 "Departamento": "Antioquia",
                 "Municipio": "Medellin",
+<<<<<<< HEAD
+                "Numero_programas": 6
+=======
                 "Numero_programas": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             },
             {
                 "Departamento": "Bogota, D.C.",
                 "Municipio": "Bogota, D.C.",
+<<<<<<< HEAD
+                "Numero_programas": 2
+            },
+            {
+                "Departamento": "Atlantico",
+                "Municipio": "Barranquilla",
+                "Numero_programas": 1
+            },
+            {
+                "Departamento": "Valle Cauca",
+                "Municipio": "Santiago Cali",
+                "Numero_programas": 1
+=======
                 "Numero_programas": 3
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             }
         ],
         "num_estudiantes_tiempo": {
@@ -791,13 +1492,24 @@
                     {
                         "ADMITIDOS": 0.0,
                         "GRADUADOS": 0.0,
+<<<<<<< HEAD
+                        "INSCRITOS": 246.0,
+                        "MATRICULADOS": 556.0,
+                        "NUEVOS": 109.0
+=======
                         "INSCRITOS": 0.0,
                         "MATRICULADOS": 28.0,
                         "NUEVOS": 0.0
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
                     },
                     {
                         "ADMITIDOS": 0.0,
                         "GRADUADOS": 0.0,
+<<<<<<< HEAD
+                        "INSCRITOS": 458.0,
+                        "MATRICULADOS": 617.0,
+                        "NUEVOS": 153.0
+=======
                         "INSCRITOS": 0.0,
                         "MATRICULADOS": 14.0,
                         "NUEVOS": 0.0
@@ -808,17 +1520,350 @@
                         "INSCRITOS": 15.0,
                         "MATRICULADOS": 41.0,
                         "NUEVOS": 0.0
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
                     },
                     {
                         "ADMITIDOS": 0.0,
                         "GRADUADOS": 3.0,
+<<<<<<< HEAD
+                        "INSCRITOS": 752.0,
+                        "MATRICULADOS": 701.0,
+                        "NUEVOS": 131.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 8.0,
+                        "INSCRITOS": 120.0,
+                        "MATRICULADOS": 710.0,
+                        "NUEVOS": 59.0
+=======
                         "INSCRITOS": 4.0,
                         "MATRICULADOS": 41.0,
                         "NUEVOS": 0.0
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
                     },
                     {
                         "ADMITIDOS": 0.0,
                         "GRADUADOS": 10.0,
+<<<<<<< HEAD
+                        "INSCRITOS": 423.0,
+                        "MATRICULADOS": 819.0,
+                        "NUEVOS": 131.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 12.0,
+                        "INSCRITOS": 653.0,
+                        "MATRICULADOS": 859.0,
+                        "NUEVOS": 125.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 16.0,
+                        "INSCRITOS": 757.0,
+                        "MATRICULADOS": 862.0,
+                        "NUEVOS": 129.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 16.0,
+                        "INSCRITOS": 723.0,
+                        "MATRICULADOS": 880.0,
+                        "NUEVOS": 123.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 24.0,
+                        "INSCRITOS": 289.0,
+                        "MATRICULADOS": 872.0,
+                        "NUEVOS": 130.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 18.0,
+                        "INSCRITOS": 562.0,
+                        "MATRICULADOS": 890.0,
+                        "NUEVOS": 124.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 35.0,
+                        "INSCRITOS": 545.0,
+                        "MATRICULADOS": 909.0,
+                        "NUEVOS": 127.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 45.0,
+                        "INSCRITOS": 596.0,
+                        "MATRICULADOS": 887.0,
+                        "NUEVOS": 141.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 23.0,
+                        "INSCRITOS": 669.0,
+                        "MATRICULADOS": 917.0,
+                        "NUEVOS": 137.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 41.0,
+                        "INSCRITOS": 221.0,
+                        "MATRICULADOS": 858.0,
+                        "NUEVOS": 122.0
+                    },
+                    {
+                        "ADMITIDOS": 152.0,
+                        "GRADUADOS": 30.0,
+                        "INSCRITOS": 253.0,
+                        "MATRICULADOS": 846.0,
+                        "NUEVOS": 128.0
+                    },
+                    {
+                        "ADMITIDOS": 181.0,
+                        "GRADUADOS": 55.0,
+                        "INSCRITOS": 219.0,
+                        "MATRICULADOS": 817.0,
+                        "NUEVOS": 130.0
+                    },
+                    {
+                        "ADMITIDOS": 153.0,
+                        "GRADUADOS": 54.0,
+                        "INSCRITOS": 305.0,
+                        "MATRICULADOS": 792.0,
+                        "NUEVOS": 138.0
+                    },
+                    {
+                        "ADMITIDOS": 169.0,
+                        "GRADUADOS": 62.0,
+                        "INSCRITOS": 250.0,
+                        "MATRICULADOS": 826.0,
+                        "NUEVOS": 153.0
+                    },
+                    {
+                        "ADMITIDOS": 108.0,
+                        "GRADUADOS": 30.0,
+                        "INSCRITOS": 143.0,
+                        "MATRICULADOS": 817.0,
+                        "NUEVOS": 108.0
+                    },
+                    {
+                        "ADMITIDOS": 189.0,
+                        "GRADUADOS": 59.0,
+                        "INSCRITOS": 329.0,
+                        "MATRICULADOS": 796.0,
+                        "NUEVOS": 142.0
+                    },
+                    {
+                        "ADMITIDOS": 111.0,
+                        "GRADUADOS": 52.0,
+                        "INSCRITOS": 161.0,
+                        "MATRICULADOS": 748.0,
+                        "NUEVOS": 88.0
+                    },
+                    {
+                        "ADMITIDOS": 187.0,
+                        "GRADUADOS": 24.0,
+                        "INSCRITOS": 332.0,
+                        "MATRICULADOS": 358.0,
+                        "NUEVOS": 86.0
+                    },
+                    {
+                        "ADMITIDOS": 161.0,
+                        "GRADUADOS": 41.0,
+                        "INSCRITOS": 307.0,
+                        "MATRICULADOS": 848.0,
+                        "NUEVOS": 214.0
+                    },
+                    {
+                        "ADMITIDOS": 95.0,
+                        "GRADUADOS": 55.0,
+                        "INSCRITOS": 150.0,
+                        "MATRICULADOS": 766.0,
+                        "NUEVOS": 71.0
+                    },
+                    {
+                        "ADMITIDOS": 192.0,
+                        "GRADUADOS": 35.0,
+                        "INSCRITOS": 312.0,
+                        "MATRICULADOS": 843.0,
+                        "NUEVOS": 161.0
+                    },
+                    {
+                        "ADMITIDOS": 118.0,
+                        "GRADUADOS": 22.0,
+                        "INSCRITOS": 187.0,
+                        "MATRICULADOS": 802.0,
+                        "NUEVOS": 86.0
+                    },
+                    {
+                        "ADMITIDOS": 164.0,
+                        "GRADUADOS": 34.0,
+                        "INSCRITOS": 297.0,
+                        "MATRICULADOS": 822.0,
+                        "NUEVOS": 139.0
+                    },
+                    {
+                        "ADMITIDOS": 120.0,
+                        "GRADUADOS": 29.0,
+                        "INSCRITOS": 186.0,
+                        "MATRICULADOS": 795.0,
+                        "NUEVOS": 99.0
+                    },
+                    {
+                        "ADMITIDOS": 184.0,
+                        "GRADUADOS": 24.0,
+                        "INSCRITOS": 339.0,
+                        "MATRICULADOS": 855.0,
+                        "NUEVOS": 143.0
+                    },
+                    {
+                        "ADMITIDOS": 100.0,
+                        "GRADUADOS": 46.0,
+                        "INSCRITOS": 119.0,
+                        "MATRICULADOS": 801.0,
+                        "NUEVOS": 78.0
+                    },
+                    {
+                        "ADMITIDOS": 216.0,
+                        "GRADUADOS": 54.0,
+                        "INSCRITOS": 291.0,
+                        "MATRICULADOS": 858.0,
+                        "NUEVOS": 160.0
+                    },
+                    {
+                        "ADMITIDOS": 68.0,
+                        "GRADUADOS": 49.0,
+                        "INSCRITOS": 107.0,
+                        "MATRICULADOS": 759.0,
+                        "NUEVOS": 47.0
+                    },
+                    {
+                        "ADMITIDOS": 286.0,
+                        "GRADUADOS": 36.0,
+                        "INSCRITOS": 325.0,
+                        "MATRICULADOS": 847.0,
+                        "NUEVOS": 189.0
+                    },
+                    {
+                        "ADMITIDOS": 133.0,
+                        "GRADUADOS": 47.0,
+                        "INSCRITOS": 171.0,
+                        "MATRICULADOS": 815.0,
+                        "NUEVOS": 101.0
+                    },
+                    {
+                        "ADMITIDOS": 220.0,
+                        "GRADUADOS": 32.0,
+                        "INSCRITOS": 242.0,
+                        "MATRICULADOS": 890.0,
+                        "NUEVOS": 169.0
+                    },
+                    {
+                        "ADMITIDOS": 161.0,
+                        "GRADUADOS": 59.0,
+                        "INSCRITOS": 150.0,
+                        "MATRICULADOS": 885.0,
+                        "NUEVOS": 120.0
+                    },
+                    {
+                        "ADMITIDOS": 192.0,
+                        "GRADUADOS": 19.0,
+                        "INSCRITOS": 201.0,
+                        "MATRICULADOS": 907.0,
+                        "NUEVOS": 158.0
+                    },
+                    {
+                        "ADMITIDOS": 152.0,
+                        "GRADUADOS": 53.0,
+                        "INSCRITOS": 176.0,
+                        "MATRICULADOS": 901.0,
+                        "NUEVOS": 117.0
+                    },
+                    {
+                        "ADMITIDOS": 166.0,
+                        "GRADUADOS": 21.0,
+                        "INSCRITOS": 207.0,
+                        "MATRICULADOS": 915.0,
+                        "NUEVOS": 153.0
+                    },
+                    {
+                        "ADMITIDOS": 139.0,
+                        "GRADUADOS": 39.0,
+                        "INSCRITOS": 137.0,
+                        "MATRICULADOS": 878.0,
+                        "NUEVOS": 102.0
+                    },
+                    {
+                        "ADMITIDOS": 207.0,
+                        "GRADUADOS": 16.0,
+                        "INSCRITOS": 222.0,
+                        "MATRICULADOS": 694.0,
+                        "NUEVOS": 164.0
+                    },
+                    {
+                        "ADMITIDOS": 88.0,
+                        "GRADUADOS": 66.0,
+                        "INSCRITOS": 60.0,
+                        "MATRICULADOS": 535.0,
+                        "NUEVOS": 73.0
+                    },
+                    {
+                        "ADMITIDOS": 127.0,
+                        "GRADUADOS": 39.0,
+                        "INSCRITOS": 164.0,
+                        "MATRICULADOS": 940.0,
+                        "NUEVOS": 104.0
+                    },
+                    {
+                        "ADMITIDOS": 97.0,
+                        "GRADUADOS": 65.0,
+                        "INSCRITOS": 108.0,
+                        "MATRICULADOS": 893.0,
+                        "NUEVOS": 83.0
+                    },
+                    {
+                        "ADMITIDOS": 149.0,
+                        "GRADUADOS": 50.0,
+                        "INSCRITOS": 181.0,
+                        "MATRICULADOS": 855.0,
+                        "NUEVOS": 115.0
+                    },
+                    {
+                        "ADMITIDOS": 84.0,
+                        "GRADUADOS": 72.0,
+                        "INSCRITOS": 104.0,
+                        "MATRICULADOS": 471.0,
+                        "NUEVOS": 56.0
+                    },
+                    {
+                        "ADMITIDOS": 138.0,
+                        "GRADUADOS": 39.0,
+                        "INSCRITOS": 162.0,
+                        "MATRICULADOS": 805.0,
+                        "NUEVOS": 119.0
+                    },
+                    {
+                        "ADMITIDOS": 127.0,
+                        "GRADUADOS": 73.0,
+                        "INSCRITOS": 135.0,
+                        "MATRICULADOS": 760.0,
+                        "NUEVOS": 99.0
+                    },
+                    {
+                        "ADMITIDOS": 141.0,
+                        "GRADUADOS": 46.0,
+                        "INSCRITOS": 228.0,
+                        "MATRICULADOS": 716.0,
+                        "NUEVOS": 0.0
+                    },
+                    {
+                        "ADMITIDOS": 121.0,
+                        "GRADUADOS": 36.0,
+                        "INSCRITOS": 205.0,
+                        "MATRICULADOS": 697.0,
+=======
                         "INSCRITOS": 0.0,
                         "MATRICULADOS": 0.0,
                         "NUEVOS": 0.0
@@ -1129,6 +2174,7 @@
                         "GRADUADOS": 105.0,
                         "INSCRITOS": 155.0,
                         "MATRICULADOS": 244.0,
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
                         "NUEVOS": 0.0
                     }
                 ]
@@ -1185,13 +2231,24 @@
                     {
                         "ADMITIDOS": 0.0,
                         "GRADUADOS": 0.0,
+<<<<<<< HEAD
+                        "INSCRITOS": 246.0,
+                        "MATRICULADOS": 556.0,
+                        "NUEVOS": 109.0
+=======
                         "INSCRITOS": 0.0,
                         "MATRICULADOS": 0.0,
                         "NUEVOS": 0.0
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
                     },
                     {
                         "ADMITIDOS": 0.0,
                         "GRADUADOS": 0.0,
+<<<<<<< HEAD
+                        "INSCRITOS": 458.0,
+                        "MATRICULADOS": 617.0,
+                        "NUEVOS": 153.0
+=======
                         "INSCRITOS": 0.0,
                         "MATRICULADOS": 0.0,
                         "NUEVOS": 0.0
@@ -1230,10 +2287,344 @@
                         "INSCRITOS": 0.0,
                         "MATRICULADOS": 32.0,
                         "NUEVOS": 0.0
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
                     },
                     {
                         "ADMITIDOS": 0.0,
                         "GRADUADOS": 3.0,
+<<<<<<< HEAD
+                        "INSCRITOS": 752.0,
+                        "MATRICULADOS": 687.0,
+                        "NUEVOS": 131.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 8.0,
+                        "INSCRITOS": 120.0,
+                        "MATRICULADOS": 696.0,
+                        "NUEVOS": 59.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 10.0,
+                        "INSCRITOS": 423.0,
+                        "MATRICULADOS": 805.0,
+                        "NUEVOS": 131.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 12.0,
+                        "INSCRITOS": 653.0,
+                        "MATRICULADOS": 845.0,
+                        "NUEVOS": 125.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 16.0,
+                        "INSCRITOS": 757.0,
+                        "MATRICULADOS": 862.0,
+                        "NUEVOS": 129.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 16.0,
+                        "INSCRITOS": 723.0,
+                        "MATRICULADOS": 880.0,
+                        "NUEVOS": 123.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 24.0,
+                        "INSCRITOS": 289.0,
+                        "MATRICULADOS": 872.0,
+                        "NUEVOS": 130.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 18.0,
+                        "INSCRITOS": 562.0,
+                        "MATRICULADOS": 890.0,
+                        "NUEVOS": 124.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 35.0,
+                        "INSCRITOS": 545.0,
+                        "MATRICULADOS": 909.0,
+                        "NUEVOS": 127.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 45.0,
+                        "INSCRITOS": 596.0,
+                        "MATRICULADOS": 887.0,
+                        "NUEVOS": 141.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 23.0,
+                        "INSCRITOS": 669.0,
+                        "MATRICULADOS": 917.0,
+                        "NUEVOS": 137.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 41.0,
+                        "INSCRITOS": 221.0,
+                        "MATRICULADOS": 858.0,
+                        "NUEVOS": 122.0
+                    },
+                    {
+                        "ADMITIDOS": 152.0,
+                        "GRADUADOS": 30.0,
+                        "INSCRITOS": 253.0,
+                        "MATRICULADOS": 846.0,
+                        "NUEVOS": 128.0
+                    },
+                    {
+                        "ADMITIDOS": 172.0,
+                        "GRADUADOS": 55.0,
+                        "INSCRITOS": 210.0,
+                        "MATRICULADOS": 809.0,
+                        "NUEVOS": 122.0
+                    },
+                    {
+                        "ADMITIDOS": 153.0,
+                        "GRADUADOS": 54.0,
+                        "INSCRITOS": 305.0,
+                        "MATRICULADOS": 784.0,
+                        "NUEVOS": 138.0
+                    },
+                    {
+                        "ADMITIDOS": 153.0,
+                        "GRADUADOS": 56.0,
+                        "INSCRITOS": 234.0,
+                        "MATRICULADOS": 812.0,
+                        "NUEVOS": 139.0
+                    },
+                    {
+                        "ADMITIDOS": 98.0,
+                        "GRADUADOS": 30.0,
+                        "INSCRITOS": 133.0,
+                        "MATRICULADOS": 795.0,
+                        "NUEVOS": 100.0
+                    },
+                    {
+                        "ADMITIDOS": 176.0,
+                        "GRADUADOS": 57.0,
+                        "INSCRITOS": 316.0,
+                        "MATRICULADOS": 763.0,
+                        "NUEVOS": 132.0
+                    },
+                    {
+                        "ADMITIDOS": 103.0,
+                        "GRADUADOS": 50.0,
+                        "INSCRITOS": 151.0,
+                        "MATRICULADOS": 719.0,
+                        "NUEVOS": 82.0
+                    },
+                    {
+                        "ADMITIDOS": 175.0,
+                        "GRADUADOS": 18.0,
+                        "INSCRITOS": 318.0,
+                        "MATRICULADOS": 323.0,
+                        "NUEVOS": 77.0
+                    },
+                    {
+                        "ADMITIDOS": 149.0,
+                        "GRADUADOS": 40.0,
+                        "INSCRITOS": 294.0,
+                        "MATRICULADOS": 809.0,
+                        "NUEVOS": 203.0
+                    },
+                    {
+                        "ADMITIDOS": 89.0,
+                        "GRADUADOS": 52.0,
+                        "INSCRITOS": 144.0,
+                        "MATRICULADOS": 726.0,
+                        "NUEVOS": 68.0
+                    },
+                    {
+                        "ADMITIDOS": 176.0,
+                        "GRADUADOS": 33.0,
+                        "INSCRITOS": 295.0,
+                        "MATRICULADOS": 794.0,
+                        "NUEVOS": 149.0
+                    },
+                    {
+                        "ADMITIDOS": 101.0,
+                        "GRADUADOS": 20.0,
+                        "INSCRITOS": 167.0,
+                        "MATRICULADOS": 753.0,
+                        "NUEVOS": 81.0
+                    },
+                    {
+                        "ADMITIDOS": 156.0,
+                        "GRADUADOS": 33.0,
+                        "INSCRITOS": 284.0,
+                        "MATRICULADOS": 776.0,
+                        "NUEVOS": 139.0
+                    },
+                    {
+                        "ADMITIDOS": 117.0,
+                        "GRADUADOS": 28.0,
+                        "INSCRITOS": 180.0,
+                        "MATRICULADOS": 757.0,
+                        "NUEVOS": 98.0
+                    },
+                    {
+                        "ADMITIDOS": 141.0,
+                        "GRADUADOS": 24.0,
+                        "INSCRITOS": 275.0,
+                        "MATRICULADOS": 796.0,
+                        "NUEVOS": 120.0
+                    },
+                    {
+                        "ADMITIDOS": 91.0,
+                        "GRADUADOS": 36.0,
+                        "INSCRITOS": 107.0,
+                        "MATRICULADOS": 739.0,
+                        "NUEVOS": 72.0
+                    },
+                    {
+                        "ADMITIDOS": 166.0,
+                        "GRADUADOS": 49.0,
+                        "INSCRITOS": 235.0,
+                        "MATRICULADOS": 772.0,
+                        "NUEVOS": 123.0
+                    },
+                    {
+                        "ADMITIDOS": 52.0,
+                        "GRADUADOS": 45.0,
+                        "INSCRITOS": 89.0,
+                        "MATRICULADOS": 675.0,
+                        "NUEVOS": 38.0
+                    },
+                    {
+                        "ADMITIDOS": 183.0,
+                        "GRADUADOS": 25.0,
+                        "INSCRITOS": 208.0,
+                        "MATRICULADOS": 741.0,
+                        "NUEVOS": 140.0
+                    },
+                    {
+                        "ADMITIDOS": 115.0,
+                        "GRADUADOS": 45.0,
+                        "INSCRITOS": 150.0,
+                        "MATRICULADOS": 719.0,
+                        "NUEVOS": 91.0
+                    },
+                    {
+                        "ADMITIDOS": 149.0,
+                        "GRADUADOS": 29.0,
+                        "INSCRITOS": 154.0,
+                        "MATRICULADOS": 774.0,
+                        "NUEVOS": 127.0
+                    },
+                    {
+                        "ADMITIDOS": 145.0,
+                        "GRADUADOS": 56.0,
+                        "INSCRITOS": 131.0,
+                        "MATRICULADOS": 750.0,
+                        "NUEVOS": 114.0
+                    },
+                    {
+                        "ADMITIDOS": 132.0,
+                        "GRADUADOS": 18.0,
+                        "INSCRITOS": 127.0,
+                        "MATRICULADOS": 743.0,
+                        "NUEVOS": 115.0
+                    },
+                    {
+                        "ADMITIDOS": 133.0,
+                        "GRADUADOS": 51.0,
+                        "INSCRITOS": 153.0,
+                        "MATRICULADOS": 746.0,
+                        "NUEVOS": 109.0
+                    },
+                    {
+                        "ADMITIDOS": 132.0,
+                        "GRADUADOS": 18.0,
+                        "INSCRITOS": 163.0,
+                        "MATRICULADOS": 752.0,
+                        "NUEVOS": 126.0
+                    },
+                    {
+                        "ADMITIDOS": 123.0,
+                        "GRADUADOS": 35.0,
+                        "INSCRITOS": 120.0,
+                        "MATRICULADOS": 722.0,
+                        "NUEVOS": 93.0
+                    },
+                    {
+                        "ADMITIDOS": 152.0,
+                        "GRADUADOS": 1.0,
+                        "INSCRITOS": 157.0,
+                        "MATRICULADOS": 517.0,
+                        "NUEVOS": 124.0
+                    },
+                    {
+                        "ADMITIDOS": 69.0,
+                        "GRADUADOS": 56.0,
+                        "INSCRITOS": 34.0,
+                        "MATRICULADOS": 373.0,
+                        "NUEVOS": 62.0
+                    },
+                    {
+                        "ADMITIDOS": 80.0,
+                        "GRADUADOS": 32.0,
+                        "INSCRITOS": 112.0,
+                        "MATRICULADOS": 758.0,
+                        "NUEVOS": 74.0
+                    },
+                    {
+                        "ADMITIDOS": 89.0,
+                        "GRADUADOS": 48.0,
+                        "INSCRITOS": 97.0,
+                        "MATRICULADOS": 723.0,
+                        "NUEVOS": 75.0
+                    },
+                    {
+                        "ADMITIDOS": 118.0,
+                        "GRADUADOS": 31.0,
+                        "INSCRITOS": 147.0,
+                        "MATRICULADOS": 697.0,
+                        "NUEVOS": 96.0
+                    },
+                    {
+                        "ADMITIDOS": 74.0,
+                        "GRADUADOS": 57.0,
+                        "INSCRITOS": 92.0,
+                        "MATRICULADOS": 326.0,
+                        "NUEVOS": 46.0
+                    },
+                    {
+                        "ADMITIDOS": 115.0,
+                        "GRADUADOS": 24.0,
+                        "INSCRITOS": 136.0,
+                        "MATRICULADOS": 670.0,
+                        "NUEVOS": 104.0
+                    },
+                    {
+                        "ADMITIDOS": 114.0,
+                        "GRADUADOS": 65.0,
+                        "INSCRITOS": 122.0,
+                        "MATRICULADOS": 629.0,
+                        "NUEVOS": 88.0
+                    },
+                    {
+                        "ADMITIDOS": 120.0,
+                        "GRADUADOS": 33.0,
+                        "INSCRITOS": 205.0,
+                        "MATRICULADOS": 585.0,
+                        "NUEVOS": 0.0
+                    },
+                    {
+                        "ADMITIDOS": 117.0,
+                        "GRADUADOS": 29.0,
+                        "INSCRITOS": 199.0,
+                        "MATRICULADOS": 580.0,
+=======
                         "INSCRITOS": 0.0,
                         "MATRICULADOS": 32.0,
                         "NUEVOS": 0.0
@@ -1446,6 +2837,7 @@
                         "GRADUADOS": 0.0,
                         "INSCRITOS": 14.0,
                         "MATRICULADOS": 32.0,
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
                         "NUEVOS": 0.0
                     }
                 ]
@@ -1528,25 +2920,184 @@
                         "ADMITIDOS": 0.0,
                         "GRADUADOS": 23.0,
                         "INSCRITOS": 0.0,
+<<<<<<< HEAD
+                        "MATRICULADOS": 14.0,
+=======
                         "MATRICULADOS": 26.0,
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
                         "NUEVOS": 0.0
                     },
                     {
                         "ADMITIDOS": 0.0,
+<<<<<<< HEAD
+                        "GRADUADOS": 0.0,
+                        "INSCRITOS": 0.0,
+                        "MATRICULADOS": 14.0,
+=======
                         "GRADUADOS": 3.0,
                         "INSCRITOS": 4.0,
                         "MATRICULADOS": 26.0,
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
                         "NUEVOS": 0.0
                     },
                     {
                         "ADMITIDOS": 0.0,
+<<<<<<< HEAD
+                        "GRADUADOS": 0.0,
+                        "INSCRITOS": 0.0,
+                        "MATRICULADOS": 14.0,
+                        "NUEVOS": 0.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 0.0,
+=======
                         "GRADUADOS": 10.0,
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
                         "INSCRITOS": 0.0,
                         "MATRICULADOS": 0.0,
                         "NUEVOS": 0.0
                     },
                     {
                         "ADMITIDOS": 0.0,
+<<<<<<< HEAD
+                        "GRADUADOS": 0.0,
+                        "INSCRITOS": 0.0,
+                        "MATRICULADOS": 0.0,
+                        "NUEVOS": 0.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 0.0,
+                        "INSCRITOS": 0.0,
+                        "MATRICULADOS": 0.0,
+                        "NUEVOS": 0.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 0.0,
+                        "INSCRITOS": 0.0,
+                        "MATRICULADOS": 0.0,
+                        "NUEVOS": 0.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 0.0,
+                        "INSCRITOS": 0.0,
+                        "MATRICULADOS": 0.0,
+                        "NUEVOS": 0.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 0.0,
+                        "INSCRITOS": 0.0,
+                        "MATRICULADOS": 0.0,
+                        "NUEVOS": 0.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 0.0,
+                        "INSCRITOS": 0.0,
+                        "MATRICULADOS": 0.0,
+                        "NUEVOS": 0.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 0.0,
+                        "INSCRITOS": 0.0,
+                        "MATRICULADOS": 0.0,
+                        "NUEVOS": 0.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 0.0,
+                        "INSCRITOS": 0.0,
+                        "MATRICULADOS": 0.0,
+                        "NUEVOS": 0.0
+                    },
+                    {
+                        "ADMITIDOS": 9.0,
+                        "GRADUADOS": 0.0,
+                        "INSCRITOS": 9.0,
+                        "MATRICULADOS": 8.0,
+                        "NUEVOS": 8.0
+                    },
+                    {
+                        "ADMITIDOS": 0.0,
+                        "GRADUADOS": 0.0,
+                        "INSCRITOS": 0.0,
+                        "MATRICULADOS": 8.0,
+                        "NUEVOS": 0.0
+                    },
+                    {
+                        "ADMITIDOS": 16.0,
+                        "GRADUADOS": 6.0,
+                        "INSCRITOS": 16.0,
+                        "MATRICULADOS": 14.0,
+                        "NUEVOS": 14.0
+                    },
+                    {
+                        "ADMITIDOS": 10.0,
+                        "GRADUADOS": 0.0,
+                        "INSCRITOS": 10.0,
+                        "MATRICULADOS": 22.0,
+                        "NUEVOS": 8.0
+                    },
+                    {
+                        "ADMITIDOS": 13.0,
+                        "GRADUADOS": 2.0,
+                        "INSCRITOS": 13.0,
+                        "MATRICULADOS": 33.0,
+                        "NUEVOS": 10.0
+                    },
+                    {
+                        "ADMITIDOS": 8.0,
+                        "GRADUADOS": 2.0,
+                        "INSCRITOS": 10.0,
+                        "MATRICULADOS": 29.0,
+                        "NUEVOS": 6.0
+                    },
+                    {
+                        "ADMITIDOS": 12.0,
+                        "GRADUADOS": 6.0,
+                        "INSCRITOS": 14.0,
+                        "MATRICULADOS": 35.0,
+                        "NUEVOS": 9.0
+                    },
+                    {
+                        "ADMITIDOS": 12.0,
+                        "GRADUADOS": 1.0,
+                        "INSCRITOS": 13.0,
+                        "MATRICULADOS": 39.0,
+                        "NUEVOS": 11.0
+                    },
+                    {
+                        "ADMITIDOS": 6.0,
+                        "GRADUADOS": 3.0,
+                        "INSCRITOS": 6.0,
+                        "MATRICULADOS": 40.0,
+                        "NUEVOS": 3.0
+                    },
+                    {
+                        "ADMITIDOS": 16.0,
+                        "GRADUADOS": 2.0,
+                        "INSCRITOS": 17.0,
+                        "MATRICULADOS": 49.0,
+                        "NUEVOS": 12.0
+                    },
+                    {
+                        "ADMITIDOS": 17.0,
+                        "GRADUADOS": 2.0,
+                        "INSCRITOS": 20.0,
+                        "MATRICULADOS": 49.0,
+                        "NUEVOS": 5.0
+                    },
+                    {
+                        "ADMITIDOS": 8.0,
+                        "GRADUADOS": 1.0,
+                        "INSCRITOS": 13.0,
+                        "MATRICULADOS": 46.0,
+=======
                         "GRADUADOS": 6.0,
                         "INSCRITOS": 0.0,
                         "MATRICULADOS": 12.0,
@@ -1746,6 +3297,7 @@
                         "GRADUADOS": 5.0,
                         "INSCRITOS": 2.0,
                         "MATRICULADOS": 5.0,
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
                         "NUEVOS": 0.0
                     },
                     {
@@ -1777,7 +3329,88 @@
                         "NUEVOS": 1.0
                     },
                     {
+<<<<<<< HEAD
+                        "ADMITIDOS": 43.0,
+                        "GRADUADOS": 0.0,
+                        "INSCRITOS": 64.0,
+                        "MATRICULADOS": 59.0,
+                        "NUEVOS": 23.0
+                    },
+                    {
+                        "ADMITIDOS": 9.0,
+                        "GRADUADOS": 10.0,
+                        "INSCRITOS": 12.0,
+                        "MATRICULADOS": 62.0,
+                        "NUEVOS": 6.0
+                    },
+                    {
+                        "ADMITIDOS": 50.0,
+                        "GRADUADOS": 5.0,
+                        "INSCRITOS": 56.0,
+                        "MATRICULADOS": 86.0,
+                        "NUEVOS": 37.0
+                    },
+                    {
+                        "ADMITIDOS": 16.0,
+                        "GRADUADOS": 4.0,
+                        "INSCRITOS": 18.0,
+                        "MATRICULADOS": 84.0,
+                        "NUEVOS": 9.0
+                    },
+                    {
+                        "ADMITIDOS": 103.0,
+                        "GRADUADOS": 11.0,
+                        "INSCRITOS": 117.0,
+                        "MATRICULADOS": 106.0,
+                        "NUEVOS": 49.0
+                    },
+                    {
+                        "ADMITIDOS": 18.0,
+                        "GRADUADOS": 2.0,
+                        "INSCRITOS": 21.0,
+                        "MATRICULADOS": 96.0,
+                        "NUEVOS": 10.0
+                    },
+                    {
+                        "ADMITIDOS": 71.0,
+                        "GRADUADOS": 3.0,
+                        "INSCRITOS": 88.0,
+                        "MATRICULADOS": 116.0,
+                        "NUEVOS": 42.0
+                    },
+                    {
+                        "ADMITIDOS": 16.0,
+                        "GRADUADOS": 3.0,
+                        "INSCRITOS": 19.0,
+                        "MATRICULADOS": 135.0,
+                        "NUEVOS": 6.0
+                    },
+                    {
+                        "ADMITIDOS": 60.0,
+                        "GRADUADOS": 1.0,
+                        "INSCRITOS": 74.0,
+                        "MATRICULADOS": 164.0,
+                        "NUEVOS": 43.0
+                    },
+                    {
+                        "ADMITIDOS": 19.0,
+                        "GRADUADOS": 2.0,
+                        "INSCRITOS": 23.0,
+                        "MATRICULADOS": 155.0,
+                        "NUEVOS": 8.0
+                    },
+                    {
+                        "ADMITIDOS": 34.0,
+                        "GRADUADOS": 3.0,
+                        "INSCRITOS": 44.0,
+                        "MATRICULADOS": 163.0,
+                        "NUEVOS": 27.0
+                    },
+                    {
+                        "ADMITIDOS": 16.0,
+=======
                         "ADMITIDOS": 17.0,
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
                         "GRADUADOS": 4.0,
                         "INSCRITOS": 17.0,
                         "MATRICULADOS": 26.0,
@@ -1857,6 +3490,28 @@
             }
         }
     },
+<<<<<<< HEAD
+    "analisis_num_programas_instituciones_tiempo": "A lo largo del tiempo, predominan consistentemente las instituciones del sector privado en número, especialmente desde el año 2000 hasta aproximadamente 2013, donde el número de instituciones privadas es mayor (7 a 10) frente a un número estable de 5 instituciones oficiales. A partir de 2014, el número de instituciones privadas disminuye progresivamente hasta estabilizarse en 3, mientras que las instituciones oficiales se mantienen entre 4 y 6, llegando a igualar o superar ligeramente a las privadas en los últimos periodos.\n\nEn cuanto a los programas, también predominan los programas privados en la mayoría de los periodos iniciales, con 7 a 10 programas frente a 7 programas oficiales constantes. Sin embargo, desde 2014 se observa una reducción en los programas privados, que bajan a 7 y luego a 3, mientras que los programas oficiales se mantienen estables en 7 hasta 2013, y luego disminuyen ligeramente a 5 o 6 en los últimos años. Esto genera un equilibrio más cercano entre ambos sectores en los periodos recientes.\n\nSe observa una tendencia clara de estabilidad en el sector oficial tanto en instituciones como en programas durante la mayor parte del periodo analizado, con un ligero aumento en instituciones oficiales en 2024. En contraste, el sector privado muestra un crecimiento inicial hasta 2007-2013, seguido de una disminución progresiva y estabilización en valores más bajos desde 2014 en adelante. No se presentan cambios bruscos, sino una transición gradual hacia un equilibrio o ligera predominancia del sector oficial en los últimos años.",
+    "analisis_dispersion_matricula_vs_estudiantes": "Las universidades privadas presentan un valor promedio de matrícula considerablemente más alto que las oficiales. Por ejemplo, las matrículas en instituciones privadas oscilan entre aproximadamente 5.850.646 y 11.490.744 pesos colombianos, mientras que en las oficiales varían entre 466.327 y 10.424.920 pesos, con la mayoría de los valores oficiales siendo inferiores a los privados, salvo excepciones en especializaciones de la Universidad Nacional Colombia.\n\nEn cuanto a la cantidad promedio de estudiantes, las universidades oficiales tienen un número significativamente mayor en comparación con las privadas. Las oficiales presentan promedios que van desde aproximadamente 1.08 hasta 169.86 estudiantes, mientras que las privadas tienen valores muy bajos, excepto la Universidad Pontificia Bolivariana con 70.875 estudiantes, que es una excepción notable.\n\nNo se observa una correlación negativa clara entre el precio de la matrícula y el número de estudiantes matriculados. De hecho, algunos programas con matrícula alta tienen pocos estudiantes (por ejemplo, universidades privadas con matrícula superior a 5 millones y menos de 2 estudiantes), mientras que programas con matrícula baja tienen muchos estudiantes (universidades oficiales con matrícula inferior a 700.000 y más de 150 estudiantes). Esto sugiere que el precio no es el único factor determinante en la cantidad de estudiantes matriculados.\n\nPara una universidad privada que considere ofrecer un programa en esta área, la oportunidad radica en ajustar la matrícula a un nivel competitivo, posiblemente más cercano a los valores oficiales, para atraer un mayor número de estudiantes. Además, se debe evaluar la oferta académica y la demanda del mercado, ya que la alta matrícula actual no garantiza una alta matrícula estudiantil. La excepción de la Universidad Pontificia Bolivariana indica que con una estrategia adecuada, es posible mantener una matrícula alta y un número considerable de estudiantes, lo que sugiere que factores adicionales como la reputación, calidad del programa y estrategias de mercadeo son cruciales.",
+    "analisis_valor_matricula_tiempo": "Los valores de matrícula en general muestran una tendencia creciente en la mayoría de las instituciones a lo largo del tiempo, especialmente en los períodos más recientes (2023-1 a 2024-1). Sin embargo, hay casos con valores cero en ciertos períodos, lo que indica posibles interrupciones o falta de datos para esos momentos específicos. Por ejemplo, la Fundación Universitaria Monserrate y la Universidad Medellín presentan incrementos constantes hasta 2024-1, mientras que algunas universidades oficiales como la Universidad Nacional Abierta a Distancia Unad muestran valores intermitentes con ceros en varios períodos.\n\nComparando el sector privado con el oficial, las universidades privadas tienden a tener valores de matrícula significativamente más altos y con una tendencia más clara al aumento sostenido. Por ejemplo, la Universidad Pontificia Bolivariana y la Universidad Medellín presentan valores de matrícula que superan los 7 millones en 2024-1, mientras que las universidades oficiales mantienen valores considerablemente más bajos, generalmente por debajo de 1 millón, con algunas excepciones en programas de especialización de la Universidad Nacional Colombia que alcanzan valores superiores a 10 millones en ciertos períodos. Además, las universidades oficiales muestran mayor volatilidad y presencia de valores cero en algunos períodos, lo que puede reflejar variabilidad en la oferta o demanda.\n\nEl análisis de oportunidad para un programa de ingeniería de materiales en una universidad privada indica un mercado con tendencia al crecimiento en el valor de matrícula, lo que sugiere una demanda creciente o una disposición a pagar mayor por estos programas en el sector privado. La comparación con las universidades oficiales muestra que el sector privado puede capitalizar mejor esta tendencia, posiblemente debido a mayor flexibilidad en precios o percepción de valor. Sin embargo, la presencia de valores cero en algunos períodos para ciertas instituciones privadas indica la necesidad de evaluar la estabilidad y continuidad del programa. En resumen, existe una oportunidad favorable para expandir o fortalecer programas en universidades privadas, siempre considerando estrategias para mantener la continuidad y evitar caídas abruptas en la matrícula.",
+    "analisis_programas_municipios": "Antioquia, con Medellín, presenta la mayor cantidad de programas académicos (6), lo que refleja una concentración significativa en comparación con otros departamentos como Bogotá, Atlántico y Valle del Cauca, que tienen entre 1 y 2 programas. Esta concentración puede estar relacionada con la vocación económica de Antioquia, especialmente Medellín, que es un centro industrial, tecnológico y de servicios, favoreciendo la oferta educativa diversificada y especializada. En contraste, departamentos con menor número de programas pueden tener vocaciones económicas más limitadas o menos diversificadas, lo que se refleja en una menor oferta académica.\n\nLa apertura de un nuevo programa en Medellín tiene una buena oportunidad debido a la alta concentración de programas existentes, lo que indica una demanda educativa robusta y un ecosistema académico desarrollado. La presencia de múltiples programas sugiere un mercado activo y competitivo, pero también una base sólida de estudiantes potenciales y sectores económicos que pueden requerir formación especializada.\n\nPara una universidad privada, la oportunidad radica en diferenciarse mediante programas innovadores o especializados que respondan a las necesidades específicas del mercado laboral local y regional. La tendencia observada de concentración en Medellín sugiere que la competencia es alta, pero también que existe un público objetivo amplio y una economía dinámica que puede absorber nuevos perfiles profesionales. La clave será identificar nichos no cubiertos o emergentes en la vocación económica de la región para maximizar la inserción y el éxito del programa.",
+    "analisis_numero_de_estudiantes": "En todos los sectores, se observa que los valores de inscritos y matriculados son relativamente altos y cercanos en la mayoría de los periodos, aunque con fluctuaciones. En universidades oficiales, los inscritos y matriculados también presentan valores altos y cercanos, con una tendencia similar a la de todos los sectores, dado que los datos oficiales representan la mayor parte del total. En universidades privadas, los valores de inscritos son muy bajos o nulos en los primeros años, con un aumento gradual a partir de 2007-1, pero los matriculados son consistentemente menores que en los sectores oficiales y en todos los sectores, mostrando una menor participación y volumen.\n\nLa diferencia entre inscritos y matriculados en todos los sectores y en universidades oficiales es relativamente pequeña, indicando una buena capacidad de absorción del proceso de admisiones en estos grupos. Sin embargo, en universidades privadas, la diferencia es más marcada: aunque los inscritos son bajos, los matriculados son aún menores, lo que sugiere una menor conversión de interés en matrícula efectiva. Esto indica que en el sector privado existe una barrera adicional que impide que los inscritos completen el proceso de matrícula, posiblemente relacionada con factores económicos, administrativos o de oferta académica.\n\nPara una universidad privada, el análisis de oportunidad muestra que, aunque la participación inicial es baja, hay una tendencia creciente en los valores de admitidos, inscritos y matriculados desde 2007-1 en adelante. Sin embargo, la capacidad de absorción es limitada, con una brecha significativa entre inscritos y matriculados. Esto sugiere que existe un mercado potencial no completamente explotado, y que mejorar la tasa de conversión de inscritos a matriculados podría representar una oportunidad de crecimiento. Se recomienda enfocar estrategias en facilitar el proceso de matrícula y en aumentar el interés inicial para aprovechar esta tendencia ascendente.",
+    "informacion_programas_nacionales": [
+        {
+            "Programa": "Especializacion Ingenieria Materiales Procesos",
+            "Institucion": "Universidad Nacional Colombia",
+            "Municipio": "Medellin",
+            "URL": "Www.Medellin.Unal.Edu.Co",
+            "URL_programa": "",
+            "Descripcion": "",
+            "Perfil": "",
+            "Plan_de_estudios": [],
+            "iteraciones": 0,
+            "queries": []
+        },
+        {
+            "Programa": "Ingenieria Materiales",
+=======
     "analisis_num_programas_instituciones_tiempo": "",
     "analisis_dispersion_matricula_vs_estudiantes": "",
     "analisis_valor_matricula_tiempo": "",
@@ -1865,6 +3520,7 @@
     "informacion_programas_nacionales": [
         {
             "Programa": "Especializacion Educacion Fisica Actividad Fisica Salud",
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             "Institucion": "Universidad Antioquia",
             "Municipio": "Medellin",
             "URL": "www.udea.edu.co",
@@ -1873,6 +3529,96 @@
             "Perfil": "",
             "Plan_de_estudios": [],
             "iteraciones": 0,
+<<<<<<< HEAD
+            "queries": []
+        },
+        {
+            "Programa": "Especializacion Materiales Ingenieria",
+            "Institucion": "Universidad Valle",
+            "Municipio": "Santiago Cali",
+            "URL": "Www.Univalle.Edu.Co",
+            "URL_programa": "",
+            "Descripcion": "",
+            "Perfil": "",
+            "Plan_de_estudios": [],
+            "iteraciones": 0,
+            "queries": []
+        },
+        {
+            "Programa": "Ingenieria Materiales",
+            "Institucion": "Universidad Valle",
+            "Municipio": "Santiago Cali",
+            "URL": "Www.Univalle.Edu.Co",
+            "URL_programa": "",
+            "Descripcion": "",
+            "Perfil": "",
+            "Plan_de_estudios": [],
+            "iteraciones": 0,
+            "queries": []
+        },
+        {
+            "Programa": "Especializacion Diseño Materiales",
+            "Institucion": "Universidad Eafit-",
+            "Municipio": "Medellin",
+            "URL": "Www.Eafit.Edu.Co",
+            "URL_programa": "",
+            "Descripcion": "",
+            "Perfil": "",
+            "Plan_de_estudios": [],
+            "iteraciones": 0,
+            "queries": []
+        },
+        {
+            "Programa": "Ingenieria Materiales",
+            "Institucion": "Universidad San Buenaventura",
+            "Municipio": "Santiago Cali",
+            "URL": "Www.Usbcali.Edu.Co",
+            "URL_programa": "",
+            "Descripcion": "",
+            "Perfil": "",
+            "Plan_de_estudios": [],
+            "iteraciones": 0,
+            "queries": []
+        },
+        {
+            "Programa": "Ingenieria Materiales",
+            "Institucion": "Universidad Autonoma Caribe- Uniautonoma",
+            "Municipio": "Barranquilla",
+            "URL": "Www.Uac.Edu.Co",
+            "URL_programa": "",
+            "Descripcion": "",
+            "Perfil": "",
+            "Plan_de_estudios": [],
+            "iteraciones": 0,
+            "queries": []
+        },
+        {
+            "Programa": "Especializacion Procesos Alimentos Biomateriales",
+            "Institucion": "Universidad Nacional Abierta Distancia Unad",
+            "Municipio": "Bogota, D.C.",
+            "URL": "Www.Unad.Edu.Co",
+            "URL_programa": "",
+            "Descripcion": "",
+            "Perfil": "",
+            "Plan_de_estudios": [],
+            "iteraciones": 0,
+            "queries": []
+        },
+        {
+            "Programa": "Especializacion Ingenieria Procesos Alimentos Biomateriales",
+            "Institucion": "Universidad Nacional Abierta Distancia Unad",
+            "Municipio": "Bogota, D.C.",
+            "URL": "Www.Unad.Edu.Co",
+            "URL_programa": "",
+            "Descripcion": "",
+            "Perfil": "",
+            "Plan_de_estudios": [],
+            "iteraciones": 0,
+            "queries": []
+        },
+        {
+            "Programa": "Ingenieria Materiales",
+=======
             "queries": [],
             "acreditado": "null",
             "modalidad": "Presencial",
@@ -1882,6 +3628,7 @@
         },
         {
             "Programa": "Especializacion Educacion Salud",
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             "Institucion": "Universidad Antonio Nariño",
             "Municipio": "Bogota, D.C.",
             "URL": "www.uan.edu.co",
@@ -1890,12 +3637,16 @@
             "Perfil": "",
             "Plan_de_estudios": [],
             "iteraciones": 0,
+<<<<<<< HEAD
+            "queries": []
+=======
             "queries": [],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
             "numero_periodo": 0,
             "periodicidad": "nan"
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
         },
         {
             "Programa": "Maestria Tecnologias Informacion Comunicacion Salud",
@@ -1907,6 +3658,73 @@
             "Perfil": "",
             "Plan_de_estudios": [],
             "iteraciones": 0,
+<<<<<<< HEAD
+            "queries": []
+        },
+        {
+            "Programa": "Especializacion Mecanica Materiales",
+            "Institucion": "Universidad Ibague",
+            "Municipio": "Ibague",
+            "URL": "Www.Unibague.Edu.Co",
+            "URL_programa": "",
+            "Descripcion": "",
+            "Perfil": "",
+            "Plan_de_estudios": [],
+            "iteraciones": 0,
+            "queries": []
+        },
+        {
+            "Programa": "Especializacion Aplicaciones Tecnologicas Materiales",
+            "Institucion": "Instituto Tecnologico Metropolitano",
+            "Municipio": "Medellin",
+            "URL": "Www.Itm.Edu.Co",
+            "URL_programa": "",
+            "Descripcion": "",
+            "Perfil": "",
+            "Plan_de_estudios": [],
+            "iteraciones": 0,
+            "queries": []
+        },
+        {
+            "Programa": "Ingenieria Nanotecnologia",
+            "Institucion": "Universidad Pontificia Bolivariana",
+            "Municipio": "Medellin",
+            "URL": "Www.Upb.Edu.Co",
+            "URL_programa": "",
+            "Descripcion": "",
+            "Perfil": "",
+            "Plan_de_estudios": [],
+            "iteraciones": 0,
+            "queries": []
+        },
+        {
+            "Programa": "Ingenieria Materiales",
+            "Institucion": "Universidad Antonio Nariño",
+            "Municipio": "Santiago Cali",
+            "URL": "Www.Uan.Edu.Co",
+            "URL_programa": "",
+            "Descripcion": "",
+            "Perfil": "",
+            "Plan_de_estudios": [],
+            "iteraciones": 0,
+            "queries": []
+        },
+        {
+            "Programa": "Ingenieria Materiales",
+            "Institucion": "Universidad Medellin",
+            "Municipio": "Medellin",
+            "URL": "Www.Udem.Edu.Co",
+            "URL_programa": "",
+            "Descripcion": "",
+            "Perfil": "",
+            "Plan_de_estudios": [],
+            "iteraciones": 0,
+            "queries": []
+        },
+        {
+            "Programa": "Ingenieria Materiales",
+            "Institucion": "Fundacion Universitaria Monserrate -Unimonserrate",
+=======
             "queries": [],
             "acreditado": "null",
             "modalidad": "Virtual",
@@ -1917,6 +3735,7 @@
         {
             "Programa": "Maestria Educacion Salud",
             "Institucion": "Fundacion Universitaria Juan N. Corpas",
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             "Municipio": "Bogota, D.C.",
             "URL": "www.juancorpas.edu.co",
             "URL_programa": "",
@@ -1924,12 +3743,28 @@
             "Perfil": "",
             "Plan_de_estudios": [],
             "iteraciones": 0,
+<<<<<<< HEAD
+            "queries": []
+        },
+        {
+            "Programa": "Especializacion Nanotecnologia Aplicada Industria Petroleo Gas",
+            "Institucion": "Universidad Nacional Colombia",
+            "Municipio": "Medellin",
+            "URL": "Www.Medellin.Unal.Edu.Co",
+            "URL_programa": "",
+            "Descripcion": "",
+            "Perfil": "",
+            "Plan_de_estudios": [],
+            "iteraciones": 0,
+            "queries": []
+=======
             "queries": [],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
             "numero_periodo": 0,
             "periodicidad": "nan"
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
         },
         {
             "Programa": "Especializacion Educacion Fisica Actividad Fisica Salud",
@@ -1941,12 +3776,28 @@
             "Perfil": "",
             "Plan_de_estudios": [],
             "iteraciones": 0,
+<<<<<<< HEAD
+            "queries": []
+        },
+        {
+            "Programa": "Especializacion Ingenieria Transformacion Materiales Plasticos",
+            "Institucion": "Universidad Autonoma Occidente",
+            "Municipio": "Santiago Cali",
+            "URL": "Www.Uao.Edu.Co",
+            "URL_programa": "",
+            "Descripcion": "",
+            "Perfil": "",
+            "Plan_de_estudios": [],
+            "iteraciones": 0,
+            "queries": []
+=======
             "queries": [],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
             "numero_periodo": 0,
             "periodicidad": "Semestral"
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
         },
         {
             "Programa": "Especializacion Educacion Profesionales Salud",
@@ -1958,6 +3809,15 @@
             "Perfil": "",
             "Plan_de_estudios": [],
             "iteraciones": 0,
+<<<<<<< HEAD
+            "queries": []
+        },
+        {
+            "Programa": "Especializacion Nanotecnologia",
+            "Institucion": "Universidad Nacional Colombia",
+            "Municipio": "Manizales",
+            "URL": "Www.Manizales.Unal.Edu.Co",
+=======
             "queries": [],
             "acreditado": "null",
             "modalidad": "Virtual",
@@ -1970,11 +3830,15 @@
             "Institucion": "Colegio Mayor Señora Rosario",
             "Municipio": "Bogota, D.C.",
             "URL": "www.urosario.edu.co",
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
             "URL_programa": "",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
             "iteraciones": 0,
+<<<<<<< HEAD
+            "queries": []
+=======
             "queries": [],
             "acreditado": "null",
             "modalidad": "Virtual",
@@ -2270,6 +4134,7 @@
             "numero_creditos": 0,
             "numero_periodo": 0,
             "periodicidad": "Semestral"
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
         }
     ],
     "target_index": 1

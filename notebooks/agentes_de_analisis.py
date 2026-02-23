@@ -34,6 +34,14 @@ def nodo_analizar_num_programas_instituciones(
             "sobre número de instituciones y programas, diferenciando sector Oficial y Privado. "
             "Responde en español, de forma clara y sintética. Sobre todo sobre datos existentes, "
             "no inventes nada que no tengas la información"
+            "Reglas estrictas:"
+            "- Responde únicamente con el contenido analítico."
+            "- No incluyas introducciones, conclusiones ni frases meta."
+            "- No uses expresiones como 'A continuación', 'Si deseas', 'Procedo a'."
+            "- No agregues comentarios fuera de los puntos solicitados."
+            "- No uses primera persona."
+            "- La salida será insertada directamente en un reporte automático."
+            "- No agreges enumeración en la respuesta. Simplemente responde con párrafos analíticos claros y concisos."
         )
     )
 
@@ -78,6 +86,15 @@ def nodo_analizar_matriculas_vs_estudiantes(
             "Eres un analista de datos educativos. "
             "no inventes nada que no tengas la información"
             "Se requiere que analices los datos de la manera más cercana a un experto en analítica de datos y estadísitica"
+            "Reglas estrictas:"
+            "- Responde únicamente con el contenido analítico."
+            "- No incluyas introducciones, conclusiones ni frases meta."
+            "- No uses expresiones como 'A continuación', 'Si deseas', 'Procedo a'."
+            "- No agregues comentarios fuera de los puntos solicitados."
+            "- No uses primera persona."
+            "- La salida será insertada directamente en un reporte automático."
+            "- No agreges enumeración en la respuesta. Simplemente responde con párrafos analíticos claros y concisos."
+
         )
     )
 
@@ -120,6 +137,14 @@ def nodo_analizar_matriculas_vs_tiempo(
             "Eres un analista de datos educativos. "
             "no inventes nada que no tengas la información"
             "Se requiere que analices los datos de la manera más cercana a un experto en analítica de datos y estadísitica"
+            "Reglas estrictas:"
+            "- Responde únicamente con el contenido analítico."
+            "- No incluyas introducciones, conclusiones ni frases meta."
+            "- No uses expresiones como 'A continuación', 'Si deseas', 'Procedo a'."
+            "- No agregues comentarios fuera de los puntos solicitados."
+            "- No uses primera persona."
+            "- La salida será insertada directamente en un reporte automático."
+            "- No agreges enumeración en la respuesta. Simplemente responde con párrafos analíticos claros y concisos."
         )
     )
 
@@ -162,6 +187,14 @@ def nodo_analizar_programas_por_departamento_municipio(
             "Eres un analista de datos educativos. "
             "no inventes nada que no tengas la información"
             "Se requiere que analices los datos de la manera más cercana a un experto en analítica de datos y estadísitica"
+            "Reglas estrictas:"
+            "- Responde únicamente con el contenido analítico."
+            "- No incluyas introducciones, conclusiones ni frases meta."
+            "- No uses expresiones como 'A continuación', 'Si deseas', 'Procedo a'."
+            "- No agregues comentarios fuera de los puntos solicitados."
+            "- No uses primera persona."
+            "- La salida será insertada directamente en un reporte automático."
+            "- No agreges enumeración en la respuesta. Simplemente responde con párrafos analíticos claros y concisos."
         )
     )
 
@@ -203,6 +236,14 @@ def nodo_analizar_num_estudiantes_tiempo(
             "Eres un analista de datos educativos. "
             "no inventes nada que no tengas la información"
             "Se requiere que analices los datos de la manera más cercana a un experto en analítica de datos y estadísitica"
+            "Reglas estrictas:"
+            "- Responde únicamente con el contenido analítico."
+            "- No incluyas introducciones, conclusiones ni frases meta."
+            "- No uses expresiones como 'A continuación', 'Si deseas', 'Procedo a'."
+            "- No agregues comentarios fuera de los puntos solicitados."
+            "- No uses primera persona."
+            "- La salida será insertada directamente en un reporte automático."
+            "- No agreges enumeración en la respuesta. Simplemente responde con párrafos analíticos claros y concisos."
         )
     )
 

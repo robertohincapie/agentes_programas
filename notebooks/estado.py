@@ -37,7 +37,11 @@ class AgentState(BaseModel):
     nombre: str
     nivel: Nivel
     descripcion: str
+<<<<<<< HEAD
+    codigos: List[str] #Palabras claves para buscar el programa en el listado de programas existentes
+=======
     requerido: str #Palabras claves para buscar el programa en el listado de programas existentes
+>>>>>>> 8260868175e9f35ff6f9f7755328c9d49915b3c3
     snies: Optional[Dict[str, Any]] = None
     analisis_num_programas_instituciones_tiempo: Optional[str] = ""
     analisis_dispersion_matricula_vs_estudiantes: Optional[str] = ""
