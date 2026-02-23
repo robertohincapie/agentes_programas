@@ -25,7 +25,7 @@ class programa_nacional(BaseModel):
     Perfil: Optional[str]
     Plan_de_estudios: Optional[List[str]] = Field(default_factory=list)
     iteraciones: int = 0
-    queries: Optional[List[str]] = Field(default_factory=list, description="Consultas de búsqueda enfocadas en reviews confiables.")
+    queries: Optional[List[Dict[str, Any]]] = Field(default_factory=list, description="Consultas de búsqueda enfocadas en reviews confiables.")
     acreditado: Optional[str]
     modalidad: Optional[str]
     numero_creditos: Optional[int]

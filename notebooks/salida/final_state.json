@@ -2261,23 +2261,41 @@
             }
         }
     },
-    "analisis_num_programas_instituciones_tiempo": "A lo largo del tiempo, predominan las instituciones del sector privado en la mayoría de los periodos hasta 2013, con 7 a 10 instituciones, mientras que el sector oficial mantiene un número constante de 5 instituciones. A partir de 2014, el número de instituciones privadas disminuye progresivamente hasta estabilizarse en 3 desde 2022, mientras que las oficiales se mantienen entre 4 y 6, con un ligero aumento a 6 en 2024-1.\n\nEn cuanto a los programas, también predominan los privados en los primeros años, con 7 a 10 programas frente a 7 oficiales constantes. Desde 2014, los programas privados disminuyen de forma gradual hasta 3 en 2022 y se mantienen en ese nivel, mientras que los programas oficiales se mantienen estables en 7 hasta 2013, luego bajan a 5 y finalmente a 6 en los últimos periodos.\n\nSe observa una tendencia clara de estabilidad en el sector oficial tanto en instituciones como en programas durante la mayor parte del periodo analizado, con una ligera recuperación en número de instituciones y programas en 2024. En contraste, el sector privado muestra un crecimiento hasta 2007, estabilidad hasta 2013, y luego una disminución progresiva y sostenida en ambos indicadores desde 2014, sin cambios bruscos pero con un descenso constante.",
-    "analisis_dispersion_matricula_vs_estudiantes": "Las universidades privadas presentan un precio promedio de matrícula considerablemente más alto que las oficiales. El promedio de matrícula para las privadas es aproximadamente 8.3 millones de pesos colombianos, mientras que para las oficiales es alrededor de 3.3 millones. Esta diferencia indica una tendencia clara de precios más elevados en el sector privado.\n\nEn cuanto a la cantidad de estudiantes, las universidades oficiales tienen un número promedio de estudiantes matriculados mucho mayor que las privadas. El promedio para las oficiales es aproximadamente 82 estudiantes, mientras que para las privadas es cerca de 18 estudiantes. Esto sugiere que los programas oficiales atraen a un mayor número de estudiantes en promedio.\n\nNo se observa una correlación negativa clara entre el precio y la cantidad de estudiantes. Algunos programas privados con matrícula alta tienen pocos estudiantes, pero también hay programas oficiales con matrícula baja y pocos estudiantes. La dispersión de datos indica que el precio no es el único factor determinante en la cantidad de estudiantes matriculados, por lo que no se puede concluir que un precio menor necesariamente aumentaría la matrícula.\n\nPara una universidad privada que considere ofrecer un programa similar, la oportunidad radica en balancear el precio con la captación de estudiantes. Dado que los programas privados tienen precios altos pero pocos estudiantes, podría ser estratégico ajustar la matrícula para hacerla más competitiva y atraer un mayor número de estudiantes, sin perder la percepción de calidad. Además, enfocarse en la diferenciación del programa y en estrategias de marketing podría ayudar a incrementar la matrícula, aprovechando la capacidad de fijar precios más altos que el sector oficial.",
-    "analisis_valor_matricula_tiempo": "Los valores de matrícula en general muestran una tendencia creciente a lo largo del tiempo para la mayoría de los programas, especialmente en las universidades privadas. Por ejemplo, la Fundación Universitaria Monserrate presenta un aumento constante desde 4.47 millones en 2021-1 hasta 5.85 millones en 2024-1, con un valor cero en 2024-2 que podría ser un dato atípico o falta de información. La Universidad Medellín también muestra un incremento desde 5.97 millones en 2021-1 hasta 7.61 millones en 2024-1, con un valor cero en 2024-2. En contraste, las universidades oficiales presentan valores más bajos y con mayor variabilidad, algunos con periodos de matrícula en cero, como la Universidad Nacional Abierta a Distancia (UNAD) y la Universidad Nacional Colombia en ciertos periodos. Sin embargo, la Universidad Nacional Colombia en su programa de Especialización en Ingeniería Materiales Procesos muestra un aumento significativo desde 7.05 millones en 2021-1 hasta 10.42 millones en 2024-1 y 2024-2, indicando que algunos programas oficiales también pueden tener tendencias crecientes.\n\nComparando los sectores, las universidades privadas tienen valores de matrícula consistentemente más altos y una tendencia más clara de crecimiento en el tiempo. Las universidades oficiales presentan valores más bajos y mayor irregularidad, con varios periodos con matrícula reportada en cero, lo que puede indicar fluctuaciones en la oferta o en la demanda. La diferencia en los valores sugiere que las universidades privadas mantienen una política de matrícula con costos más elevados y estables o en aumento, mientras que las oficiales tienen una estructura de costos más variable y generalmente menor.\n\nEl análisis de oportunidad para un programa en una universidad privada indica que existe un mercado con tendencia al alza en los valores de matrícula, lo que puede reflejar una demanda creciente o una disposición a pagar mayor por programas privados. La estabilidad y crecimiento en los valores de matrícula en universidades privadas como la Fundación Universitaria Monserrate, Universidad Medellín y Universidad Pontificia Bolivariana sugieren que un programa nuevo o ampliado en este sector podría beneficiarse de esta tendencia. Sin embargo, es importante considerar la competencia y la necesidad de diferenciar el programa para captar estudiantes dispuestos a pagar matrículas más altas. La oportunidad radica en aprovechar la percepción de valor y calidad que suelen asociarse con las instituciones privadas, así como en diseñar estrategias de marketing y oferta académica que respondan a las demandas actuales del mercado educativo.",
-    "analisis_programas_municipios": "Antioquia, con Medellín como su municipio principal, presenta la mayor cantidad de programas académicos (6), lo que refleja una concentración significativa en comparación con otros departamentos como Bogotá, Atlántico y Valle del Cauca, que tienen 2, 1 y 1 programas respectivamente. Esta distribución sugiere que Antioquia, y específicamente Medellín, tiene una vocación económica y educativa más desarrollada o diversificada, posiblemente vinculada a su dinamismo industrial, tecnológico y comercial, que demanda una oferta académica amplia y variada.\n\nLa apertura de un nuevo programa en Medellín podría tener una buena oportunidad debido a la alta concentración de programas existentes, lo que indica un mercado educativo activo y una demanda potencialmente alta. Sin embargo, esta concentración también implica una competencia considerable, por lo que el programa debería diferenciarse o alinearse con las necesidades específicas del sector económico local para captar estudiantes.\n\nPara una universidad privada, la oportunidad radica en aprovechar la vocación económica de Medellín, que es un centro de innovación y desarrollo empresarial. La tendencia de concentración de programas en esta ciudad sugiere que existe un ecosistema favorable para la educación superior, pero la universidad debe identificar nichos o áreas emergentes que no estén saturadas para maximizar su impacto y atraer estudiantes. La estrategia debería enfocarse en programas que respondan a las demandas del mercado laboral local y regional, garantizando así la relevancia y sostenibilidad del nuevo programa.",
-    "analisis_numero_de_estudiantes": "En todos los sectores, se observa que los valores de inscritos y matriculados son relativamente altos y estables a lo largo del tiempo, con matriculados consistentemente superiores a inscritos en varios periodos, lo que sugiere posibles inconsistencias en la definición o reporte de los datos. En universidades oficiales, la tendencia es similar, con matriculados generalmente cercanos o superiores a inscritos, indicando una alta capacidad de absorción y retención en el proceso de matrícula. En contraste, las universidades privadas muestran valores muy bajos o nulos en inscritos y matriculados en los primeros años, con un aumento gradual a partir de 2007-1, aunque los números siguen siendo considerablemente menores que en los otros sectores. Esto indica una menor participación o desarrollo inicial en el sector privado, con una tendencia de crecimiento más reciente.\n\nRespecto a la diferencia entre inscritos y matriculados, en todos los sectores y en universidades oficiales, la cantidad de matriculados supera o es muy cercana a la de inscritos, lo que es atípico, ya que normalmente se esperaría que matriculados sean iguales o menores que inscritos. Esto podría indicar problemas en la captura o definición de los datos. En universidades privadas, aunque los números son bajos, matriculados también tienden a ser iguales o mayores que inscritos en varios periodos, pero con una proporción más variable. La capacidad de absorción en universidades oficiales parece alta, mientras que en privadas es más limitada pero con señales de mejora. La baja inscripción en privadas en los primeros años sugiere menor interés o menor oferta, mientras que la diferencia entre inscritos y matriculados en todos los sectores no permite una evaluación clara sin aclarar la metodología de registro.\n\nPara una universidad privada, el análisis muestra una oportunidad de crecimiento en la matrícula, dado que el sector privado ha incrementado sus matriculados y admitidos desde 2007, aunque aún con números bajos comparados con el sector oficial y total. La baja inscripción inicial indica que hay espacio para captar mayor interés estudiantil. Sin embargo, la universidad debe investigar y mejorar la conversión de inscritos a matriculados, asegurando que los procesos administrativos y de apoyo faciliten la matrícula efectiva. La tendencia creciente en admitidos y matriculados en el sector privado sugiere que con estrategias adecuadas de promoción y acompañamiento, existe potencial para aumentar la participación y consolidar la oferta educativa en este sector.",
+    "analisis_num_programas_instituciones_tiempo": "A lo largo del tiempo, predominan las instituciones del sector privado en la mayoría de los periodos hasta aproximadamente 2013, con un número constante de 7 instituciones privadas frente a 5 oficiales. A partir de 2014, el número de instituciones privadas comienza a disminuir progresivamente, llegando a 3 en los últimos periodos, mientras que las instituciones oficiales se mantienen estables o ligeramente fluctuantes, incluso alcanzando 6 en el primer semestre de 2024.\n\nEn cuanto a los programas, también predominan los privados en la mayoría de los periodos iniciales, con 7 programas privados frente a 7 oficiales, y luego 10 programas privados frente a 7 oficiales entre 2007 y 2013. A partir de 2014, los programas privados disminuyen de manera significativa, llegando a 3 en los últimos periodos, mientras que los programas oficiales se mantienen relativamente estables, con una ligera reducción en algunos semestres, pero sin caer por debajo de 5 programas hasta 2016, y luego manteniéndose en 6 programas en los últimos semestres.\n\nSe observa una tendencia clara de estabilidad en el sector oficial en cuanto a número de instituciones y programas durante la mayor parte del periodo analizado, con una ligera recuperación en instituciones hacia 2024. En contraste, el sector privado muestra un crecimiento notable en instituciones y programas entre 2007 y 2013, seguido de una disminución progresiva y significativa desde 2014 hasta la actualidad. No se presentan cambios bruscos en el sector oficial, mientras que el sector privado experimenta un cambio marcado a partir de 2014, con reducción sostenida en ambos indicadores.",
+    "analisis_dispersion_matricula_vs_estudiantes": "Las universidades privadas presentan un precio promedio de matrícula considerablemente más alto que las oficiales. El promedio de matrícula para las privadas es aproximadamente 8.5 millones de pesos colombianos, mientras que para las oficiales es alrededor de 3.3 millones. Esta diferencia indica una tendencia clara de precios más elevados en el sector privado.\n\nEn cuanto a la cantidad de estudiantes, las universidades oficiales tienen un número promedio de estudiantes matriculados mucho mayor que las privadas. El promedio para las oficiales es aproximadamente 82 estudiantes, mientras que para las privadas es cerca de 18 estudiantes. Esto sugiere que los programas oficiales atraen a un mayor número de estudiantes en comparación con los privados.\n\nNo se observa una correlación negativa clara entre el precio de la matrícula y el número de estudiantes matriculados. Algunos programas privados con matrícula alta tienen pocos estudiantes, pero también hay programas oficiales con matrícula baja y pocos estudiantes. La variabilidad en el número de estudiantes no parece estar directamente influenciada por el precio, lo que indica que reducir el precio no garantiza un aumento en la matrícula.\n\nPara un programa en una universidad privada, la oportunidad radica en justificar el precio elevado mediante la calidad, especialización o valor agregado del programa, dado que el precio alto no necesariamente limita la cantidad de estudiantes. Sin embargo, para aumentar la matrícula, la universidad debería enfocarse en estrategias adicionales como mejorar la visibilidad, la oferta académica diferenciada o beneficios complementarios, más allá de ajustar el precio.",
+    "analisis_valor_matricula_tiempo": "Los valores de matrícula en general muestran una tendencia creciente en la mayoría de las instituciones, especialmente en los períodos más recientes (2023-1 y 2024-1). Por ejemplo, la Fundación Universitaria Monserrate presenta un aumento constante desde 4.46 millones en 2021-1 hasta 5.85 millones en 2024-1, y la Universidad Medellín también incrementa de 5.97 millones en 2021-1 a 7.61 millones en 2024-1. En las universidades oficiales, aunque los valores son menores en magnitud, también se observa un crecimiento en algunos casos, como la Universidad Nacional Colombia - Especialización Ingeniería Materiales Procesos, que pasa de 7.04 millones en 2021-1 a 10.42 millones en 2024-1, con fluctuaciones intermedias.\n\nComparando los sectores, las universidades privadas tienden a tener valores de matrícula más altos y un crecimiento más marcado en términos absolutos. Por ejemplo, la Universidad Pontificia Bolivariana muestra un aumento desde 9.09 millones en 2021-1 hasta 11.49 millones en 2024-2, mientras que las universidades oficiales presentan valores más bajos y con mayor variabilidad, incluyendo períodos con valor cero, como la Universidad Nacional Abierta a Distancia Unad. Esto indica que la evolución de la matrícula en universidades privadas es más estable y con una tendencia ascendente más clara, mientras que en las oficiales hay mayor irregularidad y valores más bajos.\n\nEl análisis de oportunidad para un programa en una universidad privada sugiere un mercado favorable, dado que las matrículas en estos centros son consistentemente más altas y muestran un crecimiento sostenido. La demanda parece estar aumentando, lo que puede reflejar una mayor disposición a pagar o una percepción de mayor valor en la oferta privada. Sin embargo, se debe considerar la competencia existente, ya que varias universidades privadas ya tienen matrículas elevadas y en crecimiento. La oportunidad radica en posicionar el programa con características diferenciadoras que justifiquen la inversión del estudiante, aprovechando la tendencia positiva y la estabilidad en el sector privado.",
+    "analisis_programas_municipios": "Antioquia, con Medellín como su municipio principal, presenta la mayor cantidad de programas académicos (6), lo que refleja una concentración significativa en comparación con otros departamentos como Bogotá, Atlántico y Valle del Cauca, que tienen 2, 1 y 1 programas respectivamente. Esta distribución sugiere que Antioquia, y específicamente Medellín, tiene una vocación económica y educativa más desarrollada o diversificada, posiblemente vinculada a su dinamismo industrial, tecnológico y comercial. En contraste, departamentos con menor número de programas pueden tener economías más especializadas o menos diversificadas, lo que se refleja en la oferta académica.\n\nLa apertura de un nuevo programa en Medellín podría tener una buena oportunidad debido a la alta concentración de programas existentes, lo que indica una demanda educativa robusta y un ecosistema académico consolidado. Sin embargo, esta concentración también implica mayor competencia, por lo que el programa debería diferenciarse o alinearse con las necesidades específicas del mercado laboral local para maximizar su impacto.\n\nPara una universidad privada, la oportunidad radica en aprovechar la tendencia de concentración académica en Medellín, capitalizando la demanda de formación especializada en sectores clave de la economía regional. La presencia de múltiples programas sugiere un mercado activo, pero la universidad debe identificar nichos o áreas emergentes que no estén saturadas para posicionarse estratégicamente y atraer estudiantes interesados en formación innovadora o con alta empleabilidad.",
+    "analisis_numero_de_estudiantes": "En todos los sectores, se observa que los valores de inscritos y matriculados presentan una tendencia general de estabilidad con fluctuaciones moderadas a lo largo del tiempo. Sin embargo, en los primeros periodos (2000-1 a 2006-2) no hay datos de admitidos, y a partir de 2007-1 se registra un aumento en admitidos y nuevos matriculados, lo que indica un cambio en el proceso o en la captura de datos. En universidades oficiales, la tendencia es similar a la de todos los sectores, con valores de inscritos y matriculados altos y relativamente estables, y un aumento en admitidos a partir de 2007-1. En contraste, las universidades privadas muestran valores muy bajos o nulos en inscritos y admitidos hasta aproximadamente 2007-1, con un aumento gradual posterior, aunque los valores siguen siendo considerablemente menores que en los sectores oficiales y totales. Esto indica una diferencia importante en la escala y posiblemente en la capacidad o interés entre los sectores oficiales y privados.\n\nEn cuanto a la diferencia entre inscritos y matriculados, en todos los sectores y en universidades oficiales, el número de matriculados es consistentemente mayor o similar al de inscritos, lo que sugiere que la inscripción no es un limitante para la matrícula y que la capacidad de absorción es alta. En universidades privadas, los inscritos son muy bajos o nulos en muchos periodos, pero los matriculados, aunque bajos, a veces superan a los inscritos, lo que puede indicar registros incompletos o procesos diferentes. La capacidad de absorción en universidades privadas parece limitada por el bajo interés o la baja inscripción, más que por la conversión de inscritos a matriculados. En general, la capacidad de absorción en universidades oficiales y en todos los sectores es alta, mientras que en privadas es baja debido a la baja inscripción.\n\nPara una universidad privada, el análisis de oportunidad muestra que existe un mercado potencial poco explotado, dado que los valores de inscritos y admitidos son bajos en comparación con los sectores oficiales. La tendencia creciente en admitidos y matriculados desde 2007-1 indica que hay un interés creciente, aunque aún limitado. La baja inscripción sugiere que la universidad privada podría mejorar su captación de estudiantes interesados, y dado que la capacidad de absorción en el sector privado no está saturada, hay espacio para aumentar la matrícula si se incrementa la inscripción. Por lo tanto, la oportunidad radica en fortalecer estrategias de promoción y captación para aumentar el interés y la inscripción, aprovechando la capacidad disponible para matricular a más estudiantes.",
     "informacion_programas_nacionales": [
         {
             "Programa": "Especializacion Ingenieria Materiales Procesos",
             "Institucion": "Universidad Nacional Colombia",
             "Municipio": "Medellin",
             "URL": "www.medellin.unal.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.medellin.unal.edu.co/~sede/noticias/5351-admisiones-2025-1.html",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.medellin.unal.edu.co \"Especializacion Ingenieria Materiales Procesos\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.medellin.unal.edu.co",
+                    "best_url": "https://www.medellin.unal.edu.co/~sede/noticias/5351-admisiones-2025-1.html",
+                    "supporting_urls": [
+                        "https://www.medellin.unal.edu.co/~sede/noticias/5351-admisiones-2025-1.html",
+                        "https://www.medellin.unal.edu.co/fuenteshistoricas/laboratorio/reglamento-de-consulta.html",
+                        "https://www.medellin.unal.edu.co/noticias/email_masivos/Comunicaciones/Proyectos-Estudiantes.pdf",
+                        "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/630-especializacion-en-inteligencia-artificial-nueva-en-la-unal.html",
+                        "https://www.medellin.unal.edu.co/~sede/noticias/2554-nueva-especializacion-en-eco-eficiencia-industrial-respuesta-al-compromiso-ambiental.html",
+                        "https://www.medellin.unal.edu.co/~sede/2-institucional.html",
+                        "https://www.medellin.unal.edu.co/~sede/noticias/3680-con-caracterizacion-de-residuos-solidos-la-unal-medellin-busca-disminuir-sus-desechos.html",
+                        "https://www.medellin.unal.edu.co/~sede/noticias/5316-ingenieros-capacidades-profes.html"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2289,12 +2307,26 @@
             "Institucion": "Universidad Antioquia",
             "Municipio": "Medellin",
             "URL": "www.udea.edu.co",
-            "URL_programa": "",
-            "Descripcion": "",
-            "Perfil": "",
-            "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "URL_programa": "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/acerca-programa",
+            "Descripcion": "El pregrado de Ingeniería de Materiales es un programa presencial en Medellín, con duración de 10 semestres, registro calificado 03304 (2018) y acreditación de alta calidad según resolución 003242 del Ministerio de Educación Nacional (2020). Su objetivo general es formar profesionales con competencias científicas, técnicas y humanísticas acordes a las demandas sociales, ambientales e industriales. Su misión es formar profesionales con fundamentación técnica, científica y socio‑humanística con calidad internacional, capaces de diseñar, transformar y producir materiales; su visión plantea que hacia 2030 el Departamento será líder en Colombia por la competencia de sus profesionales mediante investigación y extensión para solucionar problemas de alto impacto social, económico y tecnológico. Objetivos específicos incluyen preparar ingenieros con formación básica para el autodesarrollo, y proporcionar conocimientos científicos y técnicos para el diseño, análisis, supervisión y control de procesos de materiales metálicos, plásticos, cerámicos y compuestos.",
+            "Perfil": "La carrera está orientada a la selección, diseño, transformación, producción, caracterización y comercialización de materiales metálicos, poliméricos, cerámicos y compuestos. El egresado adquiere competencias científicas, técnicas y humanísticas, y fundamentos teóricos y prácticos en preparación, caracterización, simulación, manejo de materias primas y procesamiento de materiales aplicables en sectores como minería y beneficio de minerales; metalmecánico; construcción; plásticos, resinas termoestables y cauchos; cerámicos y vidrio; generación de energía; gas y petróleo; reciclaje y recuperación de materiales; protección de estructuras; transporte; comercialización de materiales y equipos de procesamiento.",
+            "Plan_de_estudios": [
+                "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/plan-estudios-ingenieria-materiales"
+            ],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.udea.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.udea.edu.co",
+                    "best_url": "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/acerca-programa",
+                    "supporting_urls": [
+                        "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/perfil-ingenieria-materiales",
+                        "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/plan-estudios-ingenieria-materiales"
+                    ],
+                    "notes": "La URL de “acerca‑programa” fue seleccionada como ’best_url’ porque en ella se encuentra la descripción y los objetivos generales, específicos, misión y visión fundamentales del programa. La URL de “perfil‑ingenieria‑materiales” aporta la descripción del perfil del egresado y campos de acción. La URL de “plan‑estudios‑ingenieria‑materiales” incluye la información sobre las versiones disponibles del plan de estudios; sin embargo, no proporciona el detalle completo de asignaturas, por lo que el campo plan_de_estudios resume solo esa información. No se encontraron páginas con el pensum detallado en el dominio dentro de estas búsquedas."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2306,12 +2338,30 @@
             "Institucion": "Universidad Valle",
             "Municipio": "Santiago Cali",
             "URL": "www.univalle.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.univalle.edu.co/lo-que-pasa-en-la-u/historia-de-la-facultad-de-ingenieria",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.univalle.edu.co \"Especializacion Materiales Ingenieria\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Santiago Cali",
+                    "allowed_domain": "www.univalle.edu.co",
+                    "best_url": "https://www.univalle.edu.co/lo-que-pasa-en-la-u/historia-de-la-facultad-de-ingenieria",
+                    "supporting_urls": [
+                        "https://www.univalle.edu.co/lo-que-pasa-en-la-u/historia-de-la-facultad-de-ingenieria",
+                        "https://www.univalle.edu.co/lo-que-pasa-en-la-u/motivacion-cuantica-y-materiales-el-futuro-de-las-ingenierias",
+                        "https://www.univalle.edu.co/lo-que-pasa-en-la-u/inicia-proceso-de-inscripcion-y-admision-para-posgrados-en-ingenieria",
+                        "https://www.univalle.edu.co/facultades/ingenieria",
+                        "https://www.univalle.edu.co/proyeccion-internacional/univalle-un-centro-de-desarrollo-de-biomateriales-que-atrae-talento-internacional",
+                        "https://www.univalle.edu.co/lo-que-pasa-en-la-u/conozca-primer-programa-virtual-univalle",
+                        "https://www.univalle.edu.co/universidad-y-region/egresado-de-ingenieria-materiales-participa-en-gran-inventor-colombia",
+                        "https://www.univalle.edu.co/lo-que-pasa-en-la-u/xi-simposio-de-investigacion-y-posgrados"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2323,12 +2373,30 @@
             "Institucion": "Universidad Valle",
             "Municipio": "Santiago Cali",
             "URL": "www.univalle.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.univalle.edu.co/lo-que-pasa-en-la-u/motivacion-cuantica-y-materiales-el-futuro-de-las-ingenierias",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.univalle.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Santiago Cali",
+                    "allowed_domain": "www.univalle.edu.co",
+                    "best_url": "https://www.univalle.edu.co/lo-que-pasa-en-la-u/motivacion-cuantica-y-materiales-el-futuro-de-las-ingenierias",
+                    "supporting_urls": [
+                        "https://www.univalle.edu.co/lo-que-pasa-en-la-u/motivacion-cuantica-y-materiales-el-futuro-de-las-ingenierias",
+                        "https://www.univalle.edu.co/lo-que-pasa-en-la-u/ingenieria-de-materiales-recibe-acreditacion-de-alta-calidad",
+                        "https://www.univalle.edu.co/facultades/ingenieria",
+                        "https://www.univalle.edu.co/proyeccion-internacional/univalle-un-centro-de-desarrollo-de-biomateriales-que-atrae-talento-internacional",
+                        "https://www.univalle.edu.co/formacion/pregrado",
+                        "https://www.univalle.edu.co/ciencia-y-tecnologia/ingenieria-para-transformar-el-aprendizaje",
+                        "https://www.univalle.edu.co/universidad-y-region/egresado-de-ingenieria-materiales-participa-en-gran-inventor-colombia",
+                        "https://www.univalle.edu.co/ciencia-y-tecnologia/univalle-y-argos-obtienen-patente-conjunta"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2340,12 +2408,30 @@
             "Institucion": "Universidad Eafit-",
             "Municipio": "Medellin",
             "URL": "www.eafit.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.eafit.edu.co/plan-de-estudio/especializacion-en-diseno-mecanico",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.eafit.edu.co \"Especializacion Diseño Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.eafit.edu.co",
+                    "best_url": "https://www.eafit.edu.co/plan-de-estudio/especializacion-en-diseno-mecanico",
+                    "supporting_urls": [
+                        "https://www.eafit.edu.co/plan-de-estudio/especializacion-en-diseno-mecanico",
+                        "https://www.eafit.edu.co/plan-de-estudio/especializacion-diseno-vial-e-ingenieria-de-pavimentos",
+                        "https://www.eafit.edu.co/plan-de-estudio/especializacion-en-diseno-integrado-de-sistemas-tecnicos",
+                        "https://www.eafit.edu.co/especializacion-diseno-mecanico",
+                        "https://www.eafit.edu.co/nuestros-profesores/claudia-constanza-palacio-espinosa",
+                        "https://www.eafit.edu.co/nuestros-profesores/david-velasquez-rendon",
+                        "https://www.eafit.edu.co/nuestros-profesores/daniel-sanin-villa",
+                        "https://www.eafit.edu.co/nuestros-profesores/michael-daniel-giraldo-galindo"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2357,12 +2443,21 @@
             "Institucion": "Universidad San Buenaventura",
             "Municipio": "Santiago Cali",
             "URL": "www.usbcali.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.usbcali.edu.co/wp-content/uploads/2024/11/VALORES-PREGRADO-2025.pdf",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.usbcali.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Santiago Cali",
+                    "allowed_domain": "www.usbcali.edu.co",
+                    "best_url": "https://www.usbcali.edu.co/wp-content/uploads/2024/11/VALORES-PREGRADO-2025.pdf",
+                    "supporting_urls": [],
+                    "notes": "No se encontraron resultados en el dominio usbcali.edu.co relacionados con el programa 'Ingeniería de Materiales'. Es posible que tal programa no exista bajo ese nombre en la Universidad San Buenaventura Cali, o que la información esté redactada con otra denominación. Se recomienda verificar la denominación exacta del programa o consultar directamente con la institución."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2374,12 +2469,30 @@
             "Institucion": "Universidad Autonoma Caribe- Uniautonoma",
             "Municipio": "Barranquilla",
             "URL": "www.uac.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.uac.edu.co/facultad-de-ingenieria/",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.uac.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Barranquilla",
+                    "allowed_domain": "www.uac.edu.co",
+                    "best_url": "https://www.uac.edu.co/facultad-de-ingenieria/",
+                    "supporting_urls": [
+                        "https://www.uac.edu.co/facultad-de-ingenieria/",
+                        "https://www.uac.edu.co/programacion-clases-modelo/ingeniero-por-un-dia/",
+                        "https://www.uac.edu.co/pregrado/ingenieria-mecatronica/",
+                        "https://www.uac.edu.co/pregrado/ingenieria-de-sistemas/",
+                        "https://www.uac.edu.co/especializaciones/especializacion-en-gestion-de-la-seguridad-y-salud-en-el-trabajo/",
+                        "https://www.uac.edu.co/uniautonoma-estreno-vision-360-un-giro-de-experiencias-tecnologia-y-pasion-por-la-ingenieria/",
+                        "https://www.uac.edu.co/pregrado/ingenieria-sistemas/",
+                        "https://www.uac.edu.co/pregrado/ingenieria-industrial/"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2391,12 +2504,30 @@
             "Institucion": "Universidad Nacional Abierta Distancia Unad",
             "Municipio": "Bogota, D.C.",
             "URL": "www.unad.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.unad.edu.co/feria-virtual-posgrados/maestria-en-gerencia-de-proyectos.html",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.unad.edu.co \"Especializacion Procesos Alimentos Biomateriales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Bogota, D.C.",
+                    "allowed_domain": "www.unad.edu.co",
+                    "best_url": "https://www.unad.edu.co/feria-virtual-posgrados/maestria-en-gerencia-de-proyectos.html",
+                    "supporting_urls": [
+                        "https://www.unad.edu.co/feria-virtual-posgrados/maestria-en-gerencia-de-proyectos.html",
+                        "https://www.unad.edu.co/feria-virtual-posgrados/especializacion-en-responsabilidad-social-y-ambiental.html",
+                        "https://www.unad.edu.co/feria-virtual-posgrados/maestria-en-diseno-de-experiencia-de-usuario.html",
+                        "https://www.unad.edu.co/feria-virtual-posgrados/maestria-en-agronegocios.html",
+                        "https://www.unad.edu.co/portafolio",
+                        "https://www.unad.edu.co/feria-virtual-posgrados/ecbti.html",
+                        "https://www.unad.edu.co/feria-virtual-posgrados/maestria-en-desarrollo-alternativo-sostenible-y-solidario.html",
+                        "https://www.unad.edu.co/plandesolidaridad/index.html"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Virtual",
             "numero_creditos": 0,
@@ -2408,12 +2539,30 @@
             "Institucion": "Universidad Nacional Abierta Distancia Unad",
             "Municipio": "Bogota, D.C.",
             "URL": "www.unad.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.unad.edu.co/feria-virtual-posgrados/especializacion-en-responsabilidad-social-y-ambiental.html",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.unad.edu.co \"Especializacion Ingenieria Procesos Alimentos Biomateriales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Bogota, D.C.",
+                    "allowed_domain": "www.unad.edu.co",
+                    "best_url": "https://www.unad.edu.co/feria-virtual-posgrados/especializacion-en-responsabilidad-social-y-ambiental.html",
+                    "supporting_urls": [
+                        "https://www.unad.edu.co/feria-virtual-posgrados/especializacion-en-responsabilidad-social-y-ambiental.html",
+                        "https://www.unad.edu.co/feria-virtual-posgrados/maestria-en-agronegocios.html",
+                        "https://www.unad.edu.co/images/covid-19/documentos/ECBTI_.pdf",
+                        "https://www.unad.edu.co/feria-virtual-posgrados/ecbti.html",
+                        "https://www.unad.edu.co/feria-virtual-posgrados/maestria-en-diseno-de-experiencia-de-usuario.html",
+                        "https://www.unad.edu.co/normatividad",
+                        "https://www.unad.edu.co/feria-virtual-posgrados/maestria-en-desarrollo-alternativo-sostenible-y-solidario.html",
+                        "https://www.unad.edu.co/feria-virtual-posgrados/ecapma.html"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "A Distancia",
             "numero_creditos": 0,
@@ -2425,12 +2574,30 @@
             "Institucion": "Universidad Antonio Nariño",
             "Municipio": "Bogota, D.C.",
             "URL": "www.uan.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.uan.edu.co/ingenieria-civil-plan-de-estudio",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.uan.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Bogota, D.C.",
+                    "allowed_domain": "www.uan.edu.co",
+                    "best_url": "https://www.uan.edu.co/ingenieria-civil-plan-de-estudio",
+                    "supporting_urls": [
+                        "https://www.uan.edu.co/ingenieria-civil-plan-de-estudio",
+                        "https://www.uan.edu.co/ingenieria-mecanica-plan-de-estudio",
+                        "https://www.uan.edu.co/noticias/uan-en-los-medios/estudiar-ingenieria-mecanica-en-la-uan-una-experiencia-que-transforma-el-futuro",
+                        "https://www.uan.edu.co/facultad-de-ingenieria-ambiental-servicios/descripcion",
+                        "https://www.uan.edu.co/ingenieria-industrial",
+                        "https://www.uan.edu.co/component/k2/item/4375-egresados",
+                        "https://www.uan.edu.co/ingenieria-civil",
+                        "https://www.uan.edu.co/ingenieria-electromecanica-egresados"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2442,12 +2609,21 @@
             "Institucion": "Universidad Antonio Nariño",
             "Municipio": "Medellin",
             "URL": "www.uan.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.uan.edu.co/noticias/uan-en-los-medios/estudiar-ingenieria-mecanica-en-la-uan-una-experiencia-que-transforma-el-futuro",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.uan.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.uan.edu.co",
+                    "best_url": "https://www.uan.edu.co/noticias/uan-en-los-medios/estudiar-ingenieria-mecanica-en-la-uan-una-experiencia-que-transforma-el-futuro",
+                    "supporting_urls": [],
+                    "notes": "No se pudo encontrar información específica sobre el programa de Ingeniería de Materiales en la sede de Medellín en el dominio autorizado (www.uan.edu.co). Ninguna de las páginas recuperadas contenía información relacionada con “Ingeniería de Materiales”, ya sea en términos de descripción, perfil o plan de estudios. Se sugiere contactar directamente la universidad o la facultad correspondiente para obtener información detallada, o verificar que el nombre del programa esté registrado correctamente en el sitio."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2459,12 +2635,30 @@
             "Institucion": "Universidad Ibague",
             "Municipio": "Ibague",
             "URL": "www.unibague.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.unibague.edu.co/mecanica",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.unibague.edu.co \"Especializacion Mecanica Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Ibague",
+                    "allowed_domain": "www.unibague.edu.co",
+                    "best_url": "https://www.unibague.edu.co/mecanica",
+                    "supporting_urls": [
+                        "https://www.unibague.edu.co/mecanica",
+                        "https://www.unibague.edu.co/noticias-institucionales/1198-profesor-de-unibague-mostrara-el-blending-learning-en-california",
+                        "https://www.unibague.edu.co/noticias-institucionales/2712-su-mecanica-es-investigar-en-equipo",
+                        "https://www.unibague.edu.co/directorio/derecho",
+                        "https://www.unibague.edu.co/arquitectura",
+                        "https://www.unibague.edu.co/noticias-institucionales/3704-ingenieria-mecanica-recibe-nueva-acreditacion-de-calidad",
+                        "https://www.unibague.edu.co/component/contact/",
+                        "https://www.unibague.edu.co/noticias-institucionales/3536-el-derecho-penal-una-especializacion-insigne-de-unibague"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2476,12 +2670,25 @@
             "Institucion": "Instituto Tecnologico Metropolitano",
             "Municipio": "Medellin",
             "URL": "www.itm.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.itm.edu.co/especializaciones/bioinformatica/",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.itm.edu.co \"Especializacion Aplicaciones Tecnologicas Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.itm.edu.co",
+                    "best_url": "https://www.itm.edu.co/especializaciones/bioinformatica/",
+                    "supporting_urls": [
+                        "https://www.itm.edu.co/wp-content/uploads/egresados/Informe-de-empleabilidad-Egresados-ITM-Cohorte-2017.-FINAL.pdf",
+                        "https://www.itm.edu.co/wp-content/uploads/consejo-directivo/acuerdos/ACUERDO-No.018-POR-MEDIO-DEL-CUAL-SE-ADOPTA-EL-MODELO-PEDAGOGICO-DEL-INSTITUTO-TECNOLOGICO-METROPOLITANO-%E2%80%93-ITM.pdf",
+                        "https://www.itm.edu.co/wp-content/uploads/informes/CENTROS-DE-COSTOS-ITM.docx.pdf"
+                    ],
+                    "notes": "No se encontró una página específica en el sitio web del ITM dedicada a la Especialización en Aplicaciones Tecnológicas de los Materiales que contenga descripción, perfil o plan de estudios. Se halló evidencia de su existencia en documentos institucionales (informe de empleabilidad, acta de diseño de programa y listado interno de centros de costos) que confirman su registro y título, pero no se dispone de contenido informativo detallado como descripción, perfil o pensum. Por ello dichos campos se dejan como null."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2493,12 +2700,30 @@
             "Institucion": "Universidad Pontificia Bolivariana",
             "Municipio": "Medellin",
             "URL": "www.upb.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.upb.edu.co/es/pregrados/ingenieria-nanotecnologia-medellin",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.upb.edu.co \"Ingenieria Nanotecnologia\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.upb.edu.co",
+                    "best_url": "https://www.upb.edu.co/es/pregrados/ingenieria-nanotecnologia-medellin",
+                    "supporting_urls": [
+                        "https://www.upb.edu.co/es/pregrados/ingenieria-nanotecnologia-medellin",
+                        "https://www.upb.edu.co/es/postgrados/maestria-nanobioingenieria",
+                        "https://www.upb.edu.co/es/noticias/helado-que-no-se-derrite",
+                        "https://www.upb.edu.co/es/central-laboratorios/materiales/nanociencia-y-nanotecnologia",
+                        "https://www.upb.edu.co/es/formacion-continua/curso-nanotecnologia-innovacion-alimentos",
+                        "https://www.upb.edu.co/es/pregrados/ingenieria-electronica-medellin",
+                        "https://www.upb.edu.co/es/pregrados/ingenieria-industrial-medellin",
+                        "https://www.upb.edu.co/es/pregrados/ingenieria-ambiental-medellin"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2510,12 +2735,30 @@
             "Institucion": "Universidad Antonio Nariño",
             "Municipio": "Santiago Cali",
             "URL": "www.uan.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.uan.edu.co/ingenieria-civil-plan-de-estudio",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.uan.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Santiago Cali",
+                    "allowed_domain": "www.uan.edu.co",
+                    "best_url": "https://www.uan.edu.co/ingenieria-civil-plan-de-estudio",
+                    "supporting_urls": [
+                        "https://www.uan.edu.co/ingenieria-civil-plan-de-estudio",
+                        "https://www.uan.edu.co/component/k2/item/251-plan-de-estudios-ingenieria-mecatronica",
+                        "https://www.uan.edu.co/component/k2/item/2762-plan-de-estudios-ingenieria-civil",
+                        "https://www.uan.edu.co/ingenieria-civil",
+                        "https://www.uan.edu.co/component/k2/item/709-plan-de-estudios-ing-biomedica",
+                        "https://www.uan.edu.co/component/k2/item/945-plan-de-estudios-ing-mecanica",
+                        "https://www.uan.edu.co/ingenieria-biomedica",
+                        "https://www.uan.edu.co/images/Institucion/ItemsInstitucionales/documentos/LineamientosCurriculares.pdf"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2531,8 +2774,17 @@
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.udem.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.udem.edu.co",
+                    "best_url": "",
+                    "supporting_urls": [],
+                    "notes": "No resultados encontrados en el dominio www.udem.edu.co para Ingeniería de Materiales en Medellín con los términos de búsqueda especificados. Es posible que el programa no exista en dicha universidad o que la página utilice una denominación diferente. Puede intentar verificar el nombre exacto del programa o contactar directamente a la universidad para mayor precisión."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2544,12 +2796,30 @@
             "Institucion": "Fundacion Universitaria Monserrate -Unimonserrate",
             "Municipio": "Bogota, D.C.",
             "URL": "www.unimonserrate.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.unimonserrate.edu.co/wp-content/uploads/2023/11/Brochure_AuxiliarServiciosFarmaceuticos2.pdf",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.unimonserrate.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Bogota, D.C.",
+                    "allowed_domain": "www.unimonserrate.edu.co",
+                    "best_url": "https://www.unimonserrate.edu.co/wp-content/uploads/2023/11/Brochure_AuxiliarServiciosFarmaceuticos2.pdf",
+                    "supporting_urls": [
+                        "https://www.unimonserrate.edu.co/wp-content/uploads/2023/11/Brochure_AuxiliarServiciosFarmaceuticos2.pdf",
+                        "https://www.unimonserrate.edu.co/wp-content/uploads/2024/02/Ingenieria-de-Sistemas.pdf",
+                        "https://www.unimonserrate.edu.co/wp-content/uploads/2022/12/Reglamento-Estudiantil-Modificado-2022-1.pdf",
+                        "https://www.unimonserrate.edu.co/wp-content/uploads/2020/01/Manual-Matricula-Estudiante-FUM.pdf",
+                        "https://www.unimonserrate.edu.co/wp-content/uploads/2022/01/20200423-Informe-de-gestion-Unimonserrate-2019.pdf",
+                        "https://www.unimonserrate.edu.co/wp-content/uploads/2017/10/pe-ingenieria-materiales.pdf",
+                        "https://www.unimonserrate.edu.co/wp-content/uploads/2022/01/20220114-Informe-de-gestion-2014-2018-Unimonserrate.pdf",
+                        "https://www.unimonserrate.edu.co/wp-content/uploads/2021/04/Informe-de-gesti%C3%B3n-2020.pdf"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2561,12 +2831,30 @@
             "Institucion": "Universidad Antioquia",
             "Municipio": "Medellin",
             "URL": "www.udea.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/plan-estudios-ingenieria-materiales",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.udea.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.udea.edu.co",
+                    "best_url": "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/plan-estudios-ingenieria-materiales",
+                    "supporting_urls": [
+                        "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/plan-estudios-ingenieria-materiales",
+                        "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/%21ut/p/z1/3ZRNc6JAEIb_Ch48UtMDw9cRDRowQXFXE7hstczEzBYMBtBs7a9fTPajXCuarZSX5QLNvP009PS8JCP3JFO4k2tsZaWw6OI0s7_EiRVQYwg3U2dugT2eWs7k2jGimJG7F4HrDQ3qM7iBCbXAT4JZ_Hk6nF1FBsnekw9vXD68L_-EIDuNX5KMZLlqN-0jSTdV3WKx5QL7gM1h9FiV4vV5qyRHLhoNc-S93OyhV8ocmz5ItRZKivrlJe-komm3XGKtCaUVqD1gvi1a5H3Y1GJdI6-OkzQutBJbUUssRLecV6rt1nm1_4jfQVMKte0wBSr9tUjV6L9IEvU_hP3_bXLJSSqEy9Bdgb4Cx9SZIXIdc0p1b8UYE5QK4KLrZ3bY8vEkcCG5DQdRHI-CYMBOC-wxHAmi-RASZi6X4HkhnTp_C1yTWZDA5MqwPWqE8ZFgGpoBJF5szcxxaDDH_Ck4NXbnNj7tBsd5c3BGQO52UjyTharqsjsIn_6xj9dnK9APVjiJH-yPxiXx9iXx0ci5KH5pXBb_0a2NzrleZ8vy69NT5nfetbeEby25_y_Na1MuFovSNe15MA8ebgOTpdHu-yDWD29Z6vd6PwA5-IJV/?1dmy=&urile=wcm%3Apath%3A%2FPortalUdeA%2FasPortalUdeA%2FasHomeUdeA%2FUnidades+Acad%21c3%21a9micas%2FIngenier%21c3%21ada%2FEstudiar+en+la+Facultad%2FPregrados%2FIngenier%21c3%21ada+de+Materiales%2FContenido%2FasContenidosMenu%2Fplan-estudios-ingenieria-materiales",
+                        "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/posgrados/maestria-ingenieria-materiales/%21ut/p/z1/jdBLDoIwEAbgs3iCTl9Al1gqKWChRh52Y1iRJooujOfXGHfEyuwm-eafzCCHBuTm8emn8eFv83h59ycXnY3lChMJVV6qBOxebwtjdu1Rc9R_QCIkwSmDCkrMIbWqMcdaNllBkFszDz8qhXXzAeDC8T1yoRWtjYNARTksQHGQYBntOhBC43qRkFDGwUKZkUhgos0C1JoqsMLwhuaasJh-QejN_w69X9t2AK-9njYvuPs3VA%21%21/?1dmy=&urile=wcm%3Apath%3A%2FPortalUdeA%2FasPortalUdeA%2FasHomeUdeA%2FUnidades+Acad%21c3%21a9micas%2FIngenier%21c3%21ada%2FEstudiar+en+la+Facultad%2FPosgrados%2FMaestr%21c3%21ada+en+Ingenier%21c3%21ada+de+Materiales%2FContenido%2FasMenuLateral%2Fperfiles",
+                        "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/%21ut/p/z1/zZRNb5tAEIb_Cj74iHZZdvk4Ygc74ASMWzthL9WUXZyt-Apgt-qvL0l7ca3gVJGl7mV3Vs-8I807GsTRI-IVHNUeelVXUAxxyq0vUcJ8g8zxXWxvGLaWMbNXtzYJI4oeXgHHnRPDo_gOrwyGvcRfR5_j-fomJIi_Jx-_cTz8vvwRgI_L7xBHvMmUQKlBHMGIg3WSU6FTwgzdcV2qM5FLJqXM4av7QmdV3_RPKG3qtofiICRMMXSn0VNdyt_vQ6UECNlpkIGYZOYE3FJl0E2xqvayUrJ9_RQDKrv-IBS0mqy0ArQcskPRg5jippX7FkR9nqQJqZXQy1ZBIbuhG_y0YcuV7-DkPpiFUbTw_RkdB6wlPgPCzRwn1NztsOsGRmz_DTgmZTjBqxtiuQYJojMgDkwfJ27E1uYyINQ2_wBjQ3PJtnSw3X7T9gVGD0clv6NtVbflMMaf_tHl24sVjA9WGJWfvQz2NeWta8qHC_uq8jtyXfmPWhte2lnDUlXfnp-5N-ySuurljx49_ofLpCm3223pmNbG3_j5vW_SNDz-nEX66cVTbzL5BaLb7So%21/?1dmy=&urile=wcm%3Apath%3A%2FPortalUdeA%2FasPortalUdeA%2FasHomeUdeA%2FUnidades+Acad%21c3%21a9micas%2FIngenier%21c3%21ada%2FEstudiar+en+la+Facultad%2FPregrados%2FIngenier%21c3%21ada+de+Materiales%2FContenido%2FasContenidosMenu%2Fperfil-ingenieria-materiales",
+                        "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/%21ut/p/z0/fYzLbsIwFER_xSyytnmEiGVVISpAILoCb6qR7yW9rWMH26n6-Y1gVVXqbs7ozGirz9oGfEmLIjHAj3yxy7fDqV5PZ89mf2xea7PcHOtm99LMtoeF3mr7vzA-yMftZp-0dTEU_i763MdU4AdiVAb5N73Hjh95CEIgzgoONHHzCVadOOTKSGg5CKd7SaPKuQwkSIqD8lBXuMEXUGX6xG0Cxb8jRaw6FE4Cz1n3n_byA_WeISk%21/",
+                        "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/%21ut/p/z1/1ZZdd5owGMe_il70MichJIRcqqUoWizOl8rNTiCxzSZgEe22Tz9st_WIq-wcxzkbN-Eh_-cX-OflAYbwHoap2OsHUegsFesyXobWRz-gjoF7aDRmE4osd0zZsM-w5xO4OBa4Q8dGwe2g6_n-jWNSC4ZlN3rn6iA4hyEM47TYFI9wucnyQqx3UokrJLbH0WOWqNf7XaqlkGrbErGQ7dhsC57oWGyvkE4fVKpV_vJQllK1LXZSi7yl0tZatFYi3q0LIa_QJlcPuZDZaVJLqlYiCpVrsVZld5ylRdkvs8NL_Aq2iUp3JUblK70GPxFagLfUw4dtYi3hMiLUsFgUgSjiAhAmFOB2LEFMY4psRJkwcNXIU6drjHzNt3kPGx2CRmhoUNQJnDt_Ou7dXXv4Jb92Is8MUJsfHkuOl4LTJecFlotOBN6khwJizueI84ExZlWBbRKKAjS8xhY38MA_EYwHpoMC7tM70x1gwswfgnM21Rm9LI1i7674kQEXe62e4SzN8qTcQR_e1gFD9ophGQOuVhgQSgngkeKACoFixjGxpYT9uhGu0YUjVPH9GwMFsxnvzm8HLnZJs3jrL-Mr5jSMNxvFT1GzeNwsnl2I986dD4daUlYj_enpKeyUJeNwEn8p4P2_VzOqNlXOypszk_xHlaIGbzSJ7_qkWbzVrDmsUfwcN4u_dGq9uiL-f2ywS37KNskssc2vWoPPE2fS_9b1gduL7OfpKvltswBLb39QnTajTqfd_g5-WJQ_/?1dmy=&urile=wcm%3Apath%3A%2FPortalUdeA%2FasPortalUdeA%2FasHomeUdeA%2FUnidades+Acad%21c3%21a9micas%2FIngenier%21c3%21ada%2FEstudiar+en+la+Facultad%2FPregrados%2FIngenier%21c3%21ada+de+Materiales%2FContenido%2FasContenidosMenu%2Fperfil-ingenieria-materiales",
+                        "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/perfil-ingenieria-materiales",
+                        "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/acerca-programa"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2578,12 +2866,30 @@
             "Institucion": "Universidad Pontificia Bolivariana",
             "Municipio": "Medellin",
             "URL": "www.upb.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.upb.edu.co/es/pregrados/ingenieria-nanotecnologia-medellin",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.upb.edu.co \"Ingenieria Nanotecnologia\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.upb.edu.co",
+                    "best_url": "https://www.upb.edu.co/es/pregrados/ingenieria-nanotecnologia-medellin",
+                    "supporting_urls": [
+                        "https://www.upb.edu.co/es/pregrados/ingenieria-nanotecnologia-medellin",
+                        "https://www.upb.edu.co/es/noticias/nanotecnologia-agroindustria-panela",
+                        "https://www.upb.edu.co/es/postgrados/maestria-nanobioingenieria",
+                        "https://www.upb.edu.co/es/formacion-continua/curso-nanotecnologia-innovacion-alimentos",
+                        "https://www.upb.edu.co/es/pregrados/ingenieria-industrial-medellin",
+                        "https://www.upb.edu.co/es/postgrados/maestria-ingenieria-profundizacion",
+                        "https://www.upb.edu.co/es/noticias/regulacion-nanotecnologia",
+                        "https://www.upb.edu.co/es/pregrados/ingenieria-ambiental-medellin"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2595,12 +2901,23 @@
             "Institucion": "Universidad Nacional Colombia",
             "Municipio": "Medellin",
             "URL": "www.medellin.unal.edu.co",
-            "URL_programa": "",
-            "Descripcion": "",
+            "URL_programa": "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/620-especializacion-en-nanotecnologia-aplicada-a-la-industria-de-petroleo-y-gas-nueva-oferta-academica-de-la-unal-medellin.html",
+            "Descripcion": "Generar conocimientos y habilidades para el desarrollo de nanopartículas y nanofluidos aplicados a la industria del petróleo y gas, con componentes teóricos y prácticos, laboratorios disponibles y enfoque en nanofluidos costo‐efectivos para mejorar extracción y tratamiento de hidrocarburos.",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.medellin.unal.edu.co \"Especializacion Nanotecnologia Aplicada Industria Petroleo Gas\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.medellin.unal.edu.co",
+                    "best_url": "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/620-especializacion-en-nanotecnologia-aplicada-a-la-industria-de-petroleo-y-gas-nueva-oferta-academica-de-la-unal-medellin.html",
+                    "supporting_urls": [
+                        "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/620-especializacion-en-nanotecnologia-aplicada-a-la-industria-de-petroleo-y-gas-nueva-oferta-academica-de-la-unal-medellin.html"
+                    ],
+                    "notes": "No se encontró información explícita sobre el perfil del aspirante o egresado ni el plan de estudios (pensum/malla curricular) en la página consultada. El campo perfil y plan_de_estudios se dejan como null, y no se proporcionaron URLs adicionales del mismo dominio que contengan malla, pensum, plan de estudios."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2612,12 +2929,30 @@
             "Institucion": "Universidad Nacional Colombia",
             "Municipio": "Medellin",
             "URL": "www.medellin.unal.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.medellin.unal.edu.co/~sede/noticias/5361-hablemos-lengua-senas.html",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.medellin.unal.edu.co \"Especializacion Ingenieria Materiales Procesos\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.medellin.unal.edu.co",
+                    "best_url": "https://www.medellin.unal.edu.co/~sede/noticias/5361-hablemos-lengua-senas.html",
+                    "supporting_urls": [
+                        "https://www.medellin.unal.edu.co/~sede/noticias/5361-hablemos-lengua-senas.html",
+                        "https://www.medellin.unal.edu.co/fuenteshistoricas/laboratorio/reglamento-de-consulta.html",
+                        "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/630-especializacion-en-inteligencia-artificial-nueva-en-la-unal.html",
+                        "https://www.medellin.unal.edu.co/~sede/noticias/5351-admisiones-2025-1.html",
+                        "https://www.medellin.unal.edu.co/~sede/noticias/5199-medellininvestiga2023.html",
+                        "https://www.medellin.unal.edu.co/~sede/noticias/2554-nueva-especializacion-en-eco-eficiencia-industrial-respuesta-al-compromiso-ambiental.html",
+                        "https://www.medellin.unal.edu.co/~sede/noticias/5316-ingenieros-capacidades-profes.html",
+                        "https://www.medellin.unal.edu.co/~sede/egresados/egresados/perfiles-profesionales/810-ingenieria-biologica.html"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2629,12 +2964,21 @@
             "Institucion": "Universidad Nacional Abierta Distancia Unad",
             "Municipio": "Bogota, D.C.",
             "URL": "www.unad.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.unad.edu.co/feria-virtual-posgrados/maestria-en-gerencia-de-proyectos.html",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.unad.edu.co \"Especializacion Procesos Alimentos Biomateriales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Bogota, D.C.",
+                    "allowed_domain": "www.unad.edu.co",
+                    "best_url": "https://www.unad.edu.co/feria-virtual-posgrados/maestria-en-gerencia-de-proyectos.html",
+                    "supporting_urls": [],
+                    "notes": "No se ha encontrado ninguna página en el dominio www.unad.edu.co que contenga información sobre la \"Especialización Procesos Alimentos Biomateriales\" con descripciones, perfil o plan de estudios (pensum/malla curricular)."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Virtual",
             "numero_creditos": 0,
@@ -2650,8 +2994,17 @@
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.udem.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.udem.edu.co",
+                    "best_url": "",
+                    "supporting_urls": [],
+                    "notes": "No se encontraron resultados en el dominio www.udem.edu.co para el programa de Ingeniería de Materiales que incluyeran 'descripción', 'perfil', 'plan de estudios', 'malla curricular' o 'pensum'. Posiblemente el programa no esté listado con ese nombre específico o no se encuentra públicamente disponible bajo esos términos en el dominio. Podría ser útil verificar variaciones del nombre del programa (por ejemplo, 'Ingeniería de Materiales UDEM') o contactar directamente con la institución para obtener información oficial."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2663,12 +3016,30 @@
             "Institucion": "Universidad Nacional Colombia",
             "Municipio": "Medellin",
             "URL": "www.medellin.unal.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/620-especializacion-en-nanotecnologia-aplicada-a-la-industria-de-petroleo-y-gas-nueva-oferta-academica-de-la-unal-medellin.html",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.medellin.unal.edu.co \"Especializacion Nanotecnologia Aplicada Industria Petroleo Gas\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.medellin.unal.edu.co",
+                    "best_url": "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/620-especializacion-en-nanotecnologia-aplicada-a-la-industria-de-petroleo-y-gas-nueva-oferta-academica-de-la-unal-medellin.html",
+                    "supporting_urls": [
+                        "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/620-especializacion-en-nanotecnologia-aplicada-a-la-industria-de-petroleo-y-gas-nueva-oferta-academica-de-la-unal-medellin.html",
+                        "https://www.medellin.unal.edu.co/~sede/administrativos/convocatorias-administrativos/",
+                        "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/630-especializacion-en-inteligencia-artificial-nueva-en-la-unal.html",
+                        "https://www.medellin.unal.edu.co/~sede/noticias/5248-makerspace.html",
+                        "https://www.medellin.unal.edu.co/~bitacoraun/academia-u-n/1201-a-partir-del-arbol-de-neem-producen-formulas-repelentes-contra-mosquitos-transmisores-de-malaria-y-dengue.html",
+                        "https://www.medellin.unal.edu.co/~sede/institutos.html",
+                        "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/343-facultad-de-ciencias-agrarias-comprometida-con-mantener-altos-estandares-de-calidad.html",
+                        "https://www.medellin.unal.edu.co/~sede/egresados/tramites-y-solicitudes/carne-de-egresado/26-egresados.html"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2680,12 +3051,21 @@
             "Institucion": "Institucion Universitaria Pascual Bravo",
             "Municipio": "Medellin",
             "URL": "www.pascualbravo.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.pascualbravo.edu.co/expotecnologica/pre-simposio/",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.pascualbravo.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.pascualbravo.edu.co",
+                    "best_url": "https://www.pascualbravo.edu.co/expotecnologica/pre-simposio/",
+                    "supporting_urls": [],
+                    "notes": "No se encontró información sobre un programa académico denominado “Ingeniería de Materiales” ni se hallaron apartados de descripción, perfil o malla curricular para dicho programa en el dominio autorizado (www.pascualbravo.edu.co)."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2697,12 +3077,30 @@
             "Institucion": "Universidad Autonoma Occidente",
             "Municipio": "Santiago Cali",
             "URL": "www.uao.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.uao.edu.co/programa/diseno-industrial/",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.uao.edu.co \"Especializacion Ingenieria Transformacion Materiales Plasticos\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Santiago Cali",
+                    "allowed_domain": "www.uao.edu.co",
+                    "best_url": "https://www.uao.edu.co/programa/diseno-industrial/",
+                    "supporting_urls": [
+                        "https://www.uao.edu.co/programa/diseno-industrial/",
+                        "https://www.uao.edu.co/programa/maestria-en-sistemas-energeticos/",
+                        "https://www.uao.edu.co/programa/ingenieria-electrica/",
+                        "https://www.uao.edu.co/programa/ingenieria-mecatronica/",
+                        "https://www.uao.edu.co/programa/ingenieria-mecanica/",
+                        "https://www.uao.edu.co/programa/ingenieria-electronica-y-telecomunicaciones-virtual/",
+                        "https://www.uao.edu.co/programa/especializacion-en-ingenieria-clinica/",
+                        "https://www.uao.edu.co/programa/maestria-en-ingenieria-de-desarrollo-de-productos/"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2714,12 +3112,30 @@
             "Institucion": "Universidad Valle",
             "Municipio": "Santiago Cali",
             "URL": "www.univalle.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.univalle.edu.co/lo-que-pasa-en-la-u/motivacion-cuantica-y-materiales-el-futuro-de-las-ingenierias",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.univalle.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Santiago Cali",
+                    "allowed_domain": "www.univalle.edu.co",
+                    "best_url": "https://www.univalle.edu.co/lo-que-pasa-en-la-u/motivacion-cuantica-y-materiales-el-futuro-de-las-ingenierias",
+                    "supporting_urls": [
+                        "https://www.univalle.edu.co/lo-que-pasa-en-la-u/motivacion-cuantica-y-materiales-el-futuro-de-las-ingenierias",
+                        "https://www.univalle.edu.co/lo-que-pasa-en-la-u/ingenieria-de-materiales-recibe-acreditacion-de-alta-calidad",
+                        "https://www.univalle.edu.co/facultades/ingenieria",
+                        "https://www.univalle.edu.co/proyeccion-internacional/univalle-un-centro-de-desarrollo-de-biomateriales-que-atrae-talento-internacional",
+                        "https://www.univalle.edu.co/formacion/pregrado",
+                        "https://www.univalle.edu.co/ciencia-y-tecnologia/ingenieria-para-transformar-el-aprendizaje",
+                        "https://www.univalle.edu.co/universidad-y-region/egresado-de-ingenieria-materiales-participa-en-gran-inventor-colombia",
+                        "https://www.univalle.edu.co/content/facultad-ingenieria"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2731,12 +3147,30 @@
             "Institucion": "Universidad Valle",
             "Municipio": "Santiago Cali",
             "URL": "www.univalle.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.univalle.edu.co/lo-que-pasa-en-la-u/motivacion-cuantica-y-materiales-el-futuro-de-las-ingenierias",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.univalle.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Santiago Cali",
+                    "allowed_domain": "www.univalle.edu.co",
+                    "best_url": "https://www.univalle.edu.co/lo-que-pasa-en-la-u/motivacion-cuantica-y-materiales-el-futuro-de-las-ingenierias",
+                    "supporting_urls": [
+                        "https://www.univalle.edu.co/lo-que-pasa-en-la-u/motivacion-cuantica-y-materiales-el-futuro-de-las-ingenierias",
+                        "https://www.univalle.edu.co/facultades/ingenieria",
+                        "https://www.univalle.edu.co/lo-que-pasa-en-la-u/ingenieria-de-materiales-recibe-acreditacion-de-alta-calidad",
+                        "https://www.univalle.edu.co/proyeccion-internacional/univalle-un-centro-de-desarrollo-de-biomateriales-que-atrae-talento-internacional",
+                        "https://www.univalle.edu.co/formacion/pregrado",
+                        "https://www.univalle.edu.co/lo-que-pasa-en-la-u/inicia-proceso-de-inscripcion-y-admision-para-posgrados-en-ingenieria",
+                        "https://www.univalle.edu.co/lo-que-pasa-en-la-u/ingenieria-industrial-celebra-40anos",
+                        "https://www.univalle.edu.co/ciencia-y-sociedad"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2748,12 +3182,27 @@
             "Institucion": "Universidad Antioquia",
             "Municipio": "Medellin",
             "URL": "www.udea.edu.co",
-            "URL_programa": "",
-            "Descripcion": "",
-            "Perfil": "",
-            "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "URL_programa": "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/plan-estudios-ingenieria-materiales",
+            "Descripcion": "El pregrado de Ingeniería de Materiales se ofrece de manera presencial en la ciudad de Medellín, con una duración de 10 semestres, cuenta con registro calificado 03304 del año 2018 y acreditación de alta calidad según resolución 003242 del año 2020. Su objetivo general es formar profesionales con competencias científicas, técnicas y humanísticas acordes a los requerimientos sociales, ambientales y de la industria.",
+            "Perfil": "La Ingeniería de Materiales es una carrera profesional dedicada a la selección, diseño, transformación, producción, caracterización y comercialización de materiales metálicos, poliméricos, cerámicos y compuestos, dotando al egresado de competencias científicas, técnicas y humanísticas, y fundamentos teórico-prácticos en preparación, caracterización, simulación, manejo de materias primas y procesamiento aplicables en diversos sectores industriales.",
+            "Plan_de_estudios": [
+                "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/plan-estudios-ingenieria-materiales"
+            ],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.udea.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.udea.edu.co",
+                    "best_url": "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/plan-estudios-ingenieria-materiales",
+                    "supporting_urls": [
+                        "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/plan-estudios-ingenieria-materiales",
+                        "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/contenido/ascontenidosmenu/perfil-ingenieria-materiales",
+                        "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/acerca-programa"
+                    ],
+                    "notes": "La descripción y objetivo general se extrajeron de la sección \"Acerca del programa\" (última actualización 27 feb. 2025) ([udea.edu.co](https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/%21ut/p/z0/fYzLbsIwFER_xSyytnmEiGVVISpAILoCb6qR7yW9rWMH26n6-Y1gVVXqbs7ozGirz9oGfEmLIjHAj3yxy7fDqV5PZ89mf2xea7PcHOtm99LMtoeF3mr7vzA-yMftZp-0dTEU_i763MdU4AdiVAb5N73Hjh95CEIgzgoONHHzCVadOOTKSGg5CKd7SaPKuQwkSIqD8lBXuMEXUGX6xG0Cxb8jRaw6FE4Cz1n3n_byA_WeISk%21/?utm_source=openai)). El perfil se obtuvo de la sección \"Perfil\" ([udea.edu.co](https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/contenido/ascontenidosmenu/perfil-ingenieria-materiales/%21ut/p/z0/fU_LTsMwEPwV55BjZZOSRhyrCoFKH8Ap9QWt7E3q4jipH4jPZ1NEUVWpp91ZzczOcMlrLh18mRai6R1Ywjs5-9i8lY93xUKsttV7KWZP27J6ea6K5eaeL7m8TSCHwq8X65bLAeJ-YlzT81r1LqIzmlYIZxA6dInXA_rGWGK2dEVvYNJBHKfFMPqZw_Eo51yedN-RBL2PYJNGyAWES7TvO_zdE70AjYGBAp2paQYPnVEQcvH36XTURMUQkzbgGTpmgTWgko2gczF4bD1Q0isR08j-Y-biXGoMcdmQbG41HD7l7nU1z34Al3FMnw%21%21/?urile=wcm%3Apath%3A%2FPortalUdeA%2FasPortalUdeA%2FasHomeUdeA%2FUnidades+Acad%21c3%21a9micas%2FIngenier%21c3%21ada%2FEstudiar+en+la+Facultad%2FPregrados%2FIngenier%21c3%21ada+de+Materiales%2FContenido%2FasContenidosMenu%2Fperfil-ingenieria-materiales&utm_source=openai)). El plan de estudios indica la existencia de dos versiones de malla curricular (6 y 7), con enlaces para descarga, aunque el contenido de las mallas no está directamente visible en la página; estas descargas están disponibles desde la URL indicada ([udea.edu.co](https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/plan-estudios-ingenieria-materiales?utm_source=openai))."
+                }
+            ],
             "acreditado": "Si",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2765,12 +3214,21 @@
             "Institucion": "Universidad Nacional Abierta Distancia Unad",
             "Municipio": "Bogota, D.C.",
             "URL": "www.unad.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.unad.edu.co/feria-virtual-posgrados/maestria-en-gerencia-de-proyectos.html",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.unad.edu.co \"Especializacion Procesos Alimentos Biomateriales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Bogota, D.C.",
+                    "allowed_domain": "www.unad.edu.co",
+                    "best_url": "https://www.unad.edu.co/feria-virtual-posgrados/maestria-en-gerencia-de-proyectos.html",
+                    "supporting_urls": [],
+                    "notes": "No se encontraron páginas dentro del dominio unad.edu.co que contengan información sobre la \"Especialización Procesos Alimentos Biomateriales\" (descripción, perfil o plan de estudios). Podría tratarse de un programa inexistente, con nombre diferente, o descontinuado."
+                }
+            ],
             "acreditado": "",
             "modalidad": "Virtual",
             "numero_creditos": 0,
@@ -2782,12 +3240,30 @@
             "Institucion": "Universidad Valle",
             "Municipio": "Santiago Cali",
             "URL": "www.univalle.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.univalle.edu.co/lo-que-pasa-en-la-u/motivacion-cuantica-y-materiales-el-futuro-de-las-ingenierias",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.univalle.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Santiago Cali",
+                    "allowed_domain": "www.univalle.edu.co",
+                    "best_url": "https://www.univalle.edu.co/lo-que-pasa-en-la-u/motivacion-cuantica-y-materiales-el-futuro-de-las-ingenierias",
+                    "supporting_urls": [
+                        "https://www.univalle.edu.co/lo-que-pasa-en-la-u/motivacion-cuantica-y-materiales-el-futuro-de-las-ingenierias",
+                        "https://www.univalle.edu.co/lo-que-pasa-en-la-u/ingenieria-de-materiales-recibe-acreditacion-de-alta-calidad",
+                        "https://www.univalle.edu.co/facultades/ingenieria",
+                        "https://www.univalle.edu.co/proyeccion-internacional/univalle-un-centro-de-desarrollo-de-biomateriales-que-atrae-talento-internacional",
+                        "https://www.univalle.edu.co/ciencia-y-tecnologia/univalle-y-argos-obtienen-patente-conjunta",
+                        "https://www.univalle.edu.co/formacion/pregrado",
+                        "https://www.univalle.edu.co/universidad-y-region/egresado-de-ingenieria-materiales-participa-en-gran-inventor-colombia",
+                        "https://www.univalle.edu.co/ciencia-y-sociedad"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "Si",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2799,12 +3275,30 @@
             "Institucion": "Universidad Pontificia Bolivariana",
             "Municipio": "Medellin",
             "URL": "www.upb.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.upb.edu.co/es/pregrados/ingenieria-nanotecnologia-medellin",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.upb.edu.co \"Ingenieria Nanotecnologia\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.upb.edu.co",
+                    "best_url": "https://www.upb.edu.co/es/pregrados/ingenieria-nanotecnologia-medellin",
+                    "supporting_urls": [
+                        "https://www.upb.edu.co/es/pregrados/ingenieria-nanotecnologia-medellin",
+                        "https://www.upb.edu.co/es/pregrados/ingenieria-nanotecnologia-medellin/proyecto-educativo",
+                        "https://www.upb.edu.co/es/pregrados/ingenieria-ambiental-medellin",
+                        "https://www.upb.edu.co/es/noticias/nanotecnologia-agroindustria-panela",
+                        "https://www.upb.edu.co/es/galeria-ingenieria-nantecnologia-medellin",
+                        "https://www.upb.edu.co/es/formacion-continua/curso-nanotecnologia-innovacion-alimentos",
+                        "https://www.upb.edu.co/es/noticias/sorponge-estudiantes-nanotecnologia-upb",
+                        "https://www.upb.edu.co/es/noticias/nanotecnologia-agroindustria-upb-fondo-innovacion-100kstrong"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2816,12 +3310,30 @@
             "Institucion": "Universidad Nacional Colombia",
             "Municipio": "Medellin",
             "URL": "www.medellin.unal.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/620-especializacion-en-nanotecnologia-aplicada-a-la-industria-de-petroleo-y-gas-nueva-oferta-academica-de-la-unal-medellin.html",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.medellin.unal.edu.co \"Especializacion Nanotecnologia Aplicada Industria Petroleo Gas\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.medellin.unal.edu.co",
+                    "best_url": "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/620-especializacion-en-nanotecnologia-aplicada-a-la-industria-de-petroleo-y-gas-nueva-oferta-academica-de-la-unal-medellin.html",
+                    "supporting_urls": [
+                        "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/620-especializacion-en-nanotecnologia-aplicada-a-la-industria-de-petroleo-y-gas-nueva-oferta-academica-de-la-unal-medellin.html",
+                        "https://www.medellin.unal.edu.co/~sede/noticias/5248-makerspace.html",
+                        "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/630-especializacion-en-inteligencia-artificial-nueva-en-la-unal.html",
+                        "https://www.medellin.unal.edu.co/~bitacoraun/academia-u-n/1201-a-partir-del-arbol-de-neem-producen-formulas-repelentes-contra-mosquitos-transmisores-de-malaria-y-dengue.html",
+                        "https://www.medellin.unal.edu.co/~sede/institutos.html",
+                        "https://www.medellin.unal.edu.co/~bitacoraun/academia-u-n/1222-isoespintanol-el-antioxidante-natural-util-para-distintos-sectores-de-la-industria.html",
+                        "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/343-facultad-de-ciencias-agrarias-comprometida-con-mantener-altos-estandares-de-calidad.html",
+                        "https://www.medellin.unal.edu.co/~sede/index.php/noticias/86-feliz-dia-maestros"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2833,12 +3345,30 @@
             "Institucion": "Universidad Nacional Colombia",
             "Municipio": "Medellin",
             "URL": "www.medellin.unal.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.medellin.unal.edu.co/~sede/noticias/5351-admisiones-2025-1.html",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.medellin.unal.edu.co \"Especializacion Ingenieria Materiales Procesos\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.medellin.unal.edu.co",
+                    "best_url": "https://www.medellin.unal.edu.co/~sede/noticias/5351-admisiones-2025-1.html",
+                    "supporting_urls": [
+                        "https://www.medellin.unal.edu.co/~sede/noticias/5351-admisiones-2025-1.html",
+                        "https://www.medellin.unal.edu.co/fuenteshistoricas/laboratorio/reglamento-de-consulta.html",
+                        "https://www.medellin.unal.edu.co/noticias/email_masivos/Comunicaciones/Proyectos-Estudiantes.pdf",
+                        "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/630-especializacion-en-inteligencia-artificial-nueva-en-la-unal.html",
+                        "https://www.medellin.unal.edu.co/~sede/noticias/2554-nueva-especializacion-en-eco-eficiencia-industrial-respuesta-al-compromiso-ambiental.html",
+                        "https://www.medellin.unal.edu.co/~sede/2-institucional.html",
+                        "https://www.medellin.unal.edu.co/~sede/noticias/3680-con-caracterizacion-de-residuos-solidos-la-unal-medellin-busca-disminuir-sus-desechos.html",
+                        "https://www.medellin.unal.edu.co/~sede/noticias/5316-ingenieros-capacidades-profes.html"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2850,12 +3380,24 @@
             "Institucion": "Universidad Valle",
             "Municipio": "Santiago Cali",
             "URL": "www.univalle.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.univalle.edu.co/otras-convocatorias/12-interna-principal/121-facultad-ingenieria",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.univalle.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Santiago Cali",
+                    "allowed_domain": "www.univalle.edu.co",
+                    "best_url": "https://www.univalle.edu.co/otras-convocatorias/12-interna-principal/121-facultad-ingenieria",
+                    "supporting_urls": [
+                        "https://www.univalle.edu.co/otras-convocatorias/12-interna-principal/121-facultad-ingenieria",
+                        "https://www.univalle.edu.co/docentes/2-uncategorised/635-facultad-de-ingenieria"
+                    ],
+                    "notes": "No se encontró en las páginas del dominio univalle.edu.co una descripción, perfil del programa ni plan de estudios (pensum/malla curricular) específico de Ingeniería de Materiales. Las URLs consultadas corresponden a páginas anfitrionas de la Facultad de Ingeniería y listas de escuelas, pero no contienen contenido acerca de la descripción, perfil o plan de estudios. Se requieren fuentes adicionales dentro del dominio univalle.edu.co que contengan esos detalles."
+                }
+            ],
             "acreditado": "Si",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2867,12 +3409,30 @@
             "Institucion": "Institucion Universitaria Pascual Bravo",
             "Municipio": "Medellin",
             "URL": "www.pascualbravo.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.pascualbravo.edu.co/expotecnologica/",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.pascualbravo.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.pascualbravo.edu.co",
+                    "best_url": "https://www.pascualbravo.edu.co/expotecnologica/",
+                    "supporting_urls": [
+                        "https://www.pascualbravo.edu.co/expotecnologica/",
+                        "https://www.pascualbravo.edu.co/expotecnologica/pre-simposio/",
+                        "https://www.pascualbravo.edu.co/images/facultades/mallas-curriculares/ingenieria/malla-curricular-ingenieria-electrica.pdf",
+                        "https://www.pascualbravo.edu.co/comunicaciones/index.php/boletines-prensa/2020/2355-boletin-7-inscripciones-abiertas-para-estudiar-en-la-institucion-universitaria-pascual-bravo",
+                        "https://www.pascualbravo.edu.co/images/facultades/mallas-curriculares/produccion-diseno/malla-curricular-gestion-diseno-textil-moda.pdf",
+                        "https://www.pascualbravo.edu.co/comunicaciones/index.php/boletines-prensa/2018/2230-boletin-28-la-institucion-universitaria-pascual-bravo-celebra-80-anos-de-tradicion-y-transformacion",
+                        "https://www.pascualbravo.edu.co/comunicaciones/index.php/boletines-prensa/2014/240-18",
+                        "https://www.pascualbravo.edu.co/comunicaciones/index.php/boletines-prensa/2018/2148-boletin-27-la-i-u-pascual-bravo-recibe-registro-calificado-para-programa-de-ingenieria-administrativa"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2884,12 +3444,30 @@
             "Institucion": "Universidad Santo Tomas",
             "Municipio": "Bucaramanga",
             "URL": "www.ustabuca.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.ustabuca.edu.co/index.php/tomas-noticias/item/3719-liderando-la-transformacion-santoto-bucaramanga-impulsa-la-economia-sostenible-en-santander?print=1&tmpl=component",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.ustabuca.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Bucaramanga",
+                    "allowed_domain": "www.ustabuca.edu.co",
+                    "best_url": "https://www.ustabuca.edu.co/index.php/tomas-noticias/item/3719-liderando-la-transformacion-santoto-bucaramanga-impulsa-la-economia-sostenible-en-santander?print=1&tmpl=component",
+                    "supporting_urls": [
+                        "https://www.ustabuca.edu.co/index.php/tomas-noticias/item/3719-liderando-la-transformacion-santoto-bucaramanga-impulsa-la-economia-sostenible-en-santander?print=1&tmpl=component",
+                        "https://www.ustabuca.edu.co/index.php/tomas-noticias/noticias-de-la-semana/item/2095-tecnologia-aerea-drone-y-fotogrametria-para-arquitectura-e-ingenieria-la-nueva-apuesta-de-formacion-de-la-santoto?print=1&tmpl=component",
+                        "https://www.ustabuca.edu.co/index.php/tomas-noticias/item/3733-bucaramanga-con-la-santoto-es-mas-internacional",
+                        "https://www.ustabuca.edu.co/index.php/tomas-noticias/item/3622-tomasino-gana-80-millones-de-pesos-con-su-idea-de-negocio-en-el-fondo-emprender",
+                        "https://www.ustabuca.edu.co/index.php/tomas-noticias/item/3322-programas-de-la-universidad-santo-tomas-son-destacados-a-nivel-nacional",
+                        "https://www.ustabuca.edu.co/index.php/tomas-noticias/item/3785-la-santo-tomas-se-une-para-una-gestion-ambiental-responsable-de-los-raee",
+                        "https://www.ustabuca.edu.co/index.php/tomas-noticias/item/3790-universidad-santo-tomas-y-primera-dama-de-santander-consolidan-alianza-para-transformar-comunidades-con-voluntariado-social-y-ambiental",
+                        "https://www.ustabuca.edu.co/index.php/tomas-noticias/item/3694-estudiantes-tomasinos-desarrollan-investigacion-para-el-tratamiento-de-enfermedades-endovasculares"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2901,12 +3479,21 @@
             "Institucion": "Universidad Autonoma Caribe- Uniautonoma",
             "Municipio": "Barranquilla",
             "URL": "www.uac.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.uac.edu.co/programacion-clases-modelo/ingeniero-por-un-dia/",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.uac.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Barranquilla",
+                    "allowed_domain": "www.uac.edu.co",
+                    "best_url": "https://www.uac.edu.co/programacion-clases-modelo/ingeniero-por-un-dia/",
+                    "supporting_urls": [],
+                    "notes": "No se ha encontrado información sobre el programa de Ingeniería de Materiales en el sitio web oficial de la Universidad Autónoma del Caribe (www.uac.edu.co). Ninguna de las páginas indexadas contiene referencias a “Ingeniería de Materiales” en cuanto a descripción, perfil o plan de estudios. Se recomienda verificar si el programa existe con otro nombre o consultar directamente con la universidad."
+                }
+            ],
             "acreditado": "",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2922,8 +3509,17 @@
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.udem.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.udem.edu.co",
+                    "best_url": "",
+                    "supporting_urls": [],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2935,12 +3531,30 @@
             "Institucion": "Fundacion Universitaria Monserrate -Unimonserrate",
             "Municipio": "Bogota, D.C.",
             "URL": "www.unimonserrate.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.unimonserrate.edu.co/wp-content/uploads/2022/12/Reglamento-Estudiantil-Modificado-2022-1.pdf",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.unimonserrate.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Bogota, D.C.",
+                    "allowed_domain": "www.unimonserrate.edu.co",
+                    "best_url": "https://www.unimonserrate.edu.co/wp-content/uploads/2022/12/Reglamento-Estudiantil-Modificado-2022-1.pdf",
+                    "supporting_urls": [
+                        "https://www.unimonserrate.edu.co/wp-content/uploads/2022/12/Reglamento-Estudiantil-Modificado-2022-1.pdf",
+                        "https://www.unimonserrate.edu.co/wp-content/uploads/2022/01/20200423-Informe-de-gestion-Unimonserrate-2019.pdf",
+                        "https://www.unimonserrate.edu.co/wp-content/uploads/2020/07/MAT-III-SEMESTRE-US-NOC..pdf",
+                        "https://www.unimonserrate.edu.co/wp-content/uploads/2017/10/pe-ingenieria-materiales.pdf",
+                        "https://www.unimonserrate.edu.co/wp-content/uploads/2024/02/Ingenieria-de-Sistemas.pdf",
+                        "https://www.unimonserrate.edu.co/wp-content/uploads/2021/02/lic_educacion_bilingue_F21.pdf",
+                        "https://www.unimonserrate.edu.co/wp-content/uploads/2022/01/20220114-Informe-de-gestion-2014-2018-Unimonserrate.pdf",
+                        "https://www.unimonserrate.edu.co/wp-content/uploads/2021/04/Informe-de-gesti%C3%B3n-2020.pdf"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2952,12 +3566,21 @@
             "Institucion": "Universidad Nacional Colombia",
             "Municipio": "Medellin",
             "URL": "www.medellin.unal.edu.co",
-            "URL_programa": "",
-            "Descripcion": "",
+            "URL_programa": "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/620-especializacion-en-nanotecnologia-aplicada-a-la-industria-de-petroleo-y-gas-nueva-oferta-academica-de-la-unal-medellin.html",
+            "Descripcion": "Generar conocimientos y habilidades para el desarrollo de nanopartículas y nanofluidos con el propósito de mejorar nanofluidos para incrementar la productividad y la obtención de petróleo y gas basados en un lineamiento costo–efectivo. Tiene componentes teóricos y prácticos, con laboratorios disponibles y posibilidad de desarrollar una monografía. Es parte de un ciclo propedéutico que permite continuar con maestría y doctorado.",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.medellin.unal.edu.co \"Especializacion Nanotecnologia Aplicada Industria Petroleo Gas\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.medellin.unal.edu.co",
+                    "best_url": "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/620-especializacion-en-nanotecnologia-aplicada-a-la-industria-de-petroleo-y-gas-nueva-oferta-academica-de-la-unal-medellin.html",
+                    "supporting_urls": [],
+                    "notes": "No se encontró información específica sobre 'perfil' ni un plan de estudios (pensum, malla curricular) en la página consultada. Tampoco se identificaron otras páginas del dominio que presenten el plan de estudios para esta especialización."
+                }
+            ],
             "acreditado": "N",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2969,12 +3592,26 @@
             "Institucion": "Universidad Antioquia",
             "Municipio": "Medellin",
             "URL": "www.udea.edu.co",
-            "URL_programa": "",
-            "Descripcion": "",
-            "Perfil": "",
-            "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "URL_programa": "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/acerca-programa",
+            "Descripcion": "El pregrado de Ingeniería de Materiales es un programa presencial en Medellín, con una duración de 10 semestres, registro calificado 03304 de 2018, y acreditado de alta calidad según la resolución 003242 de 2020. Su objetivo general es formar profesionales con competencias científicas, técnicas y humanísticas acordes a los requerimientos sociales, ambientales y de la industria.",
+            "Perfil": "Carrera dedicada a la selección, diseño, transformación, producción, caracterización y comercialización de materiales metálicos, poliméricos, cerámicos y compuestos. El egresado adquiere competencias científicas, técnicas y humanísticas, fundamentos teórico-prácticos en preparación, caracterización, simulación, manejo de materias primas y procesamiento de materiales, aplicables en sectores como minería, metalmecánico, construcción, plásticos, cerámicos, vidrio, energía, gas y petróleo, reciclaje, protección de estructuras, transporte y comercialización.",
+            "Plan_de_estudios": [
+                "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/plan-estudios-ingenieria-materiales"
+            ],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.udea.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.udea.edu.co",
+                    "best_url": "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/acerca-programa",
+                    "supporting_urls": [
+                        "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/perfil-ingenieria-materiales",
+                        "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/plan-estudios-ingenieria-materiales"
+                    ],
+                    "notes": "Descripción y objetivo general extraídos de «Acerca del programa» página (última actualización 27 feb. 2025) ([udea.edu.co](https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/acerca-programa?utm_source=openai)). Perfil extraído de página «Perfil» ([udea.edu.co](https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-materiales/Contenido/asContenidosMenu/perfil-ingenieria-materiales?utm_source=openai)). Se reconocen mallas curriculares disponibles en la sección de plan de estudios, pero los contenidos completos no están en la página; solo se ofrecen versiones descargables (Versions 6 y 7). Por ello, 'plan_de_estudios' queda como null y se incluye la URL para descarga."
+                }
+            ],
             "acreditado": "S",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -2986,12 +3623,30 @@
             "Institucion": "Universidad Valle",
             "Municipio": "Santiago Cali",
             "URL": "www.univalle.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.univalle.edu.co/lo-que-pasa-en-la-u/ingenieria-de-materiales-recibe-acreditacion-de-alta-calidad",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.univalle.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Santiago Cali",
+                    "allowed_domain": "www.univalle.edu.co",
+                    "best_url": "https://www.univalle.edu.co/lo-que-pasa-en-la-u/ingenieria-de-materiales-recibe-acreditacion-de-alta-calidad",
+                    "supporting_urls": [
+                        "https://www.univalle.edu.co/lo-que-pasa-en-la-u/ingenieria-de-materiales-recibe-acreditacion-de-alta-calidad",
+                        "https://www.univalle.edu.co/lo-que-pasa-en-la-u/motivacion-cuantica-y-materiales-el-futuro-de-las-ingenierias",
+                        "https://www.univalle.edu.co/facultades/ingenieria",
+                        "https://www.univalle.edu.co/proyeccion-internacional/univalle-un-centro-de-desarrollo-de-biomateriales-que-atrae-talento-internacional",
+                        "https://www.univalle.edu.co/formacion/pregrado",
+                        "https://www.univalle.edu.co/ciencia-y-tecnologia/univalle-y-argos-obtienen-patente-conjunta",
+                        "https://www.univalle.edu.co/universidad-y-region/egresado-de-ingenieria-materiales-participa-en-gran-inventor-colombia",
+                        "https://www.univalle.edu.co/ciencia-y-tecnologia/ingenieria-para-transformar-el-aprendizaje"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "S",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -3007,8 +3662,17 @@
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.udem.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.udem.edu.co",
+                    "best_url": "",
+                    "supporting_urls": [],
+                    "notes": "No se encontraron resultados en el dominio oficial www.udem.edu.co para el programa 'Ingeniería de Materiales' que incluyan descripciones, perfil, plan de estudios, malla curricular, pensum, o similares. Posible causa: el programa podría no existir o estar listado bajo nombre distinto (por ejemplo, sin acentos, o en otra facultad), o la página no contiene esas palabras clave exactas. Puede ser útil revisar manualmente el sitio oficial o verificar el nombre exacto del programa."
+                }
+            ],
             "acreditado": "N",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -3020,12 +3684,30 @@
             "Institucion": "Universidad Nacional Colombia",
             "Municipio": "Medellin",
             "URL": "www.medellin.unal.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.medellin.unal.edu.co/~sede/noticias/5361-hablemos-lengua-senas.html",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.medellin.unal.edu.co \"Especializacion Ingenieria Materiales Procesos\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.medellin.unal.edu.co",
+                    "best_url": "https://www.medellin.unal.edu.co/~sede/noticias/5361-hablemos-lengua-senas.html",
+                    "supporting_urls": [
+                        "https://www.medellin.unal.edu.co/~sede/noticias/5361-hablemos-lengua-senas.html",
+                        "https://www.medellin.unal.edu.co/fuenteshistoricas/laboratorio/reglamento-de-consulta.html",
+                        "https://www.medellin.unal.edu.co/~sede/noticias/5351-admisiones-2025-1.html",
+                        "https://www.medellin.unal.edu.co/noticias/email_masivos/Comunicaciones/Proyectos-Estudiantes.pdf",
+                        "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/630-especializacion-en-inteligencia-artificial-nueva-en-la-unal.html",
+                        "https://www.medellin.unal.edu.co/~sede/noticias/2554-nueva-especializacion-en-eco-eficiencia-industrial-respuesta-al-compromiso-ambiental.html",
+                        "https://www.medellin.unal.edu.co/~sede/2-institucional.html",
+                        "https://www.medellin.unal.edu.co/~sede/noticias/3680-con-caracterizacion-de-residuos-solidos-la-unal-medellin-busca-disminuir-sus-desechos.html"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "N",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -3037,12 +3719,30 @@
             "Institucion": "Universidad Pontificia Bolivariana",
             "Municipio": "Medellin",
             "URL": "www.upb.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.upb.edu.co/es/pregrados/ingenieria-nanotecnologia-medellin",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.upb.edu.co \"Ingenieria Nanotecnologia\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.upb.edu.co",
+                    "best_url": "https://www.upb.edu.co/es/pregrados/ingenieria-nanotecnologia-medellin",
+                    "supporting_urls": [
+                        "https://www.upb.edu.co/es/pregrados/ingenieria-nanotecnologia-medellin",
+                        "https://www.upb.edu.co/es/pregrados/ingenieria-ambiental-medellin",
+                        "https://www.upb.edu.co/es/postgrados/doctorado-ingenieria-medellin",
+                        "https://www.upb.edu.co/es/postgrados/maestria-nanobioingenieria",
+                        "https://www.upb.edu.co/es/pregrados/ingenieria-quimica-medellin",
+                        "https://www.upb.edu.co/es/pregrados/ingenieria-electronica-medellin",
+                        "https://www.upb.edu.co/es/pregrados/ingenieria-industrial-medellin",
+                        "https://www.upb.edu.co/es/pregrados/ingenieria-sistemas-medellin"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "N",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -3054,12 +3754,30 @@
             "Institucion": "Universidad Autonoma Caribe- Uniautonoma",
             "Municipio": "Barranquilla",
             "URL": "www.uac.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.uac.edu.co/programacion-clases-modelo/ingeniero-por-un-dia/",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.uac.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Barranquilla",
+                    "allowed_domain": "www.uac.edu.co",
+                    "best_url": "https://www.uac.edu.co/programacion-clases-modelo/ingeniero-por-un-dia/",
+                    "supporting_urls": [
+                        "https://www.uac.edu.co/programacion-clases-modelo/ingeniero-por-un-dia/",
+                        "https://www.uac.edu.co/pregrado/ingenieria-mecatronica/",
+                        "https://www.uac.edu.co/facultad-de-ingenieria/",
+                        "https://www.uac.edu.co/pregrado/ingenieria-electronica/",
+                        "https://www.uac.edu.co/pregrado/ingenieria-de-sistemas/",
+                        "https://www.uac.edu.co/pregrado/ingenieria-sistemas/",
+                        "https://www.uac.edu.co/team/",
+                        "https://www.uac.edu.co/ingeniero-por-un-dia-una-experiencia-uniautonoma/"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "N",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -3071,12 +3789,21 @@
             "Institucion": "Universidad Nacional Abierta Distancia Unad",
             "Municipio": "Bogota, D.C.",
             "URL": "www.unad.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.unad.edu.co/feria-virtual-posgrados/maestria-en-gerencia-de-proyectos.html",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.unad.edu.co \"Especializacion Procesos Alimentos Biomateriales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Bogota, D.C.",
+                    "allowed_domain": "www.unad.edu.co",
+                    "best_url": "https://www.unad.edu.co/feria-virtual-posgrados/maestria-en-gerencia-de-proyectos.html",
+                    "supporting_urls": [],
+                    "notes": "No se encontró información relacionada con la “Especialización Procesos Alimentos Biomateriales” en el dominio www.unad.edu.co. Las búsquedas no arrojaron resultados sobre este programa. Por favor verifique el nombre exacto del programa o consulte directamente en el sitio oficial de la UNAD."
+                }
+            ],
             "acreditado": "N",
             "modalidad": "Virtual",
             "numero_creditos": 0,
@@ -3088,12 +3815,23 @@
             "Institucion": "Fundacion Universitaria Monserrate -Unimonserrate",
             "Municipio": "Bogota, D.C.",
             "URL": "www.unimonserrate.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.unimonserrate.edu.co/wp-content/uploads/2017/10/pe-ingenieria-materiales.pdf",
             "Descripcion": "",
             "Perfil": "",
-            "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "Plan_de_estudios": [
+                "https://www.unimonserrate.edu.co/wp-content/uploads/2017/10/pe-ingenieria-materiales.pdf"
+            ],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.unimonserrate.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Bogota, D.C.",
+                    "allowed_domain": "www.unimonserrate.edu.co",
+                    "best_url": "https://www.unimonserrate.edu.co/wp-content/uploads/2017/10/pe-ingenieria-materiales.pdf",
+                    "supporting_urls": [],
+                    "notes": "No se encontraron en el documento una sección explícita de descripción general del programa ni el perfil del egresado. Si estos elementos están disponibles en otras páginas del mismo dominio, no fueron hallados en esta búsqueda."
+                }
+            ],
             "acreditado": "N",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -3105,12 +3843,30 @@
             "Institucion": "Universidad Valle",
             "Municipio": "Santiago Cali",
             "URL": "www.univalle.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.univalle.edu.co/lo-que-pasa-en-la-u/motivacion-cuantica-y-materiales-el-futuro-de-las-ingenierias",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.univalle.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Santiago Cali",
+                    "allowed_domain": "www.univalle.edu.co",
+                    "best_url": "https://www.univalle.edu.co/lo-que-pasa-en-la-u/motivacion-cuantica-y-materiales-el-futuro-de-las-ingenierias",
+                    "supporting_urls": [
+                        "https://www.univalle.edu.co/lo-que-pasa-en-la-u/motivacion-cuantica-y-materiales-el-futuro-de-las-ingenierias",
+                        "https://www.univalle.edu.co/lo-que-pasa-en-la-u/ingenieria-de-materiales-recibe-acreditacion-de-alta-calidad",
+                        "https://www.univalle.edu.co/facultades/ingenieria",
+                        "https://www.univalle.edu.co/formacion/pregrado",
+                        "https://www.univalle.edu.co/lo-que-pasa-en-la-u/conozca-primer-programa-virtual-univalle",
+                        "https://www.univalle.edu.co/proyeccion-internacional/univalle-un-centro-de-desarrollo-de-biomateriales-que-atrae-talento-internacional",
+                        "https://www.univalle.edu.co/universidad-y-region/egresado-de-ingenieria-materiales-participa-en-gran-inventor-colombia",
+                        "https://www.univalle.edu.co/ciencia-y-sociedad"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "S",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -3122,12 +3878,30 @@
             "Institucion": "Universidad Nacional Colombia",
             "Municipio": "Medellin",
             "URL": "www.medellin.unal.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.medellin.unal.edu.co/~sede/noticias/5351-admisiones-2025-1.html",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.medellin.unal.edu.co \"Especializacion Ingenieria Materiales Procesos\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.medellin.unal.edu.co",
+                    "best_url": "https://www.medellin.unal.edu.co/~sede/noticias/5351-admisiones-2025-1.html",
+                    "supporting_urls": [
+                        "https://www.medellin.unal.edu.co/~sede/noticias/5351-admisiones-2025-1.html",
+                        "https://www.medellin.unal.edu.co/~sede/la-sede-en-los-medios/5399-posgrados-unal.html",
+                        "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/630-especializacion-en-inteligencia-artificial-nueva-en-la-unal.html",
+                        "https://www.medellin.unal.edu.co/~sede/noticias/2554-nueva-especializacion-en-eco-eficiencia-industrial-respuesta-al-compromiso-ambiental.html",
+                        "https://www.medellin.unal.edu.co/~sede/noticias/3680-con-caracterizacion-de-residuos-solidos-la-unal-medellin-busca-disminuir-sus-desechos.html",
+                        "https://www.medellin.unal.edu.co/~sede/educacioncontinua/2-institucional/374-tarifas-2025.html",
+                        "https://www.medellin.unal.edu.co/~sede/noticias/5248-makerspace.html",
+                        "https://www.medellin.unal.edu.co/fuenteshistoricas/laboratorio/reglamento-de-consulta.html"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "No",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -3139,12 +3913,21 @@
             "Institucion": "Universidad Nacional Abierta Distancia Unad",
             "Municipio": "Bogota, D.C.",
             "URL": "www.unad.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.unad.edu.co/feria-virtual-posgrados/maestria-en-gerencia-de-proyectos.html",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.unad.edu.co \"Especializacion Procesos Alimentos Biomateriales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Bogota, D.C.",
+                    "allowed_domain": "www.unad.edu.co",
+                    "best_url": "https://www.unad.edu.co/feria-virtual-posgrados/maestria-en-gerencia-de-proyectos.html",
+                    "supporting_urls": [],
+                    "notes": "No se encontraron resultados en el dominio www.unad.edu.co relacionados con la Especialización en Procesos Alimentos Biomateriales. Solo se halló una mención genérica del programa “Alimentos y Biomateriales” en un documento COVID‑19, sin información de descripción, perfil o plan de estudios ([unad.edu.co](https://www.unad.edu.co/images/covid-19/documentos/ECBTI_.pdf?utm_source=openai))."
+                }
+            ],
             "acreditado": "No",
             "modalidad": "Virtual",
             "numero_creditos": 0,
@@ -3156,12 +3939,25 @@
             "Institucion": "Universidad Pontificia Bolivariana",
             "Municipio": "Medellin",
             "URL": "www.upb.edu.co",
-            "URL_programa": "",
-            "Descripcion": "",
-            "Perfil": "",
-            "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "URL_programa": "https://www.upb.edu.co/es/pregrados/ingenieria-nanotecnologia-medellin",
+            "Descripcion": "El programa de Ingeniería en Nanotecnología en Medellín se ocupa del uso, adquisición, desarrollo, implementación, evaluación, control o sugerencia del uso, aplicación, desarrollo o adquisición de materiales o componentes que trabajen a escala nanométrica con el objeto fundamental de generar progreso y valor permanentes para la organización que lo produce, usa o comercializa. El programa combina ciencias básicas (matemáticas, química, física y biología), ciencias básicas de la ingeniería y áreas clave como otras ramas de la ingeniería, arquitectura y diseño industrial, integrando además análisis ético, económico y gestión de tecnología e innovación. Su diferencia radica en el enfoque en la nanoescala y las oportunidades y retos que esta plantea en múltiples sectores económicos y productivos.",
+            "Perfil": "El aspirante al programa debe identificarse con la misión, visión y valores de la universidad y el programa; apasionarse por la investigación interdisciplinaria; tener capacidad para adaptar la nanotecnología de manera responsable en entornos productivos; y buscar desarrollarse como ingeniero investigador, docente, administrador o emprendedor a nivel global, demostrando liderazgo, trabajo en equipo, interés por la ciencia y respeto por la multidisciplinariedad. El egresado será un profesional con formación básica, técnica y humana para identificar problemas basados en ciencia y tecnología a nanoescala; diseñar e implementar modelos productivos usando nanotecnología; generar ventajas competitivas a través de innovación y gestión tecnológica; y analizar factores de riesgo técnicos, éticos o económicos relacionados con la nanotecnología.",
+            "Plan_de_estudios": [
+                "https://www.upb.edu.co/es/pregrados/ingenieria-nanotecnologia-medellin"
+            ],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.upb.edu.co \"Ingenieria Nanotecnologia\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.upb.edu.co",
+                    "best_url": "https://www.upb.edu.co/es/pregrados/ingenieria-nanotecnologia-medellin",
+                    "supporting_urls": [
+                        "https://www.upb.edu.co/es/pregrados/ingenieria-nanotecnologia-medellin/proyecto-educativo"
+                    ],
+                    "notes": "La página principal contiene la descripción, el perfil de ingreso y el perfil de egreso, así como el plan de estudios detallado semestre a semestre, por lo que se usó como mejor fuente. No se encontró una página separada exclusiva para el plan de estudios en el dominio, así que se incluye la misma página como plan_url."
+                }
+            ],
             "acreditado": "No",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -3173,12 +3969,30 @@
             "Institucion": "Universidad Nacional Colombia",
             "Municipio": "Medellin",
             "URL": "www.medellin.unal.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/620-especializacion-en-nanotecnologia-aplicada-a-la-industria-de-petroleo-y-gas-nueva-oferta-academica-de-la-unal-medellin.html",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.medellin.unal.edu.co \"Especializacion Nanotecnologia Aplicada Industria Petroleo Gas\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.medellin.unal.edu.co",
+                    "best_url": "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/620-especializacion-en-nanotecnologia-aplicada-a-la-industria-de-petroleo-y-gas-nueva-oferta-academica-de-la-unal-medellin.html",
+                    "supporting_urls": [
+                        "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/620-especializacion-en-nanotecnologia-aplicada-a-la-industria-de-petroleo-y-gas-nueva-oferta-academica-de-la-unal-medellin.html",
+                        "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/630-especializacion-en-inteligencia-artificial-nueva-en-la-unal.html",
+                        "https://www.medellin.unal.edu.co/~sede/noticias/5248-makerspace.html",
+                        "https://www.medellin.unal.edu.co/~sede/institutos.html",
+                        "https://www.medellin.unal.edu.co/~bitacoraun/academia-u-n/1201-a-partir-del-arbol-de-neem-producen-formulas-repelentes-contra-mosquitos-transmisores-de-malaria-y-dengue.html",
+                        "https://www.medellin.unal.edu.co/~bitacoraun/la-unal-cuenta/343-facultad-de-ciencias-agrarias-comprometida-con-mantener-altos-estandares-de-calidad.html",
+                        "https://www.medellin.unal.edu.co/~bitacoraun/academia-u-n/1222-isoespintanol-el-antioxidante-natural-util-para-distintos-sectores-de-la-industria.html",
+                        "https://www.medellin.unal.edu.co/~sede/index.php/noticias/86-feliz-dia-maestros"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "No",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -3190,12 +4004,30 @@
             "Institucion": "Institucion Universitaria Pascual Bravo",
             "Municipio": "Medellin",
             "URL": "www.pascualbravo.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.pascualbravo.edu.co/comunicaciones/index.php/boletines-prensa/2020/2355-boletin-7-inscripciones-abiertas-para-estudiar-en-la-institucion-universitaria-pascual-bravo",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.pascualbravo.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.pascualbravo.edu.co",
+                    "best_url": "https://www.pascualbravo.edu.co/comunicaciones/index.php/boletines-prensa/2020/2355-boletin-7-inscripciones-abiertas-para-estudiar-en-la-institucion-universitaria-pascual-bravo",
+                    "supporting_urls": [
+                        "https://www.pascualbravo.edu.co/comunicaciones/index.php/boletines-prensa/2020/2355-boletin-7-inscripciones-abiertas-para-estudiar-en-la-institucion-universitaria-pascual-bravo",
+                        "https://www.pascualbravo.edu.co/comunicaciones/index.php/boletines-prensa/2018/1992-boletin-20-la-institucion-universitaria-pascual-bravo-abrio-las-inscripciones-para-sus-25-programas-academicos",
+                        "https://www.pascualbravo.edu.co/expotecnologica/pre-simposio/",
+                        "https://www.pascualbravo.edu.co/expotecnologica/",
+                        "https://www.pascualbravo.edu.co/comunicaciones/index.php/boletines-prensa/2014/240-18",
+                        "https://www.pascualbravo.edu.co/comunicaciones/index.php/boletines-prensa/2018/2148-boletin-27-la-i-u-pascual-bravo-recibe-registro-calificado-para-programa-de-ingenieria-administrativa",
+                        "https://www.pascualbravo.edu.co/images/facultades/mallas-curriculares/ingenieria/malla-curricular-tecnologia-sistemas-electromecanicos.pdf",
+                        "https://www.pascualbravo.edu.co/expotecnologica/robotica/"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "No",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -3211,8 +4043,17 @@
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.udem.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Medellin",
+                    "allowed_domain": "www.udem.edu.co",
+                    "best_url": "",
+                    "supporting_urls": [],
+                    "notes": "No se encontró ninguna página en el dominio www.udem.edu.co que contenga información sobre 'Ingeniería de Materiales' incluyendo planes de estudio, perfil o descripción del programa académico. Por favor, verifica el nombre del programa o considera proporcionar una denominación alternativa exacta."
+                }
+            ],
             "acreditado": "No",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -3224,12 +4065,25 @@
             "Institucion": "Fundacion Universitaria Monserrate -Unimonserrate",
             "Municipio": "Bogota, D.C.",
             "URL": "www.unimonserrate.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.unimonserrate.edu.co/wp-content/uploads/2017/10/pe-ingenieria-materiales.pdf",
             "Descripcion": "",
             "Perfil": "",
-            "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "Plan_de_estudios": [
+                "https://www.unimonserrate.edu.co/wp-content/uploads/2017/10/pe-ingenieria-materiales.pdf"
+            ],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.unimonserrate.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Bogota, D.C.",
+                    "allowed_domain": "www.unimonserrate.edu.co",
+                    "best_url": "https://www.unimonserrate.edu.co/wp-content/uploads/2017/10/pe-ingenieria-materiales.pdf",
+                    "supporting_urls": [
+                        "https://www.unimonserrate.edu.co/wp-content/uploads/2017/10/pe-ingenieria-materiales.pdf"
+                    ],
+                    "notes": "No se encontró una descripción general del programa ni un perfil del aspirante o egresado en la fuente disponible. Solo se encontró la malla o plan de estudios."
+                }
+            ],
             "acreditado": "No",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -3241,12 +4095,28 @@
             "Institucion": "Universidad Nacional Colombia",
             "Municipio": "Manizales",
             "URL": "www.manizales.unal.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.manizales.unal.edu.co/",
             "Descripcion": "",
             "Perfil": "",
             "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.manizales.unal.edu.co \"Especializacion Nanotecnologia\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Manizales",
+                    "allowed_domain": "www.manizales.unal.edu.co",
+                    "best_url": "https://www.manizales.unal.edu.co/",
+                    "supporting_urls": [
+                        "https://www.manizales.unal.edu.co/",
+                        "https://www.manizales.unal.edu.co/index.php/administracion-de-empresas",
+                        "https://www.manizales.unal.edu.co/index.php?id=1",
+                        "https://www.manizales.unal.edu.co/?utm_source=openai",
+                        "https://www.manizales.unal.edu.co/index.php/administracion-de-empresas?utm_source=openai",
+                        "https://www.manizales.unal.edu.co/index.php?id=1&utm_source=openai"
+                    ],
+                    "notes": "El modelo no devolvió JSON parseable; revisa resp.output_text."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -3258,12 +4128,26 @@
             "Institucion": "Fundacion Universitaria Monserrate -Unimonserrate",
             "Municipio": "Bogota, D.C.",
             "URL": "www.unimonserrate.edu.co",
-            "URL_programa": "",
+            "URL_programa": "https://www.unimonserrate.edu.co/wp-content/uploads/2017/10/pe-ingenieria-materiales.pdf",
             "Descripcion": "",
             "Perfil": "",
-            "Plan_de_estudios": [],
-            "iteraciones": 0,
-            "queries": [],
+            "Plan_de_estudios": [
+                "https://www.unimonserrate.edu.co/wp-content/uploads/2017/10/pe-ingenieria-materiales.pdf"
+            ],
+            "iteraciones": 1,
+            "queries": [
+                {
+                    "provider": "openai_web_search",
+                    "query": "site:www.unimonserrate.edu.co \"Ingenieria Materiales\" (\"plan de estudios\" OR \"malla curricular\" OR pensum OR perfil OR descripción OR descripcion) Bogota, D.C.",
+                    "allowed_domain": "www.unimonserrate.edu.co",
+                    "best_url": "https://www.unimonserrate.edu.co/wp-content/uploads/2017/10/pe-ingenieria-materiales.pdf",
+                    "supporting_urls": [
+                        "https://www.unimonserrate.edu.co/wp-content/uploads/2017/10/pe-ingenieria-materiales.pdf",
+                        "https://www.unimonserrate.edu.co/wp-content/uploads/2022/01/20200423-Informe-de-gestion-Unimonserrate-2019.pdf"
+                    ],
+                    "notes": "No se encontró una sección explícita de descripción general del programa (descripcion) ni perfil del egresado (perfil) en las fuentes disponibles. Estos campos fueron dejados como null."
+                }
+            ],
             "acreditado": "null",
             "modalidad": "Presencial",
             "numero_creditos": 0,
@@ -3271,5 +4155,5 @@
             "periodicidad": "Anual"
         }
     ],
-    "target_index": 1
+    "target_index": -1
 }
