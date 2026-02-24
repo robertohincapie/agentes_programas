@@ -16,6 +16,7 @@ class Nivel(str, Enum):
     licenciatura = "licenciatura"
 
 class programa_nacional(BaseModel):
+    Snies: str
     Programa: str
     Institucion: str
     Municipio: str

@@ -443,21 +443,61 @@ def lector_snies(state) -> dict:
         )
 
     respuesta["snies"]["num_estudiantes_tiempo"] = resumen_num_est
-    print('Maestro 5, columnas: ', maestro5.columns)
+    #print('Maestro 5, columnas: ', maestro5.columns)
     # ------------------------------------------------------------------
     # 6. Prompt con listado de programas (para otro agente)
     # ------------------------------------------------------------------
+    def normalizar(texto):
+        if pd.isna(texto):
+            return ""
+        texto = str(texto).strip().lower()
+        # quitar tildes
+        texto = unicodedata.normalize("NFD", texto)
+        texto = "".join(c for c in texto if unicodedata.category(c) != "Mn")
+        return texto
+    def best_acreditado(series: pd.Series) -> str:
+        valores = series.dropna().map(normalizar)
+        if any(v in ("si", "s") for v in valores):
+            return "Si"
+        if any(v in ("no", "n") for v in valores):
+            return "No"
+        else:
+            return "No"
+    def best_entero(series: pd.Series) -> int:
+        nums = pd.to_numeric(series, errors="coerce")
+        nums = nums.dropna()
+        if len(nums) == 0:
+            return 0
+        return int(nums.max())
+    
+    def best_periodicidad(series: pd.Series) -> str:
+        # Eliminar nulos reales
+        s = series.dropna().astype(str).str.strip()
+        s = s[~s.str.lower().isin(["", "null", "none", "nan", "na", "n/a", "-"])]
+        if len(s) == 0:
+            return ""
+        return s.loc[s.str.len().idxmax()]
+    
+    maestro6=maestro5[["INSTITUCION__y", "PROGRAMA_ACADEMICO", "MUNICIPIO_PROGRAMA","PAGINA_WEB", 'PROGRAMA_ACREDITADO', 'MODALIDAD', 'NUMERO_CREDITOS', 'NUMERO_PERIODO', 'PERIODICIDAD', 'CODIGO_SNIES']].drop_duplicates()
+    maestro6=maestro6.groupby(by=["CODIGO_SNIES"]).agg({
+        "INSTITUCION__y": "first",
+        "PROGRAMA_ACADEMICO": "first",
+        "MUNICIPIO_PROGRAMA": "first",
+        "PAGINA_WEB": "first",
+        'PROGRAMA_ACREDITADO': best_acreditado,
+        'MODALIDAD': 'first',
+        'NUMERO_CREDITOS': best_entero,
+        'NUMERO_PERIODO': best_entero,
+        'PERIODICIDAD': best_periodicidad}).reset_index()
+    
+
     programas = []
     i = 1
-    for ies_name, prg, mpio, url, acreditado, modalidad, num_creditos, num_periodo, periodicidad in (
-        maestro5[["INSTITUCION__y", "PROGRAMA_ACADEMICO", "MUNICIPIO_PROGRAMA","PAGINA_WEB", 'PROGRAMA_ACREDITADO', 'MODALIDAD', 'NUMERO_CREDITOS', 'NUMERO_PERIODO', 'PERIODICIDAD',
-]]
-        .drop_duplicates()
-        .values
-    ):
+    for snies, ies_name, prg, mpio, url, acreditado, modalidad, num_creditos, num_periodo, periodicidad in maestro6.values:
         url=str(url).lower()
         programas.append(
             programa_nacional(
+                Snies=snies,
                 Programa=prg,
                 Institucion=ies_name,
                 Municipio=mpio,
